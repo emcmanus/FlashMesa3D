@@ -1,0 +1,431 @@
+# DO NOT DELETE
+
+pb_buffer_fenced.o: ../../../../src/gallium/include/pipe/p_config.h
+pb_buffer_fenced.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_buffer_fenced.o: ../../../../src/gallium/include/pipe/p_config.h
+pb_buffer_fenced.o: /usr/include/stdlib.h /usr/include/Availability.h
+pb_buffer_fenced.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+pb_buffer_fenced.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+pb_buffer_fenced.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+pb_buffer_fenced.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+pb_buffer_fenced.o: /usr/include/sys/appleapiopts.h
+pb_buffer_fenced.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+pb_buffer_fenced.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+pb_buffer_fenced.o: /usr/include/machine/_structs.h
+pb_buffer_fenced.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+pb_buffer_fenced.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+pb_buffer_fenced.o: /usr/include/libkern/_OSByteOrder.h
+pb_buffer_fenced.o: /usr/include/libkern/i386/_OSByteOrder.h
+pb_buffer_fenced.o: /usr/include/alloca.h /usr/include/machine/types.h
+pb_buffer_fenced.o: /usr/include/i386/types.h /usr/include/string.h
+pb_buffer_fenced.o: /usr/include/secure/_string.h
+pb_buffer_fenced.o: /usr/include/secure/_common.h /usr/include/stdint.h
+pb_buffer_fenced.o: /usr/include/stdbool.h
+pb_buffer_fenced.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_buffer_fenced.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_buffer_fenced.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_buffer_fenced.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+pb_buffer_fenced.o: /usr/include/stdarg.h
+pb_buffer_fenced.o: ../../../../src/gallium/auxiliary/util/u_string.h
+pb_buffer_fenced.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+pb_buffer_fenced.o: /usr/include/stddef.h
+pb_buffer_fenced.o: ../../../../src/gallium/include/pipe/p_thread.h
+pb_buffer_fenced.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+pb_buffer_fenced.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+pb_buffer_fenced.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+pb_buffer_fenced.o: pb_buffer.h
+pb_buffer_fenced.o: ../../../../src/gallium/include/pipe/p_state.h
+pb_buffer_fenced.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_buffer_fenced.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+pb_buffer_fenced.o: ../../../../src/gallium/include/pipe/p_atomic.h
+pb_buffer_fenced.o: ../../../../src/gallium/include/pipe/p_screen.h
+pb_buffer_fenced.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_buffer_fenced.o: pb_buffer_fenced.h
+pb_buffer_malloc.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+pb_buffer_malloc.o: /usr/include/stdarg.h
+pb_buffer_malloc.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_buffer_malloc.o: ../../../../src/gallium/include/pipe/p_config.h
+pb_buffer_malloc.o: /usr/include/stdlib.h /usr/include/Availability.h
+pb_buffer_malloc.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+pb_buffer_malloc.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+pb_buffer_malloc.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+pb_buffer_malloc.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+pb_buffer_malloc.o: /usr/include/sys/appleapiopts.h
+pb_buffer_malloc.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+pb_buffer_malloc.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+pb_buffer_malloc.o: /usr/include/machine/_structs.h
+pb_buffer_malloc.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+pb_buffer_malloc.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+pb_buffer_malloc.o: /usr/include/libkern/_OSByteOrder.h
+pb_buffer_malloc.o: /usr/include/libkern/i386/_OSByteOrder.h
+pb_buffer_malloc.o: /usr/include/alloca.h /usr/include/machine/types.h
+pb_buffer_malloc.o: /usr/include/i386/types.h /usr/include/string.h
+pb_buffer_malloc.o: /usr/include/secure/_string.h
+pb_buffer_malloc.o: /usr/include/secure/_common.h /usr/include/stdint.h
+pb_buffer_malloc.o: /usr/include/stdbool.h
+pb_buffer_malloc.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+pb_buffer_malloc.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+pb_buffer_malloc.o: pb_buffer.h
+pb_buffer_malloc.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_buffer_malloc.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_buffer_malloc.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_buffer_malloc.o: ../../../../src/gallium/auxiliary/util/u_string.h
+pb_buffer_malloc.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+pb_buffer_malloc.o: /usr/include/stddef.h
+pb_buffer_malloc.o: ../../../../src/gallium/include/pipe/p_state.h
+pb_buffer_malloc.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_buffer_malloc.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+pb_buffer_malloc.o: ../../../../src/gallium/include/pipe/p_atomic.h
+pb_buffer_malloc.o: ../../../../src/gallium/include/pipe/p_screen.h
+pb_buffer_malloc.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_buffer_malloc.o: pb_bufmgr.h
+pb_bufmgr_alt.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_bufmgr_alt.o: ../../../../src/gallium/include/pipe/p_config.h
+pb_bufmgr_alt.o: /usr/include/stdlib.h /usr/include/Availability.h
+pb_bufmgr_alt.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+pb_bufmgr_alt.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+pb_bufmgr_alt.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+pb_bufmgr_alt.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+pb_bufmgr_alt.o: /usr/include/sys/appleapiopts.h
+pb_bufmgr_alt.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+pb_bufmgr_alt.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+pb_bufmgr_alt.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+pb_bufmgr_alt.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+pb_bufmgr_alt.o: /usr/include/sys/_endian.h
+pb_bufmgr_alt.o: /usr/include/libkern/_OSByteOrder.h
+pb_bufmgr_alt.o: /usr/include/libkern/i386/_OSByteOrder.h
+pb_bufmgr_alt.o: /usr/include/alloca.h /usr/include/machine/types.h
+pb_bufmgr_alt.o: /usr/include/i386/types.h /usr/include/string.h
+pb_bufmgr_alt.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+pb_bufmgr_alt.o: /usr/include/stdint.h /usr/include/stdbool.h
+pb_bufmgr_alt.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+pb_bufmgr_alt.o: /usr/include/stdarg.h
+pb_bufmgr_alt.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+pb_bufmgr_alt.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+pb_bufmgr_alt.o: pb_buffer.h ../../../../src/gallium/include/pipe/p_defines.h
+pb_bufmgr_alt.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_bufmgr_alt.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_bufmgr_alt.o: ../../../../src/gallium/auxiliary/util/u_string.h
+pb_bufmgr_alt.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+pb_bufmgr_alt.o: /usr/include/stddef.h
+pb_bufmgr_alt.o: ../../../../src/gallium/include/pipe/p_state.h
+pb_bufmgr_alt.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_bufmgr_alt.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+pb_bufmgr_alt.o: ../../../../src/gallium/include/pipe/p_atomic.h
+pb_bufmgr_alt.o: ../../../../src/gallium/include/pipe/p_screen.h
+pb_bufmgr_alt.o: ../../../../src/gallium/include/pipe/p_format.h pb_bufmgr.h
+pb_bufmgr_cache.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_bufmgr_cache.o: ../../../../src/gallium/include/pipe/p_config.h
+pb_bufmgr_cache.o: /usr/include/stdlib.h /usr/include/Availability.h
+pb_bufmgr_cache.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+pb_bufmgr_cache.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+pb_bufmgr_cache.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+pb_bufmgr_cache.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+pb_bufmgr_cache.o: /usr/include/sys/appleapiopts.h
+pb_bufmgr_cache.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+pb_bufmgr_cache.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+pb_bufmgr_cache.o: /usr/include/machine/_structs.h
+pb_bufmgr_cache.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+pb_bufmgr_cache.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+pb_bufmgr_cache.o: /usr/include/libkern/_OSByteOrder.h
+pb_bufmgr_cache.o: /usr/include/libkern/i386/_OSByteOrder.h
+pb_bufmgr_cache.o: /usr/include/alloca.h /usr/include/machine/types.h
+pb_bufmgr_cache.o: /usr/include/i386/types.h /usr/include/string.h
+pb_bufmgr_cache.o: /usr/include/secure/_string.h
+pb_bufmgr_cache.o: /usr/include/secure/_common.h /usr/include/stdint.h
+pb_bufmgr_cache.o: /usr/include/stdbool.h /usr/include/sys/types.h
+pb_bufmgr_cache.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+pb_bufmgr_cache.o: /usr/include/stdarg.h
+pb_bufmgr_cache.o: ../../../../src/gallium/include/pipe/p_thread.h
+pb_bufmgr_cache.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+pb_bufmgr_cache.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+pb_bufmgr_cache.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+pb_bufmgr_cache.o: /usr/include/stddef.h
+pb_bufmgr_cache.o: ../../../../src/gallium/auxiliary/util/u_time.h
+pb_bufmgr_cache.o: ../../../../src/gallium/include/pipe/p_config.h
+pb_bufmgr_cache.o: pb_buffer.h
+pb_bufmgr_cache.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_bufmgr_cache.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_bufmgr_cache.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_bufmgr_cache.o: ../../../../src/gallium/auxiliary/util/u_string.h
+pb_bufmgr_cache.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+pb_bufmgr_cache.o: ../../../../src/gallium/include/pipe/p_state.h
+pb_bufmgr_cache.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_bufmgr_cache.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+pb_bufmgr_cache.o: ../../../../src/gallium/include/pipe/p_atomic.h
+pb_bufmgr_cache.o: ../../../../src/gallium/include/pipe/p_screen.h
+pb_bufmgr_cache.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_bufmgr_cache.o: pb_bufmgr.h
+pb_bufmgr_debug.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_bufmgr_debug.o: ../../../../src/gallium/include/pipe/p_config.h
+pb_bufmgr_debug.o: /usr/include/stdlib.h /usr/include/Availability.h
+pb_bufmgr_debug.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+pb_bufmgr_debug.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+pb_bufmgr_debug.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+pb_bufmgr_debug.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+pb_bufmgr_debug.o: /usr/include/sys/appleapiopts.h
+pb_bufmgr_debug.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+pb_bufmgr_debug.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+pb_bufmgr_debug.o: /usr/include/machine/_structs.h
+pb_bufmgr_debug.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+pb_bufmgr_debug.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+pb_bufmgr_debug.o: /usr/include/libkern/_OSByteOrder.h
+pb_bufmgr_debug.o: /usr/include/libkern/i386/_OSByteOrder.h
+pb_bufmgr_debug.o: /usr/include/alloca.h /usr/include/machine/types.h
+pb_bufmgr_debug.o: /usr/include/i386/types.h /usr/include/string.h
+pb_bufmgr_debug.o: /usr/include/secure/_string.h
+pb_bufmgr_debug.o: /usr/include/secure/_common.h /usr/include/stdint.h
+pb_bufmgr_debug.o: /usr/include/stdbool.h /usr/include/sys/types.h
+pb_bufmgr_debug.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+pb_bufmgr_debug.o: /usr/include/stdarg.h
+pb_bufmgr_debug.o: ../../../../src/gallium/include/pipe/p_thread.h
+pb_bufmgr_debug.o: ../../../../src/gallium/auxiliary/util/u_math.h
+pb_bufmgr_debug.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+pb_bufmgr_debug.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+pb_bufmgr_debug.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+pb_bufmgr_debug.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+pb_bufmgr_debug.o: /usr/include/stddef.h
+pb_bufmgr_debug.o: ../../../../src/gallium/auxiliary/util/u_time.h
+pb_bufmgr_debug.o: ../../../../src/gallium/include/pipe/p_config.h
+pb_bufmgr_debug.o: ../../../../src/gallium/auxiliary/util/u_debug_stack.h
+pb_bufmgr_debug.o: pb_buffer.h
+pb_bufmgr_debug.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_bufmgr_debug.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_bufmgr_debug.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_bufmgr_debug.o: ../../../../src/gallium/auxiliary/util/u_string.h
+pb_bufmgr_debug.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+pb_bufmgr_debug.o: ../../../../src/gallium/include/pipe/p_state.h
+pb_bufmgr_debug.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_bufmgr_debug.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+pb_bufmgr_debug.o: ../../../../src/gallium/include/pipe/p_atomic.h
+pb_bufmgr_debug.o: ../../../../src/gallium/include/pipe/p_screen.h
+pb_bufmgr_debug.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_bufmgr_debug.o: pb_bufmgr.h
+pb_bufmgr_fenced.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+pb_bufmgr_fenced.o: /usr/include/stdarg.h
+pb_bufmgr_fenced.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_bufmgr_fenced.o: ../../../../src/gallium/include/pipe/p_config.h
+pb_bufmgr_fenced.o: /usr/include/stdlib.h /usr/include/Availability.h
+pb_bufmgr_fenced.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+pb_bufmgr_fenced.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+pb_bufmgr_fenced.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+pb_bufmgr_fenced.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+pb_bufmgr_fenced.o: /usr/include/sys/appleapiopts.h
+pb_bufmgr_fenced.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+pb_bufmgr_fenced.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+pb_bufmgr_fenced.o: /usr/include/machine/_structs.h
+pb_bufmgr_fenced.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+pb_bufmgr_fenced.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+pb_bufmgr_fenced.o: /usr/include/libkern/_OSByteOrder.h
+pb_bufmgr_fenced.o: /usr/include/libkern/i386/_OSByteOrder.h
+pb_bufmgr_fenced.o: /usr/include/alloca.h /usr/include/machine/types.h
+pb_bufmgr_fenced.o: /usr/include/i386/types.h /usr/include/string.h
+pb_bufmgr_fenced.o: /usr/include/secure/_string.h
+pb_bufmgr_fenced.o: /usr/include/secure/_common.h /usr/include/stdint.h
+pb_bufmgr_fenced.o: /usr/include/stdbool.h
+pb_bufmgr_fenced.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+pb_bufmgr_fenced.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+pb_bufmgr_fenced.o: pb_buffer.h
+pb_bufmgr_fenced.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_bufmgr_fenced.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_bufmgr_fenced.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_bufmgr_fenced.o: ../../../../src/gallium/auxiliary/util/u_string.h
+pb_bufmgr_fenced.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+pb_bufmgr_fenced.o: /usr/include/stddef.h
+pb_bufmgr_fenced.o: ../../../../src/gallium/include/pipe/p_state.h
+pb_bufmgr_fenced.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_bufmgr_fenced.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+pb_bufmgr_fenced.o: ../../../../src/gallium/include/pipe/p_atomic.h
+pb_bufmgr_fenced.o: ../../../../src/gallium/include/pipe/p_screen.h
+pb_bufmgr_fenced.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_bufmgr_fenced.o: pb_buffer_fenced.h pb_bufmgr.h
+pb_bufmgr_mm.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_bufmgr_mm.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_bufmgr_mm.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_bufmgr_mm.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+pb_bufmgr_mm.o: /usr/include/stdarg.h
+pb_bufmgr_mm.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_bufmgr_mm.o: ../../../../src/gallium/include/pipe/p_config.h
+pb_bufmgr_mm.o: /usr/include/stdlib.h /usr/include/Availability.h
+pb_bufmgr_mm.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+pb_bufmgr_mm.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+pb_bufmgr_mm.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+pb_bufmgr_mm.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+pb_bufmgr_mm.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+pb_bufmgr_mm.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+pb_bufmgr_mm.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+pb_bufmgr_mm.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+pb_bufmgr_mm.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+pb_bufmgr_mm.o: /usr/include/libkern/_OSByteOrder.h
+pb_bufmgr_mm.o: /usr/include/libkern/i386/_OSByteOrder.h
+pb_bufmgr_mm.o: /usr/include/alloca.h /usr/include/machine/types.h
+pb_bufmgr_mm.o: /usr/include/i386/types.h /usr/include/string.h
+pb_bufmgr_mm.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+pb_bufmgr_mm.o: /usr/include/stdint.h /usr/include/stdbool.h
+pb_bufmgr_mm.o: ../../../../src/gallium/auxiliary/util/u_string.h
+pb_bufmgr_mm.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+pb_bufmgr_mm.o: /usr/include/stddef.h
+pb_bufmgr_mm.o: ../../../../src/gallium/include/pipe/p_thread.h
+pb_bufmgr_mm.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+pb_bufmgr_mm.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+pb_bufmgr_mm.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+pb_bufmgr_mm.o: ../../../../src/gallium/auxiliary/util/u_mm.h pb_buffer.h
+pb_bufmgr_mm.o: ../../../../src/gallium/include/pipe/p_state.h
+pb_bufmgr_mm.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_bufmgr_mm.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+pb_bufmgr_mm.o: ../../../../src/gallium/include/pipe/p_atomic.h
+pb_bufmgr_mm.o: ../../../../src/gallium/include/pipe/p_screen.h
+pb_bufmgr_mm.o: ../../../../src/gallium/include/pipe/p_format.h pb_bufmgr.h
+pb_bufmgr_ondemand.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+pb_bufmgr_ondemand.o: /usr/include/stdarg.h
+pb_bufmgr_ondemand.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_bufmgr_ondemand.o: ../../../../src/gallium/include/pipe/p_config.h
+pb_bufmgr_ondemand.o: /usr/include/stdlib.h /usr/include/Availability.h
+pb_bufmgr_ondemand.o: /usr/include/AvailabilityInternal.h
+pb_bufmgr_ondemand.o: /usr/include/_types.h /usr/include/sys/_types.h
+pb_bufmgr_ondemand.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+pb_bufmgr_ondemand.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+pb_bufmgr_ondemand.o: /usr/include/sys/signal.h
+pb_bufmgr_ondemand.o: /usr/include/sys/appleapiopts.h
+pb_bufmgr_ondemand.o: /usr/include/machine/signal.h
+pb_bufmgr_ondemand.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+pb_bufmgr_ondemand.o: /usr/include/sys/_structs.h
+pb_bufmgr_ondemand.o: /usr/include/machine/_structs.h
+pb_bufmgr_ondemand.o: /usr/include/sys/resource.h
+pb_bufmgr_ondemand.o: /usr/include/machine/endian.h
+pb_bufmgr_ondemand.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+pb_bufmgr_ondemand.o: /usr/include/libkern/_OSByteOrder.h
+pb_bufmgr_ondemand.o: /usr/include/libkern/i386/_OSByteOrder.h
+pb_bufmgr_ondemand.o: /usr/include/alloca.h /usr/include/machine/types.h
+pb_bufmgr_ondemand.o: /usr/include/i386/types.h /usr/include/string.h
+pb_bufmgr_ondemand.o: /usr/include/secure/_string.h
+pb_bufmgr_ondemand.o: /usr/include/secure/_common.h /usr/include/stdint.h
+pb_bufmgr_ondemand.o: /usr/include/stdbool.h
+pb_bufmgr_ondemand.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+pb_bufmgr_ondemand.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+pb_bufmgr_ondemand.o: pb_buffer.h
+pb_bufmgr_ondemand.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_bufmgr_ondemand.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_bufmgr_ondemand.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_bufmgr_ondemand.o: ../../../../src/gallium/auxiliary/util/u_string.h
+pb_bufmgr_ondemand.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+pb_bufmgr_ondemand.o: /usr/include/stddef.h
+pb_bufmgr_ondemand.o: ../../../../src/gallium/include/pipe/p_state.h
+pb_bufmgr_ondemand.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_bufmgr_ondemand.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+pb_bufmgr_ondemand.o: ../../../../src/gallium/include/pipe/p_atomic.h
+pb_bufmgr_ondemand.o: ../../../../src/gallium/include/pipe/p_screen.h
+pb_bufmgr_ondemand.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_bufmgr_ondemand.o: pb_bufmgr.h
+pb_bufmgr_pool.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_bufmgr_pool.o: ../../../../src/gallium/include/pipe/p_config.h
+pb_bufmgr_pool.o: /usr/include/stdlib.h /usr/include/Availability.h
+pb_bufmgr_pool.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+pb_bufmgr_pool.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+pb_bufmgr_pool.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+pb_bufmgr_pool.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+pb_bufmgr_pool.o: /usr/include/sys/appleapiopts.h
+pb_bufmgr_pool.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+pb_bufmgr_pool.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+pb_bufmgr_pool.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+pb_bufmgr_pool.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+pb_bufmgr_pool.o: /usr/include/sys/_endian.h
+pb_bufmgr_pool.o: /usr/include/libkern/_OSByteOrder.h
+pb_bufmgr_pool.o: /usr/include/libkern/i386/_OSByteOrder.h
+pb_bufmgr_pool.o: /usr/include/alloca.h /usr/include/machine/types.h
+pb_bufmgr_pool.o: /usr/include/i386/types.h /usr/include/string.h
+pb_bufmgr_pool.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+pb_bufmgr_pool.o: /usr/include/stdint.h /usr/include/stdbool.h
+pb_bufmgr_pool.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+pb_bufmgr_pool.o: /usr/include/stdarg.h
+pb_bufmgr_pool.o: ../../../../src/gallium/include/pipe/p_thread.h
+pb_bufmgr_pool.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_bufmgr_pool.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_bufmgr_pool.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_bufmgr_pool.o: ../../../../src/gallium/auxiliary/util/u_string.h
+pb_bufmgr_pool.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+pb_bufmgr_pool.o: /usr/include/stddef.h
+pb_bufmgr_pool.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+pb_bufmgr_pool.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+pb_bufmgr_pool.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+pb_bufmgr_pool.o: pb_buffer.h ../../../../src/gallium/include/pipe/p_state.h
+pb_bufmgr_pool.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_bufmgr_pool.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+pb_bufmgr_pool.o: ../../../../src/gallium/include/pipe/p_atomic.h
+pb_bufmgr_pool.o: ../../../../src/gallium/include/pipe/p_screen.h
+pb_bufmgr_pool.o: ../../../../src/gallium/include/pipe/p_format.h pb_bufmgr.h
+pb_bufmgr_slab.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_bufmgr_slab.o: ../../../../src/gallium/include/pipe/p_config.h
+pb_bufmgr_slab.o: /usr/include/stdlib.h /usr/include/Availability.h
+pb_bufmgr_slab.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+pb_bufmgr_slab.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+pb_bufmgr_slab.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+pb_bufmgr_slab.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+pb_bufmgr_slab.o: /usr/include/sys/appleapiopts.h
+pb_bufmgr_slab.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+pb_bufmgr_slab.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+pb_bufmgr_slab.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+pb_bufmgr_slab.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+pb_bufmgr_slab.o: /usr/include/sys/_endian.h
+pb_bufmgr_slab.o: /usr/include/libkern/_OSByteOrder.h
+pb_bufmgr_slab.o: /usr/include/libkern/i386/_OSByteOrder.h
+pb_bufmgr_slab.o: /usr/include/alloca.h /usr/include/machine/types.h
+pb_bufmgr_slab.o: /usr/include/i386/types.h /usr/include/string.h
+pb_bufmgr_slab.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+pb_bufmgr_slab.o: /usr/include/stdint.h /usr/include/stdbool.h
+pb_bufmgr_slab.o: /usr/include/sys/types.h
+pb_bufmgr_slab.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+pb_bufmgr_slab.o: /usr/include/stdarg.h
+pb_bufmgr_slab.o: ../../../../src/gallium/include/pipe/p_thread.h
+pb_bufmgr_slab.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_bufmgr_slab.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_bufmgr_slab.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_bufmgr_slab.o: ../../../../src/gallium/auxiliary/util/u_string.h
+pb_bufmgr_slab.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+pb_bufmgr_slab.o: /usr/include/stddef.h
+pb_bufmgr_slab.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+pb_bufmgr_slab.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+pb_bufmgr_slab.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+pb_bufmgr_slab.o: ../../../../src/gallium/auxiliary/util/u_time.h
+pb_bufmgr_slab.o: ../../../../src/gallium/include/pipe/p_config.h pb_buffer.h
+pb_bufmgr_slab.o: ../../../../src/gallium/include/pipe/p_state.h
+pb_bufmgr_slab.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_bufmgr_slab.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+pb_bufmgr_slab.o: ../../../../src/gallium/include/pipe/p_atomic.h
+pb_bufmgr_slab.o: ../../../../src/gallium/include/pipe/p_screen.h
+pb_bufmgr_slab.o: ../../../../src/gallium/include/pipe/p_format.h pb_bufmgr.h
+pb_validate.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_validate.o: ../../../../src/gallium/include/pipe/p_config.h
+pb_validate.o: /usr/include/stdlib.h /usr/include/Availability.h
+pb_validate.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+pb_validate.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+pb_validate.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+pb_validate.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+pb_validate.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+pb_validate.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+pb_validate.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+pb_validate.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+pb_validate.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+pb_validate.o: /usr/include/libkern/_OSByteOrder.h
+pb_validate.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+pb_validate.o: /usr/include/machine/types.h /usr/include/i386/types.h
+pb_validate.o: /usr/include/string.h /usr/include/secure/_string.h
+pb_validate.o: /usr/include/secure/_common.h /usr/include/stdint.h
+pb_validate.o: /usr/include/stdbool.h
+pb_validate.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_validate.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_validate.o: ../../../../src/gallium/include/pipe/p_compiler.h
+pb_validate.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+pb_validate.o: /usr/include/stdarg.h
+pb_validate.o: ../../../../src/gallium/auxiliary/util/u_string.h
+pb_validate.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+pb_validate.o: /usr/include/stddef.h
+pb_validate.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+pb_validate.o: ../../../../src/gallium/auxiliary/util/u_pointer.h pb_buffer.h
+pb_validate.o: ../../../../src/gallium/include/pipe/p_state.h
+pb_validate.o: ../../../../src/gallium/include/pipe/p_defines.h
+pb_validate.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+pb_validate.o: ../../../../src/gallium/include/pipe/p_atomic.h
+pb_validate.o: ../../../../src/gallium/include/pipe/p_screen.h
+pb_validate.o: ../../../../src/gallium/include/pipe/p_format.h
+pb_validate.o: pb_buffer_fenced.h pb_validate.h

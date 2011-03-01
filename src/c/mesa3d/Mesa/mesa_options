@@ -1,0 +1,186 @@
+`configure' configures Mesa 7.7.0 to adapt to many kinds of systems.
+
+Usage: ./configure [OPTION]... [VAR=VALUE]...
+
+To assign environment variables (e.g., CC, CFLAGS...), specify them as
+VAR=VALUE.  See below for descriptions of some of the useful variables.
+
+Defaults for the options are specified in brackets.
+
+Configuration:
+  -h, --help              display this help and exit
+      --help=short        display options specific to this package
+      --help=recursive    display the short help of all the included packages
+  -V, --version           display version information and exit
+  -q, --quiet, --silent   do not print `checking...' messages
+      --cache-file=FILE   cache test results in FILE [disabled]
+  -C, --config-cache      alias for `--cache-file=config.cache'
+  -n, --no-create         do not create output files
+      --srcdir=DIR        find the sources in DIR [configure dir or `..']
+
+Installation directories:
+  --prefix=PREFIX         install architecture-independent files in PREFIX
+                          [/usr/local]
+  --exec-prefix=EPREFIX   install architecture-dependent files in EPREFIX
+                          [PREFIX]
+
+By default, `make install' will install all the files in
+`/usr/local/bin', `/usr/local/lib' etc.  You can specify
+an installation prefix other than `/usr/local' using `--prefix',
+for instance `--prefix=$HOME'.
+
+For better control, use the options below.
+
+Fine tuning of the installation directories:
+  --bindir=DIR            user executables [EPREFIX/bin]
+  --sbindir=DIR           system admin executables [EPREFIX/sbin]
+  --libexecdir=DIR        program executables [EPREFIX/libexec]
+  --sysconfdir=DIR        read-only single-machine data [PREFIX/etc]
+  --sharedstatedir=DIR    modifiable architecture-independent data [PREFIX/com]
+  --localstatedir=DIR     modifiable single-machine data [PREFIX/var]
+  --libdir=DIR            object code libraries [EPREFIX/lib]
+  --includedir=DIR        C header files [PREFIX/include]
+  --oldincludedir=DIR     C header files for non-gcc [/usr/include]
+  --datarootdir=DIR       read-only arch.-independent data root [PREFIX/share]
+  --datadir=DIR           read-only architecture-independent data [DATAROOTDIR]
+  --infodir=DIR           info documentation [DATAROOTDIR/info]
+  --localedir=DIR         locale-dependent data [DATAROOTDIR/locale]
+  --mandir=DIR            man documentation [DATAROOTDIR/man]
+  --docdir=DIR            documentation root [DATAROOTDIR/doc/mesa]
+  --htmldir=DIR           html documentation [DOCDIR]
+  --dvidir=DIR            dvi documentation [DOCDIR]
+  --pdfdir=DIR            pdf documentation [DOCDIR]
+  --psdir=DIR             ps documentation [DOCDIR]
+
+X features:
+  --x-includes=DIR    X include files are in DIR
+  --x-libraries=DIR   X library files are in DIR
+These options are only used when the X libraries cannot be found by the
+pkg-config utility.
+
+System types:
+  --build=BUILD     configure for building on BUILD [guessed]
+  --host=HOST       cross-compile to build programs to run on HOST [BUILD]
+
+Optional Features:
+  --disable-option-checking  ignore unrecognized --enable/--with options
+  --disable-FEATURE       do not include FEATURE (same as --enable-FEATURE=no)
+  --enable-FEATURE[=ARG]  include FEATURE [ARG=yes]
+  --enable-32-bit         build 32-bit libraries [default=auto]
+  --enable-64-bit         build 64-bit libraries [default=auto]
+  --enable-static         build static libraries [default=disabled]
+  --disable-shared        build shared libraries [default=enabled]
+  --enable-debug          use debug compiler flags and macros
+                          [default=disabled]
+  --disable-asm           disable assembly usage [default=enabled on supported
+                          plaforms]
+  --disable-pic           compile PIC objects [default=enabled for shared
+                          builds on supported platforms]
+  --enable-selinux        Build SELinux-aware Mesa [default=disabled]
+  --enable-xcb            use XCB for GLX [default=disabled]
+  --enable-glx-tls        enable TLS support in GLX [default=disabled]
+  --disable-driglx-direct enable direct rendering in GLX for DRI
+                          [default=enabled]
+  --enable-gl-osmesa      enable OSMesa on libGL [default=enabled for xlib
+                          driver]
+  --disable-egl           disable EGL library [default=enabled]
+  --disable-glu           enable OpenGL Utility library [default=enabled]
+  --disable-glw           enable Xt/Motif widget library [default=enabled]
+  --enable-motif          use Motif widgets in GLw [default=disabled]
+  --disable-glut          enable GLUT library [default=enabled if source
+                          available]
+  --disable-gallium       build gallium [default=enabled]
+  --enable-gallium-svga   build gallium SVGA [default=disabled]
+  --enable-gallium-intel  build gallium intel [default=disabled]
+  --enable-gallium-radeon build gallium radeon [default=disabled]
+  --enable-gallium-nouveau
+                          build gallium nouveau [default=disabled]
+
+Optional Packages:
+  --with-PACKAGE[=ARG]    use PACKAGE [ARG=yes]
+  --without-PACKAGE       do not use PACKAGE (same as --with-PACKAGE=no)
+  --with-driver=DRIVER    driver for Mesa: xlib,dri,osmesa [default=dri when
+                          available, or xlib]
+  --with-demos[=DIRS...]  optional comma delimited demo directories to build
+                          [default=auto if source available]
+  --with-x                use the X Window System
+  --with-dri-driverdir=DIR
+                          directory for the DRI drivers [${libdir}/dri]
+  --with-dri-searchpath=DIRS...
+                          semicolon delimited DRI driver search directories
+                          [${libdir}/dri]
+  --with-dri-drivers[=DIRS...]
+                          comma delimited DRI drivers list, e.g.
+                          "swrast,i965,radeon" [default=auto]
+  --with-expat=DIR        expat install directory
+  --with-osmesa-bits=BITS OSMesa channel bits and library name: 8, 16, 32
+                          [default=8]
+  --with-state-trackers[=DIRS...]
+                          comma delimited state_trackers list, e.g. "egl,glx"
+                          [default=auto]
+  --with-xorg-driver-dir=DIR
+                          Default xorg driver
+                          directory[[default=${libdir}/xorg/modules/drivers]]
+  --with-max-width=N      Maximum framebuffer width (4096)
+  --with-max-height=N     Maximum framebuffer height (4096)
+
+Some influential environment variables:
+  CC          C compiler command
+  CFLAGS      C compiler flags
+  LDFLAGS     linker flags, e.g. -L<lib dir> if you have libraries in a
+              nonstandard directory <lib dir>
+  LIBS        libraries to pass to the linker, e.g. -l<library>
+  CPPFLAGS    (Objective) C/C++ preprocessor flags, e.g. -I<include dir> if
+              you have headers in a nonstandard directory <include dir>
+  CPP         C preprocessor
+  CXX         C++ compiler command
+  CXXFLAGS    C++ compiler flags
+  PKG_CONFIG  path to pkg-config utility
+  EXTRA_LIB_PATH
+              Extra -L paths for the linker
+  X11_INCLUDES
+              Extra -I paths for X11 headers
+  OPT_FLAGS   Additional optimization flags for the compiler. Default is to
+              use CFLAGS.
+  ARCH_FLAGS  Additional architecture specific flags for the compiler. Default
+              is to use CFLAGS.
+  MKLIB_OPTIONS
+              Options for the Mesa library script, mklib
+  PIC_FLAGS   compiler flags for PIC code
+  XMKMF       Path to xmkmf, Makefile generator for X Window System
+  XLIBGL_CFLAGS
+              C compiler flags for XLIBGL, overriding pkg-config
+  XLIBGL_LIBS linker flags for XLIBGL, overriding pkg-config
+  LIBDRM_CFLAGS
+              C compiler flags for LIBDRM, overriding pkg-config
+  LIBDRM_LIBS linker flags for LIBDRM, overriding pkg-config
+  DRI2PROTO_CFLAGS
+              C compiler flags for DRI2PROTO, overriding pkg-config
+  DRI2PROTO_LIBS
+              linker flags for DRI2PROTO, overriding pkg-config
+  LIBDRM_RADEON_CFLAGS
+              C compiler flags for LIBDRM_RADEON, overriding pkg-config
+  LIBDRM_RADEON_LIBS
+              linker flags for LIBDRM_RADEON, overriding pkg-config
+  DRIGL_CFLAGS
+              C compiler flags for DRIGL, overriding pkg-config
+  DRIGL_LIBS  linker flags for DRIGL, overriding pkg-config
+  XCB_CFLAGS  C compiler flags for XCB, overriding pkg-config
+  XCB_LIBS    linker flags for XCB, overriding pkg-config
+  EGL_CFLAGS  C compiler flags for EGL, overriding pkg-config
+  EGL_LIBS    linker flags for EGL, overriding pkg-config
+  GLW_CFLAGS  C compiler flags for GLW, overriding pkg-config
+  GLW_LIBS    linker flags for GLW, overriding pkg-config
+  GLUT_CFLAGS C compiler flags for GLUT, overriding pkg-config
+  GLUT_LIBS   linker flags for GLUT, overriding pkg-config
+  XORG_CFLAGS C compiler flags for XORG, overriding pkg-config
+  XORG_LIBS   linker flags for XORG, overriding pkg-config
+  XEXT_CFLAGS C compiler flags for XEXT, overriding pkg-config
+  XEXT_LIBS   linker flags for XEXT, overriding pkg-config
+
+Use these variables to override the choices made by `configure' or to help
+it to find libraries and programs with nonstandard names/locations.
+
+See docs/autoconf.html for more details on the options for Mesa.
+
+Report bugs to <https://bugs.freedesktop.org/enter_bug.cgi?product=Mesa>.

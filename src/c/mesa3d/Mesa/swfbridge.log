@@ -1,0 +1,10 @@
+Socket open
+Socket options set
+Socket open
+Socket options set
+Bound
+Listening
+Accepted
+open(conftest.out, 1537, 438):9
+close(9):0
+bexit(0)

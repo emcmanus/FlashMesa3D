@@ -1,0 +1,108 @@
+# DO NOT DELETE
+
+fo_state.o: fo_context.h ../../../../src/gallium/include/pipe/p_state.h
+fo_state.o: ../../../../src/gallium/include/pipe/p_compiler.h
+fo_state.o: ../../../../src/gallium/include/pipe/p_config.h
+fo_state.o: /usr/include/stdlib.h /usr/include/Availability.h
+fo_state.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+fo_state.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+fo_state.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+fo_state.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+fo_state.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+fo_state.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+fo_state.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+fo_state.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+fo_state.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+fo_state.o: /usr/include/libkern/_OSByteOrder.h
+fo_state.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+fo_state.o: /usr/include/machine/types.h /usr/include/i386/types.h
+fo_state.o: /usr/include/string.h /usr/include/secure/_string.h
+fo_state.o: /usr/include/secure/_common.h /usr/include/stdint.h
+fo_state.o: /usr/include/stdbool.h
+fo_state.o: ../../../../src/gallium/include/pipe/p_defines.h
+fo_state.o: ../../../../src/gallium/include/pipe/p_format.h
+fo_state.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+fo_state.o: /usr/include/stdarg.h
+fo_state.o: ../../../../src/gallium/include/pipe/p_compiler.h
+fo_state.o: ../../../../src/gallium/auxiliary/util/u_string.h
+fo_state.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+fo_state.o: /usr/include/stddef.h
+fo_state.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+fo_state.o: ../../../../src/gallium/include/pipe/p_atomic.h
+fo_state.o: ../../../../src/gallium/include/pipe/p_screen.h
+fo_state.o: ../../../../src/gallium/include/pipe/p_format.h
+fo_state.o: ../../../../src/gallium/include/pipe/p_defines.h
+fo_state.o: ../../../../src/gallium/include/pipe/p_context.h
+fo_state.o: ../../../../src/gallium/include/pipe/p_state.h
+fo_state_emit.o: fo_context.h ../../../../src/gallium/include/pipe/p_state.h
+fo_state_emit.o: ../../../../src/gallium/include/pipe/p_compiler.h
+fo_state_emit.o: ../../../../src/gallium/include/pipe/p_config.h
+fo_state_emit.o: /usr/include/stdlib.h /usr/include/Availability.h
+fo_state_emit.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+fo_state_emit.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+fo_state_emit.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+fo_state_emit.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+fo_state_emit.o: /usr/include/sys/appleapiopts.h
+fo_state_emit.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+fo_state_emit.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+fo_state_emit.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+fo_state_emit.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+fo_state_emit.o: /usr/include/sys/_endian.h
+fo_state_emit.o: /usr/include/libkern/_OSByteOrder.h
+fo_state_emit.o: /usr/include/libkern/i386/_OSByteOrder.h
+fo_state_emit.o: /usr/include/alloca.h /usr/include/machine/types.h
+fo_state_emit.o: /usr/include/i386/types.h /usr/include/string.h
+fo_state_emit.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+fo_state_emit.o: /usr/include/stdint.h /usr/include/stdbool.h
+fo_state_emit.o: ../../../../src/gallium/include/pipe/p_defines.h
+fo_state_emit.o: ../../../../src/gallium/include/pipe/p_format.h
+fo_state_emit.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+fo_state_emit.o: /usr/include/stdarg.h
+fo_state_emit.o: ../../../../src/gallium/include/pipe/p_compiler.h
+fo_state_emit.o: ../../../../src/gallium/auxiliary/util/u_string.h
+fo_state_emit.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+fo_state_emit.o: /usr/include/stddef.h
+fo_state_emit.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+fo_state_emit.o: ../../../../src/gallium/include/pipe/p_atomic.h
+fo_state_emit.o: ../../../../src/gallium/include/pipe/p_screen.h
+fo_state_emit.o: ../../../../src/gallium/include/pipe/p_format.h
+fo_state_emit.o: ../../../../src/gallium/include/pipe/p_defines.h
+fo_state_emit.o: ../../../../src/gallium/include/pipe/p_context.h
+fo_state_emit.o: ../../../../src/gallium/include/pipe/p_state.h
+fo_context.o: ../../../../src/gallium/include/pipe/p_defines.h
+fo_context.o: ../../../../src/gallium/include/pipe/internal/p_winsys_screen.h
+fo_context.o: ../../../../src/gallium/include/pipe/p_format.h
+fo_context.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+fo_context.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+fo_context.o: ../../../../src/gallium/include/pipe/p_compiler.h
+fo_context.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+fo_context.o: /usr/include/stdarg.h
+fo_context.o: ../../../../src/gallium/include/pipe/p_context.h
+fo_context.o: ../../../../src/gallium/include/pipe/p_state.h fo_context.h
+fo_context.o: ../../../../src/gallium/include/pipe/p_state.h
+fo_context.o: ../../../../src/gallium/include/pipe/p_compiler.h
+fo_context.o: ../../../../src/gallium/include/pipe/p_config.h
+fo_context.o: /usr/include/stdlib.h /usr/include/Availability.h
+fo_context.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+fo_context.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+fo_context.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+fo_context.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+fo_context.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+fo_context.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+fo_context.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+fo_context.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+fo_context.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+fo_context.o: /usr/include/libkern/_OSByteOrder.h
+fo_context.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+fo_context.o: /usr/include/machine/types.h /usr/include/i386/types.h
+fo_context.o: /usr/include/string.h /usr/include/secure/_string.h
+fo_context.o: /usr/include/secure/_common.h /usr/include/stdint.h
+fo_context.o: /usr/include/stdbool.h
+fo_context.o: ../../../../src/gallium/include/pipe/p_defines.h
+fo_context.o: ../../../../src/gallium/include/pipe/p_format.h
+fo_context.o: ../../../../src/gallium/auxiliary/util/u_string.h
+fo_context.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+fo_context.o: /usr/include/stddef.h
+fo_context.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+fo_context.o: ../../../../src/gallium/include/pipe/p_atomic.h
+fo_context.o: ../../../../src/gallium/include/pipe/p_screen.h fo_winsys.h

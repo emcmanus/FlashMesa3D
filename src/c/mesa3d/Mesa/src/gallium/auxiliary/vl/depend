@@ -1,0 +1,168 @@
+# DO NOT DELETE
+
+vl_bitstream_parser.o: vl_bitstream_parser.h
+vl_bitstream_parser.o: ../../../../src/gallium/include/pipe/p_compiler.h
+vl_bitstream_parser.o: ../../../../src/gallium/include/pipe/p_config.h
+vl_bitstream_parser.o: /usr/include/stdlib.h /usr/include/Availability.h
+vl_bitstream_parser.o: /usr/include/AvailabilityInternal.h
+vl_bitstream_parser.o: /usr/include/_types.h /usr/include/sys/_types.h
+vl_bitstream_parser.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+vl_bitstream_parser.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+vl_bitstream_parser.o: /usr/include/sys/signal.h
+vl_bitstream_parser.o: /usr/include/sys/appleapiopts.h
+vl_bitstream_parser.o: /usr/include/machine/signal.h
+vl_bitstream_parser.o: /usr/include/i386/signal.h
+vl_bitstream_parser.o: /usr/include/i386/_structs.h
+vl_bitstream_parser.o: /usr/include/sys/_structs.h
+vl_bitstream_parser.o: /usr/include/machine/_structs.h
+vl_bitstream_parser.o: /usr/include/sys/resource.h
+vl_bitstream_parser.o: /usr/include/machine/endian.h
+vl_bitstream_parser.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+vl_bitstream_parser.o: /usr/include/libkern/_OSByteOrder.h
+vl_bitstream_parser.o: /usr/include/libkern/i386/_OSByteOrder.h
+vl_bitstream_parser.o: /usr/include/alloca.h /usr/include/machine/types.h
+vl_bitstream_parser.o: /usr/include/i386/types.h /usr/include/string.h
+vl_bitstream_parser.o: /usr/include/secure/_string.h
+vl_bitstream_parser.o: /usr/include/secure/_common.h /usr/include/stdint.h
+vl_bitstream_parser.o: /usr/include/stdbool.h /usr/include/assert.h
+vl_bitstream_parser.o: /usr/include/limits.h /usr/include/machine/limits.h
+vl_bitstream_parser.o: /usr/include/i386/limits.h /usr/include/i386/_limits.h
+vl_bitstream_parser.o: /usr/include/sys/syslimits.h
+vl_bitstream_parser.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+vl_bitstream_parser.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+vl_bitstream_parser.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+vl_bitstream_parser.o: /usr/include/stdarg.h
+vl_mpeg12_mc_renderer.o: vl_mpeg12_mc_renderer.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_compiler.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_config.h
+vl_mpeg12_mc_renderer.o: /usr/include/stdlib.h /usr/include/Availability.h
+vl_mpeg12_mc_renderer.o: /usr/include/AvailabilityInternal.h
+vl_mpeg12_mc_renderer.o: /usr/include/_types.h /usr/include/sys/_types.h
+vl_mpeg12_mc_renderer.o: /usr/include/sys/cdefs.h
+vl_mpeg12_mc_renderer.o: /usr/include/machine/_types.h
+vl_mpeg12_mc_renderer.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+vl_mpeg12_mc_renderer.o: /usr/include/sys/signal.h
+vl_mpeg12_mc_renderer.o: /usr/include/sys/appleapiopts.h
+vl_mpeg12_mc_renderer.o: /usr/include/machine/signal.h
+vl_mpeg12_mc_renderer.o: /usr/include/i386/signal.h
+vl_mpeg12_mc_renderer.o: /usr/include/i386/_structs.h
+vl_mpeg12_mc_renderer.o: /usr/include/sys/_structs.h
+vl_mpeg12_mc_renderer.o: /usr/include/machine/_structs.h
+vl_mpeg12_mc_renderer.o: /usr/include/sys/resource.h
+vl_mpeg12_mc_renderer.o: /usr/include/machine/endian.h
+vl_mpeg12_mc_renderer.o: /usr/include/i386/endian.h
+vl_mpeg12_mc_renderer.o: /usr/include/sys/_endian.h
+vl_mpeg12_mc_renderer.o: /usr/include/libkern/_OSByteOrder.h
+vl_mpeg12_mc_renderer.o: /usr/include/libkern/i386/_OSByteOrder.h
+vl_mpeg12_mc_renderer.o: /usr/include/alloca.h /usr/include/machine/types.h
+vl_mpeg12_mc_renderer.o: /usr/include/i386/types.h /usr/include/string.h
+vl_mpeg12_mc_renderer.o: /usr/include/secure/_string.h
+vl_mpeg12_mc_renderer.o: /usr/include/secure/_common.h /usr/include/stdint.h
+vl_mpeg12_mc_renderer.o: /usr/include/stdbool.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_state.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_compiler.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_defines.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_format.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+vl_mpeg12_mc_renderer.o: /usr/include/stdarg.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/auxiliary/util/u_string.h
+vl_mpeg12_mc_renderer.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+vl_mpeg12_mc_renderer.o: /usr/include/stddef.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_atomic.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_screen.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_format.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_defines.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_video_state.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_screen.h
+vl_mpeg12_mc_renderer.o: /usr/include/assert.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_context.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_state.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_inlines.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_context.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/auxiliary/util/u_math.h
+vl_mpeg12_mc_renderer.o: /usr/include/math.h
+vl_mpeg12_mc_renderer.o: /usr/include/architecture/i386/math.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+vl_mpeg12_mc_renderer.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_build.h
+vl_mpeg12_mc_renderer.o: vl_shader_build.h
+vl_compositor.o: vl_compositor.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_compiler.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_config.h
+vl_compositor.o: /usr/include/stdlib.h /usr/include/Availability.h
+vl_compositor.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+vl_compositor.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+vl_compositor.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+vl_compositor.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+vl_compositor.o: /usr/include/sys/appleapiopts.h
+vl_compositor.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+vl_compositor.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+vl_compositor.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+vl_compositor.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+vl_compositor.o: /usr/include/sys/_endian.h
+vl_compositor.o: /usr/include/libkern/_OSByteOrder.h
+vl_compositor.o: /usr/include/libkern/i386/_OSByteOrder.h
+vl_compositor.o: /usr/include/alloca.h /usr/include/machine/types.h
+vl_compositor.o: /usr/include/i386/types.h /usr/include/string.h
+vl_compositor.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+vl_compositor.o: /usr/include/stdint.h /usr/include/stdbool.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_state.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_compiler.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_defines.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_format.h
+vl_compositor.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+vl_compositor.o: /usr/include/stdarg.h
+vl_compositor.o: ../../../../src/gallium/auxiliary/util/u_string.h
+vl_compositor.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+vl_compositor.o: /usr/include/stddef.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_atomic.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_screen.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_format.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_defines.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_video_state.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_screen.h
+vl_compositor.o: /usr/include/assert.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_context.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_state.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_inlines.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_context.h
+vl_compositor.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+vl_compositor.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+vl_compositor.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_build.h
+vl_compositor.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+vl_compositor.o: ../../../../src/gallium/auxiliary/util/u_pointer.h vl_csc.h
+vl_compositor.o: vl_shader_build.h
+vl_csc.o: vl_csc.h ../../../../src/gallium/include/pipe/p_compiler.h
+vl_csc.o: ../../../../src/gallium/include/pipe/p_config.h
+vl_csc.o: /usr/include/stdlib.h /usr/include/Availability.h
+vl_csc.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+vl_csc.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+vl_csc.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+vl_csc.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+vl_csc.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+vl_csc.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+vl_csc.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+vl_csc.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+vl_csc.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+vl_csc.o: /usr/include/libkern/_OSByteOrder.h
+vl_csc.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+vl_csc.o: /usr/include/machine/types.h /usr/include/i386/types.h
+vl_csc.o: /usr/include/string.h /usr/include/secure/_string.h
+vl_csc.o: /usr/include/secure/_common.h /usr/include/stdint.h
+vl_csc.o: /usr/include/stdbool.h
+vl_csc.o: ../../../../src/gallium/auxiliary/util/u_math.h
+vl_csc.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+vl_csc.o: /usr/include/stdarg.h /usr/include/math.h
+vl_csc.o: /usr/include/architecture/i386/math.h
+vl_shader_build.o: vl_shader_build.h
+vl_shader_build.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+vl_shader_build.o: ../../../../src/gallium/include/pipe/p_compiler.h
+vl_shader_build.o: /usr/include/assert.h /usr/include/sys/cdefs.h
+vl_shader_build.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+vl_shader_build.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_build.h

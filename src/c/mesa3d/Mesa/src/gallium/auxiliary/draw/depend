@@ -1,0 +1,1672 @@
+# DO NOT DELETE
+
+draw_context.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_context.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_context.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_context.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_context.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_context.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_context.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_context.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_context.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_context.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+draw_context.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+draw_context.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+draw_context.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+draw_context.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_context.o: /usr/include/libkern/_OSByteOrder.h
+draw_context.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_context.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_context.o: /usr/include/i386/types.h /usr/include/string.h
+draw_context.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+draw_context.o: /usr/include/stdint.h /usr/include/stdbool.h
+draw_context.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_context.o: /usr/include/stdarg.h
+draw_context.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_context.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+draw_context.o: draw_context.h ../../../../src/gallium/include/pipe/p_state.h
+draw_context.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_context.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_context.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_context.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_context.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_context.o: /usr/include/stddef.h
+draw_context.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_context.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_context.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_context.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_context.o: ../../../../src/gallium/include/pipe/p_defines.h draw_vbuf.h
+draw_context.o: draw_vs.h draw_private.h
+draw_context.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_context.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_context.o: draw_pt.h draw_pipe.h
+draw_pipe.o: ../../../../src/gallium/auxiliary/draw/draw_private.h
+draw_pipe.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pipe.o: /usr/include/stdarg.h
+draw_pipe.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pipe.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pipe.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_pipe.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_pipe.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_pipe.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_pipe.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+draw_pipe.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+draw_pipe.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+draw_pipe.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+draw_pipe.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_pipe.o: /usr/include/libkern/_OSByteOrder.h
+draw_pipe.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+draw_pipe.o: /usr/include/machine/types.h /usr/include/i386/types.h
+draw_pipe.o: /usr/include/string.h /usr/include/secure/_string.h
+draw_pipe.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_pipe.o: /usr/include/stdbool.h
+draw_pipe.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pipe.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pipe.o: /usr/include/stddef.h
+draw_pipe.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pipe.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pipe.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pipe.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pipe.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pipe.o: ../../../../src/gallium/auxiliary/draw/draw_pipe.h
+draw_pipe.o: draw_private.h draw_pt_decompose.h
+draw_pipe_aaline.o: ../../../../src/gallium/include/pipe/p_context.h
+draw_pipe_aaline.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe_aaline.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_aaline.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_aaline.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_aaline.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pipe_aaline.o: /usr/include/stdarg.h
+draw_pipe_aaline.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_aaline.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pipe_aaline.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pipe_aaline.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_pipe_aaline.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_pipe_aaline.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_pipe_aaline.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_pipe_aaline.o: /usr/include/sys/appleapiopts.h
+draw_pipe_aaline.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+draw_pipe_aaline.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+draw_pipe_aaline.o: /usr/include/machine/_structs.h
+draw_pipe_aaline.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+draw_pipe_aaline.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_pipe_aaline.o: /usr/include/libkern/_OSByteOrder.h
+draw_pipe_aaline.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pipe_aaline.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pipe_aaline.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pipe_aaline.o: /usr/include/secure/_string.h
+draw_pipe_aaline.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_pipe_aaline.o: /usr/include/stdbool.h
+draw_pipe_aaline.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pipe_aaline.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pipe_aaline.o: /usr/include/stddef.h
+draw_pipe_aaline.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pipe_aaline.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pipe_aaline.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pipe_aaline.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_aaline.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_aaline.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pipe_aaline.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_pipe_aaline.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+draw_pipe_aaline.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pipe_aaline.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pipe_aaline.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_transform.h
+draw_pipe_aaline.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+draw_pipe_aaline.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_build.h
+draw_pipe_aaline.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_dump.h
+draw_pipe_aaline.o: draw_context.h
+draw_pipe_aaline.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe_aaline.o: draw_private.h
+draw_pipe_aaline.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pipe_aaline.o: draw_pipe.h
+draw_pipe_aapoint.o: ../../../../src/gallium/include/pipe/p_context.h
+draw_pipe_aapoint.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe_aapoint.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_aapoint.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_aapoint.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_aapoint.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pipe_aapoint.o: /usr/include/stdarg.h
+draw_pipe_aapoint.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_aapoint.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pipe_aapoint.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pipe_aapoint.o: /usr/include/AvailabilityInternal.h
+draw_pipe_aapoint.o: /usr/include/_types.h /usr/include/sys/_types.h
+draw_pipe_aapoint.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+draw_pipe_aapoint.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+draw_pipe_aapoint.o: /usr/include/sys/signal.h
+draw_pipe_aapoint.o: /usr/include/sys/appleapiopts.h
+draw_pipe_aapoint.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+draw_pipe_aapoint.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+draw_pipe_aapoint.o: /usr/include/machine/_structs.h
+draw_pipe_aapoint.o: /usr/include/sys/resource.h
+draw_pipe_aapoint.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+draw_pipe_aapoint.o: /usr/include/sys/_endian.h
+draw_pipe_aapoint.o: /usr/include/libkern/_OSByteOrder.h
+draw_pipe_aapoint.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pipe_aapoint.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pipe_aapoint.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pipe_aapoint.o: /usr/include/secure/_string.h
+draw_pipe_aapoint.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_pipe_aapoint.o: /usr/include/stdbool.h
+draw_pipe_aapoint.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pipe_aapoint.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pipe_aapoint.o: /usr/include/stddef.h
+draw_pipe_aapoint.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pipe_aapoint.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pipe_aapoint.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pipe_aapoint.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_aapoint.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_aapoint.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pipe_aapoint.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_transform.h
+draw_pipe_aapoint.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+draw_pipe_aapoint.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_build.h
+draw_pipe_aapoint.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_dump.h
+draw_pipe_aapoint.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_pipe_aapoint.o: /usr/include/math.h
+draw_pipe_aapoint.o: /usr/include/architecture/i386/math.h
+draw_pipe_aapoint.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pipe_aapoint.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pipe_aapoint.o: draw_context.h
+draw_pipe_aapoint.o: ../../../../src/gallium/include/pipe/p_state.h draw_vs.h
+draw_pipe_aapoint.o: draw_private.h
+draw_pipe_aapoint.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pipe_aapoint.o: draw_pipe.h
+draw_pipe_clip.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pipe_clip.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pipe_clip.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_clip.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pipe_clip.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pipe_clip.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_pipe_clip.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_pipe_clip.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_pipe_clip.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_pipe_clip.o: /usr/include/sys/appleapiopts.h
+draw_pipe_clip.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+draw_pipe_clip.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+draw_pipe_clip.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+draw_pipe_clip.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+draw_pipe_clip.o: /usr/include/sys/_endian.h
+draw_pipe_clip.o: /usr/include/libkern/_OSByteOrder.h
+draw_pipe_clip.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pipe_clip.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pipe_clip.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pipe_clip.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+draw_pipe_clip.o: /usr/include/stdint.h /usr/include/stdbool.h
+draw_pipe_clip.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pipe_clip.o: /usr/include/stdarg.h
+draw_pipe_clip.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_pipe_clip.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+draw_pipe_clip.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pipe_clip.o: ../../../../src/gallium/include/pipe/p_compiler.h draw_vs.h
+draw_pipe_clip.o: draw_context.h
+draw_pipe_clip.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe_clip.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_clip.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_clip.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pipe_clip.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pipe_clip.o: /usr/include/stddef.h
+draw_pipe_clip.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pipe_clip.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pipe_clip.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pipe_clip.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_clip.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_clip.o: draw_private.h
+draw_pipe_clip.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pipe_clip.o: draw_pipe.h
+draw_pipe_cull.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pipe_cull.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pipe_cull.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_cull.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pipe_cull.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pipe_cull.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_pipe_cull.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_pipe_cull.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_pipe_cull.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_pipe_cull.o: /usr/include/sys/appleapiopts.h
+draw_pipe_cull.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+draw_pipe_cull.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+draw_pipe_cull.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+draw_pipe_cull.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+draw_pipe_cull.o: /usr/include/sys/_endian.h
+draw_pipe_cull.o: /usr/include/libkern/_OSByteOrder.h
+draw_pipe_cull.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pipe_cull.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pipe_cull.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pipe_cull.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+draw_pipe_cull.o: /usr/include/stdint.h /usr/include/stdbool.h
+draw_pipe_cull.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pipe_cull.o: /usr/include/stdarg.h
+draw_pipe_cull.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_cull.o: draw_pipe.h draw_private.h
+draw_pipe_cull.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe_cull.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_cull.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_cull.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_cull.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pipe_cull.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pipe_cull.o: /usr/include/stddef.h
+draw_pipe_cull.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pipe_cull.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pipe_cull.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pipe_cull.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_cull.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pipe_cull.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pipe_flatshade.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_pipe_flatshade.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_flatshade.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pipe_flatshade.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pipe_flatshade.o: /usr/include/AvailabilityInternal.h
+draw_pipe_flatshade.o: /usr/include/_types.h /usr/include/sys/_types.h
+draw_pipe_flatshade.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+draw_pipe_flatshade.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+draw_pipe_flatshade.o: /usr/include/sys/signal.h
+draw_pipe_flatshade.o: /usr/include/sys/appleapiopts.h
+draw_pipe_flatshade.o: /usr/include/machine/signal.h
+draw_pipe_flatshade.o: /usr/include/i386/signal.h
+draw_pipe_flatshade.o: /usr/include/i386/_structs.h
+draw_pipe_flatshade.o: /usr/include/sys/_structs.h
+draw_pipe_flatshade.o: /usr/include/machine/_structs.h
+draw_pipe_flatshade.o: /usr/include/sys/resource.h
+draw_pipe_flatshade.o: /usr/include/machine/endian.h
+draw_pipe_flatshade.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_pipe_flatshade.o: /usr/include/libkern/_OSByteOrder.h
+draw_pipe_flatshade.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pipe_flatshade.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pipe_flatshade.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pipe_flatshade.o: /usr/include/secure/_string.h
+draw_pipe_flatshade.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_pipe_flatshade.o: /usr/include/stdbool.h
+draw_pipe_flatshade.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pipe_flatshade.o: /usr/include/stdarg.h /usr/include/math.h
+draw_pipe_flatshade.o: /usr/include/architecture/i386/math.h
+draw_pipe_flatshade.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pipe_flatshade.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pipe_flatshade.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pipe_flatshade.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_flatshade.o: draw_vs.h draw_context.h
+draw_pipe_flatshade.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe_flatshade.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_flatshade.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_flatshade.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pipe_flatshade.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pipe_flatshade.o: /usr/include/stddef.h
+draw_pipe_flatshade.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pipe_flatshade.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pipe_flatshade.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pipe_flatshade.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_flatshade.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_flatshade.o: draw_private.h
+draw_pipe_flatshade.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pipe_flatshade.o: draw_pipe.h
+draw_pipe_offset.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_pipe_offset.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_offset.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pipe_offset.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pipe_offset.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_pipe_offset.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_pipe_offset.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_pipe_offset.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_pipe_offset.o: /usr/include/sys/appleapiopts.h
+draw_pipe_offset.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+draw_pipe_offset.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+draw_pipe_offset.o: /usr/include/machine/_structs.h
+draw_pipe_offset.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+draw_pipe_offset.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_pipe_offset.o: /usr/include/libkern/_OSByteOrder.h
+draw_pipe_offset.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pipe_offset.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pipe_offset.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pipe_offset.o: /usr/include/secure/_string.h
+draw_pipe_offset.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_pipe_offset.o: /usr/include/stdbool.h
+draw_pipe_offset.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pipe_offset.o: /usr/include/stdarg.h /usr/include/math.h
+draw_pipe_offset.o: /usr/include/architecture/i386/math.h
+draw_pipe_offset.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pipe_offset.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pipe_offset.o: draw_pipe.h draw_private.h
+draw_pipe_offset.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe_offset.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_offset.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_offset.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_offset.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pipe_offset.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pipe_offset.o: /usr/include/stddef.h
+draw_pipe_offset.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pipe_offset.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pipe_offset.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pipe_offset.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_offset.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_offset.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pipe_offset.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pipe_pstipple.o: ../../../../src/gallium/include/pipe/p_context.h
+draw_pipe_pstipple.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe_pstipple.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_pstipple.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_pstipple.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_pstipple.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pipe_pstipple.o: /usr/include/stdarg.h
+draw_pipe_pstipple.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_pstipple.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pipe_pstipple.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pipe_pstipple.o: /usr/include/AvailabilityInternal.h
+draw_pipe_pstipple.o: /usr/include/_types.h /usr/include/sys/_types.h
+draw_pipe_pstipple.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+draw_pipe_pstipple.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+draw_pipe_pstipple.o: /usr/include/sys/signal.h
+draw_pipe_pstipple.o: /usr/include/sys/appleapiopts.h
+draw_pipe_pstipple.o: /usr/include/machine/signal.h
+draw_pipe_pstipple.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+draw_pipe_pstipple.o: /usr/include/sys/_structs.h
+draw_pipe_pstipple.o: /usr/include/machine/_structs.h
+draw_pipe_pstipple.o: /usr/include/sys/resource.h
+draw_pipe_pstipple.o: /usr/include/machine/endian.h
+draw_pipe_pstipple.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_pipe_pstipple.o: /usr/include/libkern/_OSByteOrder.h
+draw_pipe_pstipple.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pipe_pstipple.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pipe_pstipple.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pipe_pstipple.o: /usr/include/secure/_string.h
+draw_pipe_pstipple.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_pipe_pstipple.o: /usr/include/stdbool.h
+draw_pipe_pstipple.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pipe_pstipple.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pipe_pstipple.o: /usr/include/stddef.h
+draw_pipe_pstipple.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pipe_pstipple.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pipe_pstipple.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pipe_pstipple.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_pstipple.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_pstipple.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pipe_pstipple.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_pipe_pstipple.o: /usr/include/math.h
+draw_pipe_pstipple.o: /usr/include/architecture/i386/math.h
+draw_pipe_pstipple.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pipe_pstipple.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pipe_pstipple.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_transform.h
+draw_pipe_pstipple.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+draw_pipe_pstipple.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_build.h
+draw_pipe_pstipple.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_dump.h
+draw_pipe_pstipple.o: draw_context.h
+draw_pipe_pstipple.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe_pstipple.o: draw_pipe.h draw_private.h
+draw_pipe_pstipple.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pipe_stipple.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_stipple.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pipe_stipple.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_stipple.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_pipe_stipple.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_stipple.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pipe_stipple.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pipe_stipple.o: /usr/include/AvailabilityInternal.h
+draw_pipe_stipple.o: /usr/include/_types.h /usr/include/sys/_types.h
+draw_pipe_stipple.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+draw_pipe_stipple.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+draw_pipe_stipple.o: /usr/include/sys/signal.h
+draw_pipe_stipple.o: /usr/include/sys/appleapiopts.h
+draw_pipe_stipple.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+draw_pipe_stipple.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+draw_pipe_stipple.o: /usr/include/machine/_structs.h
+draw_pipe_stipple.o: /usr/include/sys/resource.h
+draw_pipe_stipple.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+draw_pipe_stipple.o: /usr/include/sys/_endian.h
+draw_pipe_stipple.o: /usr/include/libkern/_OSByteOrder.h
+draw_pipe_stipple.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pipe_stipple.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pipe_stipple.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pipe_stipple.o: /usr/include/secure/_string.h
+draw_pipe_stipple.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_pipe_stipple.o: /usr/include/stdbool.h
+draw_pipe_stipple.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pipe_stipple.o: /usr/include/stdarg.h /usr/include/math.h
+draw_pipe_stipple.o: /usr/include/architecture/i386/math.h
+draw_pipe_stipple.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pipe_stipple.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pipe_stipple.o: ../../../../src/gallium/auxiliary/draw/draw_pipe.h
+draw_pipe_stipple.o: draw_private.h
+draw_pipe_stipple.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe_stipple.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_stipple.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_stipple.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pipe_stipple.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pipe_stipple.o: /usr/include/stddef.h
+draw_pipe_stipple.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pipe_stipple.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pipe_stipple.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pipe_stipple.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_stipple.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pipe_twoside.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_pipe_twoside.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_twoside.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pipe_twoside.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pipe_twoside.o: /usr/include/AvailabilityInternal.h
+draw_pipe_twoside.o: /usr/include/_types.h /usr/include/sys/_types.h
+draw_pipe_twoside.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+draw_pipe_twoside.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+draw_pipe_twoside.o: /usr/include/sys/signal.h
+draw_pipe_twoside.o: /usr/include/sys/appleapiopts.h
+draw_pipe_twoside.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+draw_pipe_twoside.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+draw_pipe_twoside.o: /usr/include/machine/_structs.h
+draw_pipe_twoside.o: /usr/include/sys/resource.h
+draw_pipe_twoside.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+draw_pipe_twoside.o: /usr/include/sys/_endian.h
+draw_pipe_twoside.o: /usr/include/libkern/_OSByteOrder.h
+draw_pipe_twoside.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pipe_twoside.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pipe_twoside.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pipe_twoside.o: /usr/include/secure/_string.h
+draw_pipe_twoside.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_pipe_twoside.o: /usr/include/stdbool.h
+draw_pipe_twoside.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pipe_twoside.o: /usr/include/stdarg.h /usr/include/math.h
+draw_pipe_twoside.o: /usr/include/architecture/i386/math.h
+draw_pipe_twoside.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pipe_twoside.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pipe_twoside.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_twoside.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pipe_twoside.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_twoside.o: draw_vs.h draw_context.h
+draw_pipe_twoside.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe_twoside.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_twoside.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_twoside.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pipe_twoside.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pipe_twoside.o: /usr/include/stddef.h
+draw_pipe_twoside.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pipe_twoside.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pipe_twoside.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pipe_twoside.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_twoside.o: draw_private.h
+draw_pipe_twoside.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pipe_twoside.o: draw_pipe.h
+draw_pipe_unfilled.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pipe_unfilled.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pipe_unfilled.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_unfilled.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pipe_unfilled.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pipe_unfilled.o: /usr/include/AvailabilityInternal.h
+draw_pipe_unfilled.o: /usr/include/_types.h /usr/include/sys/_types.h
+draw_pipe_unfilled.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+draw_pipe_unfilled.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+draw_pipe_unfilled.o: /usr/include/sys/signal.h
+draw_pipe_unfilled.o: /usr/include/sys/appleapiopts.h
+draw_pipe_unfilled.o: /usr/include/machine/signal.h
+draw_pipe_unfilled.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+draw_pipe_unfilled.o: /usr/include/sys/_structs.h
+draw_pipe_unfilled.o: /usr/include/machine/_structs.h
+draw_pipe_unfilled.o: /usr/include/sys/resource.h
+draw_pipe_unfilled.o: /usr/include/machine/endian.h
+draw_pipe_unfilled.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_pipe_unfilled.o: /usr/include/libkern/_OSByteOrder.h
+draw_pipe_unfilled.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pipe_unfilled.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pipe_unfilled.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pipe_unfilled.o: /usr/include/secure/_string.h
+draw_pipe_unfilled.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_pipe_unfilled.o: /usr/include/stdbool.h
+draw_pipe_unfilled.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pipe_unfilled.o: /usr/include/stdarg.h
+draw_pipe_unfilled.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_unfilled.o: draw_private.h
+draw_pipe_unfilled.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe_unfilled.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_unfilled.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_unfilled.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_unfilled.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pipe_unfilled.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pipe_unfilled.o: /usr/include/stddef.h
+draw_pipe_unfilled.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pipe_unfilled.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pipe_unfilled.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pipe_unfilled.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_unfilled.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pipe_unfilled.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pipe_unfilled.o: draw_pipe.h
+draw_pipe_util.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pipe_util.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pipe_util.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_util.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pipe_util.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pipe_util.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_pipe_util.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_pipe_util.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_pipe_util.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_pipe_util.o: /usr/include/sys/appleapiopts.h
+draw_pipe_util.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+draw_pipe_util.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+draw_pipe_util.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+draw_pipe_util.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+draw_pipe_util.o: /usr/include/sys/_endian.h
+draw_pipe_util.o: /usr/include/libkern/_OSByteOrder.h
+draw_pipe_util.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pipe_util.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pipe_util.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pipe_util.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+draw_pipe_util.o: /usr/include/stdint.h /usr/include/stdbool.h
+draw_pipe_util.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pipe_util.o: /usr/include/stdarg.h
+draw_pipe_util.o: ../../../../src/gallium/auxiliary/draw/draw_private.h
+draw_pipe_util.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe_util.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_util.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_util.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_util.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pipe_util.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pipe_util.o: /usr/include/stddef.h
+draw_pipe_util.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pipe_util.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pipe_util.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pipe_util.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_util.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_util.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pipe_util.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pipe_util.o: ../../../../src/gallium/auxiliary/draw/draw_pipe.h
+draw_pipe_util.o: draw_private.h
+draw_pipe_validate.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pipe_validate.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pipe_validate.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_validate.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pipe_validate.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pipe_validate.o: /usr/include/AvailabilityInternal.h
+draw_pipe_validate.o: /usr/include/_types.h /usr/include/sys/_types.h
+draw_pipe_validate.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+draw_pipe_validate.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+draw_pipe_validate.o: /usr/include/sys/signal.h
+draw_pipe_validate.o: /usr/include/sys/appleapiopts.h
+draw_pipe_validate.o: /usr/include/machine/signal.h
+draw_pipe_validate.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+draw_pipe_validate.o: /usr/include/sys/_structs.h
+draw_pipe_validate.o: /usr/include/machine/_structs.h
+draw_pipe_validate.o: /usr/include/sys/resource.h
+draw_pipe_validate.o: /usr/include/machine/endian.h
+draw_pipe_validate.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_pipe_validate.o: /usr/include/libkern/_OSByteOrder.h
+draw_pipe_validate.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pipe_validate.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pipe_validate.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pipe_validate.o: /usr/include/secure/_string.h
+draw_pipe_validate.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_pipe_validate.o: /usr/include/stdbool.h
+draw_pipe_validate.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pipe_validate.o: /usr/include/stdarg.h
+draw_pipe_validate.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_validate.o: draw_private.h
+draw_pipe_validate.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe_validate.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_validate.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_validate.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_validate.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pipe_validate.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pipe_validate.o: /usr/include/stddef.h
+draw_pipe_validate.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pipe_validate.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pipe_validate.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pipe_validate.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_validate.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pipe_validate.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pipe_validate.o: draw_pipe.h draw_context.h draw_vbuf.h
+draw_pipe_vbuf.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pipe_vbuf.o: /usr/include/stdarg.h
+draw_pipe_vbuf.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_vbuf.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pipe_vbuf.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pipe_vbuf.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_pipe_vbuf.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_pipe_vbuf.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_pipe_vbuf.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_pipe_vbuf.o: /usr/include/sys/appleapiopts.h
+draw_pipe_vbuf.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+draw_pipe_vbuf.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+draw_pipe_vbuf.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+draw_pipe_vbuf.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+draw_pipe_vbuf.o: /usr/include/sys/_endian.h
+draw_pipe_vbuf.o: /usr/include/libkern/_OSByteOrder.h
+draw_pipe_vbuf.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pipe_vbuf.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pipe_vbuf.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pipe_vbuf.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+draw_pipe_vbuf.o: /usr/include/stdint.h /usr/include/stdbool.h
+draw_pipe_vbuf.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_pipe_vbuf.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+draw_pipe_vbuf.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pipe_vbuf.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pipe_vbuf.o: draw_vbuf.h draw_private.h
+draw_pipe_vbuf.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe_vbuf.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_vbuf.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_vbuf.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_vbuf.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pipe_vbuf.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pipe_vbuf.o: /usr/include/stddef.h
+draw_pipe_vbuf.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pipe_vbuf.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pipe_vbuf.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pipe_vbuf.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_vbuf.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_vbuf.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pipe_vbuf.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pipe_vbuf.o: draw_vertex.h draw_pipe.h
+draw_pipe_vbuf.o: ../../../../src/gallium/auxiliary/translate/translate.h
+draw_pipe_vbuf.o: ../../../../src/gallium/auxiliary/translate/translate_cache.h
+draw_pipe_wide_line.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_wide_line.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pipe_wide_line.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_wide_line.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_pipe_wide_line.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_wide_line.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pipe_wide_line.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pipe_wide_line.o: /usr/include/AvailabilityInternal.h
+draw_pipe_wide_line.o: /usr/include/_types.h /usr/include/sys/_types.h
+draw_pipe_wide_line.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+draw_pipe_wide_line.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+draw_pipe_wide_line.o: /usr/include/sys/signal.h
+draw_pipe_wide_line.o: /usr/include/sys/appleapiopts.h
+draw_pipe_wide_line.o: /usr/include/machine/signal.h
+draw_pipe_wide_line.o: /usr/include/i386/signal.h
+draw_pipe_wide_line.o: /usr/include/i386/_structs.h
+draw_pipe_wide_line.o: /usr/include/sys/_structs.h
+draw_pipe_wide_line.o: /usr/include/machine/_structs.h
+draw_pipe_wide_line.o: /usr/include/sys/resource.h
+draw_pipe_wide_line.o: /usr/include/machine/endian.h
+draw_pipe_wide_line.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_pipe_wide_line.o: /usr/include/libkern/_OSByteOrder.h
+draw_pipe_wide_line.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pipe_wide_line.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pipe_wide_line.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pipe_wide_line.o: /usr/include/secure/_string.h
+draw_pipe_wide_line.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_pipe_wide_line.o: /usr/include/stdbool.h
+draw_pipe_wide_line.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pipe_wide_line.o: /usr/include/stdarg.h /usr/include/math.h
+draw_pipe_wide_line.o: /usr/include/architecture/i386/math.h
+draw_pipe_wide_line.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pipe_wide_line.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pipe_wide_line.o: draw_private.h
+draw_pipe_wide_line.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe_wide_line.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_wide_line.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_wide_line.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pipe_wide_line.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pipe_wide_line.o: /usr/include/stddef.h
+draw_pipe_wide_line.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pipe_wide_line.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pipe_wide_line.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pipe_wide_line.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_wide_line.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pipe_wide_line.o: draw_pipe.h
+draw_pipe_wide_point.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_pipe_wide_point.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_wide_point.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pipe_wide_point.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pipe_wide_point.o: /usr/include/AvailabilityInternal.h
+draw_pipe_wide_point.o: /usr/include/_types.h /usr/include/sys/_types.h
+draw_pipe_wide_point.o: /usr/include/sys/cdefs.h
+draw_pipe_wide_point.o: /usr/include/machine/_types.h
+draw_pipe_wide_point.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+draw_pipe_wide_point.o: /usr/include/sys/signal.h
+draw_pipe_wide_point.o: /usr/include/sys/appleapiopts.h
+draw_pipe_wide_point.o: /usr/include/machine/signal.h
+draw_pipe_wide_point.o: /usr/include/i386/signal.h
+draw_pipe_wide_point.o: /usr/include/i386/_structs.h
+draw_pipe_wide_point.o: /usr/include/sys/_structs.h
+draw_pipe_wide_point.o: /usr/include/machine/_structs.h
+draw_pipe_wide_point.o: /usr/include/sys/resource.h
+draw_pipe_wide_point.o: /usr/include/machine/endian.h
+draw_pipe_wide_point.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_pipe_wide_point.o: /usr/include/libkern/_OSByteOrder.h
+draw_pipe_wide_point.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pipe_wide_point.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pipe_wide_point.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pipe_wide_point.o: /usr/include/secure/_string.h
+draw_pipe_wide_point.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_pipe_wide_point.o: /usr/include/stdbool.h
+draw_pipe_wide_point.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pipe_wide_point.o: /usr/include/stdarg.h /usr/include/math.h
+draw_pipe_wide_point.o: /usr/include/architecture/i386/math.h
+draw_pipe_wide_point.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pipe_wide_point.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pipe_wide_point.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_wide_point.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pipe_wide_point.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pipe_wide_point.o: draw_vs.h draw_context.h
+draw_pipe_wide_point.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pipe_wide_point.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pipe_wide_point.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_wide_point.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pipe_wide_point.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pipe_wide_point.o: /usr/include/stddef.h
+draw_pipe_wide_point.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pipe_wide_point.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pipe_wide_point.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pipe_wide_point.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pipe_wide_point.o: draw_private.h
+draw_pipe_wide_point.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pipe_wide_point.o: draw_pipe.h
+draw_pt.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+draw_pt.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pt.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pt.o: /usr/include/stdarg.h
+draw_pt.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pt.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pt.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_pt.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_pt.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_pt.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_pt.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+draw_pt.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+draw_pt.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+draw_pt.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+draw_pt.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_pt.o: /usr/include/libkern/_OSByteOrder.h
+draw_pt.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+draw_pt.o: /usr/include/machine/types.h /usr/include/i386/types.h
+draw_pt.o: /usr/include/string.h /usr/include/secure/_string.h
+draw_pt.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_pt.o: /usr/include/stdbool.h
+draw_pt.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pt.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pt.o: /usr/include/stddef.h
+draw_pt.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pt.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pt.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pt.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt.o: ../../../../src/gallium/auxiliary/draw/draw_private.h
+draw_pt.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pt.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pt.o: ../../../../src/gallium/auxiliary/draw/draw_pt.h
+draw_pt.o: ../../../../src/gallium/auxiliary/draw/draw_vs.h draw_context.h
+draw_pt.o: draw_private.h ../../../../src/gallium/auxiliary/tgsi/tgsi_dump.h
+draw_pt.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_pt.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+draw_pt.o: ../../../../src/gallium/auxiliary/util/u_prim.h
+draw_pt_elts.o: ../../../../src/gallium/auxiliary/draw/draw_pt.h
+draw_pt_elts.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_elts.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pt_elts.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pt_elts.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_pt_elts.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_pt_elts.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_pt_elts.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_pt_elts.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+draw_pt_elts.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+draw_pt_elts.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+draw_pt_elts.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+draw_pt_elts.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_pt_elts.o: /usr/include/libkern/_OSByteOrder.h
+draw_pt_elts.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pt_elts.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pt_elts.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pt_elts.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+draw_pt_elts.o: /usr/include/stdint.h /usr/include/stdbool.h
+draw_pt_elts.o: ../../../../src/gallium/auxiliary/draw/draw_private.h
+draw_pt_elts.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pt_elts.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_elts.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_elts.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_elts.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pt_elts.o: /usr/include/stdarg.h
+draw_pt_elts.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pt_elts.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pt_elts.o: /usr/include/stddef.h
+draw_pt_elts.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pt_elts.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pt_elts.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pt_elts.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_elts.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_elts.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pt_elts.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pt_emit.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pt_emit.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pt_emit.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_emit.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pt_emit.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pt_emit.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_pt_emit.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_pt_emit.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_pt_emit.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_pt_emit.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+draw_pt_emit.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+draw_pt_emit.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+draw_pt_emit.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+draw_pt_emit.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_pt_emit.o: /usr/include/libkern/_OSByteOrder.h
+draw_pt_emit.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pt_emit.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pt_emit.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pt_emit.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+draw_pt_emit.o: /usr/include/stdint.h /usr/include/stdbool.h
+draw_pt_emit.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pt_emit.o: /usr/include/stdarg.h
+draw_pt_emit.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+draw_pt_emit.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pt_emit.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_emit.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_emit.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_emit.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pt_emit.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pt_emit.o: /usr/include/stddef.h
+draw_pt_emit.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pt_emit.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pt_emit.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pt_emit.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_emit.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_emit.o: ../../../../src/gallium/auxiliary/draw/draw_private.h
+draw_pt_emit.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pt_emit.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pt_emit.o: ../../../../src/gallium/auxiliary/draw/draw_vbuf.h
+draw_pt_emit.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+draw_pt_emit.o: ../../../../src/gallium/auxiliary/draw/draw_pt.h
+draw_pt_emit.o: ../../../../src/gallium/auxiliary/translate/translate.h
+draw_pt_emit.o: ../../../../src/gallium/auxiliary/translate/translate_cache.h
+draw_pt_fetch.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pt_fetch.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pt_fetch.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_fetch.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pt_fetch.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pt_fetch.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_pt_fetch.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_pt_fetch.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_pt_fetch.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_pt_fetch.o: /usr/include/sys/appleapiopts.h
+draw_pt_fetch.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+draw_pt_fetch.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+draw_pt_fetch.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+draw_pt_fetch.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+draw_pt_fetch.o: /usr/include/sys/_endian.h
+draw_pt_fetch.o: /usr/include/libkern/_OSByteOrder.h
+draw_pt_fetch.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pt_fetch.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pt_fetch.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pt_fetch.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+draw_pt_fetch.o: /usr/include/stdint.h /usr/include/stdbool.h
+draw_pt_fetch.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pt_fetch.o: /usr/include/stdarg.h
+draw_pt_fetch.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_pt_fetch.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+draw_pt_fetch.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+draw_pt_fetch.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pt_fetch.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_fetch.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_fetch.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_fetch.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pt_fetch.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pt_fetch.o: /usr/include/stddef.h
+draw_pt_fetch.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pt_fetch.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pt_fetch.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pt_fetch.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_fetch.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_fetch.o: ../../../../src/gallium/auxiliary/draw/draw_private.h
+draw_pt_fetch.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pt_fetch.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pt_fetch.o: ../../../../src/gallium/auxiliary/draw/draw_vbuf.h
+draw_pt_fetch.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+draw_pt_fetch.o: ../../../../src/gallium/auxiliary/draw/draw_pt.h
+draw_pt_fetch.o: ../../../../src/gallium/auxiliary/translate/translate.h
+draw_pt_fetch.o: ../../../../src/gallium/auxiliary/translate/translate_cache.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pt_fetch_emit.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pt_fetch_emit.o: /usr/include/AvailabilityInternal.h
+draw_pt_fetch_emit.o: /usr/include/_types.h /usr/include/sys/_types.h
+draw_pt_fetch_emit.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+draw_pt_fetch_emit.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+draw_pt_fetch_emit.o: /usr/include/sys/signal.h
+draw_pt_fetch_emit.o: /usr/include/sys/appleapiopts.h
+draw_pt_fetch_emit.o: /usr/include/machine/signal.h
+draw_pt_fetch_emit.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+draw_pt_fetch_emit.o: /usr/include/sys/_structs.h
+draw_pt_fetch_emit.o: /usr/include/machine/_structs.h
+draw_pt_fetch_emit.o: /usr/include/sys/resource.h
+draw_pt_fetch_emit.o: /usr/include/machine/endian.h
+draw_pt_fetch_emit.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_pt_fetch_emit.o: /usr/include/libkern/_OSByteOrder.h
+draw_pt_fetch_emit.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pt_fetch_emit.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pt_fetch_emit.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pt_fetch_emit.o: /usr/include/secure/_string.h
+draw_pt_fetch_emit.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_pt_fetch_emit.o: /usr/include/stdbool.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pt_fetch_emit.o: /usr/include/stdarg.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pt_fetch_emit.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pt_fetch_emit.o: /usr/include/stddef.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/auxiliary/draw/draw_private.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/auxiliary/draw/draw_vbuf.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/auxiliary/draw/draw_pt.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/auxiliary/translate/translate.h
+draw_pt_fetch_emit.o: ../../../../src/gallium/auxiliary/translate/translate_cache.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pt_fetch_shade_emit.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pt_fetch_shade_emit.o: /usr/include/AvailabilityInternal.h
+draw_pt_fetch_shade_emit.o: /usr/include/_types.h /usr/include/sys/_types.h
+draw_pt_fetch_shade_emit.o: /usr/include/sys/cdefs.h
+draw_pt_fetch_shade_emit.o: /usr/include/machine/_types.h
+draw_pt_fetch_shade_emit.o: /usr/include/i386/_types.h
+draw_pt_fetch_shade_emit.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_pt_fetch_shade_emit.o: /usr/include/sys/appleapiopts.h
+draw_pt_fetch_shade_emit.o: /usr/include/machine/signal.h
+draw_pt_fetch_shade_emit.o: /usr/include/i386/signal.h
+draw_pt_fetch_shade_emit.o: /usr/include/i386/_structs.h
+draw_pt_fetch_shade_emit.o: /usr/include/sys/_structs.h
+draw_pt_fetch_shade_emit.o: /usr/include/machine/_structs.h
+draw_pt_fetch_shade_emit.o: /usr/include/sys/resource.h
+draw_pt_fetch_shade_emit.o: /usr/include/machine/endian.h
+draw_pt_fetch_shade_emit.o: /usr/include/i386/endian.h
+draw_pt_fetch_shade_emit.o: /usr/include/sys/_endian.h
+draw_pt_fetch_shade_emit.o: /usr/include/libkern/_OSByteOrder.h
+draw_pt_fetch_shade_emit.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pt_fetch_shade_emit.o: /usr/include/alloca.h
+draw_pt_fetch_shade_emit.o: /usr/include/machine/types.h
+draw_pt_fetch_shade_emit.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pt_fetch_shade_emit.o: /usr/include/secure/_string.h
+draw_pt_fetch_shade_emit.o: /usr/include/secure/_common.h
+draw_pt_fetch_shade_emit.o: /usr/include/stdint.h /usr/include/stdbool.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pt_fetch_shade_emit.o: /usr/include/stdarg.h /usr/include/math.h
+draw_pt_fetch_shade_emit.o: /usr/include/architecture/i386/math.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pt_fetch_shade_emit.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pt_fetch_shade_emit.o: /usr/include/stddef.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/auxiliary/draw/draw_private.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/auxiliary/draw/draw_vbuf.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/auxiliary/draw/draw_pt.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/auxiliary/draw/draw_vs.h
+draw_pt_fetch_shade_emit.o: draw_context.h draw_private.h
+draw_pt_fetch_shade_emit.o: ../../../../src/gallium/auxiliary/translate/translate.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/stdlib.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/Availability.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/AvailabilityInternal.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/_types.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/sys/_types.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/sys/cdefs.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/machine/_types.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/i386/_types.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/sys/wait.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/sys/signal.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/sys/appleapiopts.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/machine/signal.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/i386/signal.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/i386/_structs.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/sys/_structs.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/machine/_structs.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/sys/resource.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/machine/endian.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/i386/endian.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/sys/_endian.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/libkern/_OSByteOrder.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/alloca.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/machine/types.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/i386/types.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/string.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/secure/_string.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/secure/_common.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/stdint.h /usr/include/stdbool.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/stdarg.h /usr/include/math.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/architecture/i386/math.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/stdio.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/secure/_stdio.h
+draw_pt_fetch_shade_pipeline.o: /usr/include/stddef.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/auxiliary/draw/draw_vbuf.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/auxiliary/draw/draw_pt.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/auxiliary/draw/draw_vs.h
+draw_pt_fetch_shade_pipeline.o: draw_context.h draw_private.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pt_fetch_shade_pipeline.o: ../../../../src/gallium/auxiliary/translate/translate.h
+draw_pt_post_vs.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pt_post_vs.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pt_post_vs.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_post_vs.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pt_post_vs.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pt_post_vs.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_pt_post_vs.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_pt_post_vs.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_pt_post_vs.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_pt_post_vs.o: /usr/include/sys/appleapiopts.h
+draw_pt_post_vs.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+draw_pt_post_vs.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+draw_pt_post_vs.o: /usr/include/machine/_structs.h
+draw_pt_post_vs.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+draw_pt_post_vs.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_pt_post_vs.o: /usr/include/libkern/_OSByteOrder.h
+draw_pt_post_vs.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pt_post_vs.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pt_post_vs.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pt_post_vs.o: /usr/include/secure/_string.h
+draw_pt_post_vs.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_pt_post_vs.o: /usr/include/stdbool.h
+draw_pt_post_vs.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pt_post_vs.o: /usr/include/stdarg.h
+draw_pt_post_vs.o: ../../../../src/gallium/include/pipe/p_context.h
+draw_pt_post_vs.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pt_post_vs.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_post_vs.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_post_vs.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_post_vs.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pt_post_vs.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pt_post_vs.o: /usr/include/stddef.h
+draw_pt_post_vs.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pt_post_vs.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pt_post_vs.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pt_post_vs.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_post_vs.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_post_vs.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+draw_pt_post_vs.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pt_post_vs.o: ../../../../src/gallium/auxiliary/draw/draw_private.h
+draw_pt_post_vs.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pt_post_vs.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pt_post_vs.o: ../../../../src/gallium/auxiliary/draw/draw_vbuf.h
+draw_pt_post_vs.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+draw_pt_post_vs.o: ../../../../src/gallium/auxiliary/draw/draw_pt.h
+draw_pt_util.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+draw_pt_util.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pt_util.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_util.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_util.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_util.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pt_util.o: /usr/include/stdarg.h
+draw_pt_util.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_util.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pt_util.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pt_util.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_pt_util.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_pt_util.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_pt_util.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_pt_util.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+draw_pt_util.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+draw_pt_util.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+draw_pt_util.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+draw_pt_util.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_pt_util.o: /usr/include/libkern/_OSByteOrder.h
+draw_pt_util.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pt_util.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pt_util.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pt_util.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+draw_pt_util.o: /usr/include/stdint.h /usr/include/stdbool.h
+draw_pt_util.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pt_util.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pt_util.o: /usr/include/stddef.h
+draw_pt_util.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pt_util.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pt_util.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pt_util.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_util.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_util.o: ../../../../src/gallium/auxiliary/draw/draw_private.h
+draw_pt_util.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pt_util.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pt_util.o: ../../../../src/gallium/auxiliary/draw/draw_pt.h
+draw_pt_varray.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_pt_varray.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_varray.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pt_varray.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pt_varray.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_pt_varray.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_pt_varray.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_pt_varray.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_pt_varray.o: /usr/include/sys/appleapiopts.h
+draw_pt_varray.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+draw_pt_varray.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+draw_pt_varray.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+draw_pt_varray.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+draw_pt_varray.o: /usr/include/sys/_endian.h
+draw_pt_varray.o: /usr/include/libkern/_OSByteOrder.h
+draw_pt_varray.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pt_varray.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pt_varray.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pt_varray.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+draw_pt_varray.o: /usr/include/stdint.h /usr/include/stdbool.h
+draw_pt_varray.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pt_varray.o: /usr/include/stdarg.h /usr/include/math.h
+draw_pt_varray.o: /usr/include/architecture/i386/math.h
+draw_pt_varray.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pt_varray.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pt_varray.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+draw_pt_varray.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pt_varray.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_varray.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_varray.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_varray.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pt_varray.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pt_varray.o: /usr/include/stddef.h
+draw_pt_varray.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pt_varray.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pt_varray.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pt_varray.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_varray.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_varray.o: ../../../../src/gallium/auxiliary/draw/draw_private.h
+draw_pt_varray.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pt_varray.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pt_varray.o: ../../../../src/gallium/auxiliary/draw/draw_pt.h
+draw_pt_varray.o: draw_pt_varray_tmp_linear.h
+draw_pt_vcache.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_pt_vcache.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_pt_vcache.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_vcache.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_pt_vcache.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_pt_vcache.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_pt_vcache.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_pt_vcache.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_pt_vcache.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_pt_vcache.o: /usr/include/sys/appleapiopts.h
+draw_pt_vcache.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+draw_pt_vcache.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+draw_pt_vcache.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+draw_pt_vcache.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+draw_pt_vcache.o: /usr/include/sys/_endian.h
+draw_pt_vcache.o: /usr/include/libkern/_OSByteOrder.h
+draw_pt_vcache.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_pt_vcache.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_pt_vcache.o: /usr/include/i386/types.h /usr/include/string.h
+draw_pt_vcache.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+draw_pt_vcache.o: /usr/include/stdint.h /usr/include/stdbool.h
+draw_pt_vcache.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_pt_vcache.o: /usr/include/stdarg.h
+draw_pt_vcache.o: ../../../../src/gallium/auxiliary/util/u_prim.h
+draw_pt_vcache.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_vcache.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+draw_pt_vcache.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_pt_vcache.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_pt_vcache.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_pt_vcache.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_vcache.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_pt_vcache.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_pt_vcache.o: /usr/include/stddef.h
+draw_pt_vcache.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_pt_vcache.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_pt_vcache.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_pt_vcache.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_pt_vcache.o: ../../../../src/gallium/auxiliary/draw/draw_private.h
+draw_pt_vcache.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_pt_vcache.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_pt_vcache.o: ../../../../src/gallium/auxiliary/draw/draw_pt.h
+draw_pt_vcache.o: draw_pt_vcache_tmp.h
+draw_vertex.o: ../../../../src/gallium/auxiliary/draw/draw_private.h
+draw_vertex.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_vertex.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vertex.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vertex.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vertex.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_vertex.o: /usr/include/stdarg.h
+draw_vertex.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vertex.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_vertex.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_vertex.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_vertex.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_vertex.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_vertex.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_vertex.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+draw_vertex.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+draw_vertex.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+draw_vertex.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+draw_vertex.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_vertex.o: /usr/include/libkern/_OSByteOrder.h
+draw_vertex.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+draw_vertex.o: /usr/include/machine/types.h /usr/include/i386/types.h
+draw_vertex.o: /usr/include/string.h /usr/include/secure/_string.h
+draw_vertex.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_vertex.o: /usr/include/stdbool.h
+draw_vertex.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_vertex.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_vertex.o: /usr/include/stddef.h
+draw_vertex.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_vertex.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_vertex.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_vertex.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vertex.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vertex.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_vertex.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_vertex.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+draw_vs.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_vs.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vs.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_vs.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_vs.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_vs.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_vs.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_vs.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_vs.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+draw_vs.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+draw_vs.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+draw_vs.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+draw_vs.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_vs.o: /usr/include/libkern/_OSByteOrder.h
+draw_vs.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+draw_vs.o: /usr/include/machine/types.h /usr/include/i386/types.h
+draw_vs.o: /usr/include/string.h /usr/include/secure/_string.h
+draw_vs.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_vs.o: /usr/include/stdbool.h
+draw_vs.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_vs.o: /usr/include/stdarg.h /usr/include/math.h
+draw_vs.o: /usr/include/architecture/i386/math.h
+draw_vs.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_vs.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_vs.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_vs.o: ../../../../src/gallium/include/pipe/p_compiler.h draw_private.h
+draw_vs.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_vs.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vs.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_vs.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_vs.o: /usr/include/stddef.h
+draw_vs.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_vs.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_vs.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_vs.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vs.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h draw_context.h
+draw_vs.o: draw_vs.h ../../../../src/gallium/auxiliary/translate/translate.h
+draw_vs.o: ../../../../src/gallium/auxiliary/translate/translate_cache.h
+draw_vs.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_exec.h
+draw_vs_varient.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_vs_varient.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_vs_varient.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vs_varient.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_vs_varient.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_vs_varient.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_vs_varient.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_vs_varient.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_vs_varient.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_vs_varient.o: /usr/include/sys/appleapiopts.h
+draw_vs_varient.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+draw_vs_varient.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+draw_vs_varient.o: /usr/include/machine/_structs.h
+draw_vs_varient.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+draw_vs_varient.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_vs_varient.o: /usr/include/libkern/_OSByteOrder.h
+draw_vs_varient.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_vs_varient.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_vs_varient.o: /usr/include/i386/types.h /usr/include/string.h
+draw_vs_varient.o: /usr/include/secure/_string.h
+draw_vs_varient.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_vs_varient.o: /usr/include/stdbool.h
+draw_vs_varient.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_vs_varient.o: /usr/include/stdarg.h
+draw_vs_varient.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_vs_varient.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+draw_vs_varient.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+draw_vs_varient.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_vs_varient.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vs_varient.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vs_varient.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs_varient.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_vs_varient.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_vs_varient.o: /usr/include/stddef.h
+draw_vs_varient.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_vs_varient.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_vs_varient.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_vs_varient.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs_varient.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vs_varient.o: ../../../../src/gallium/auxiliary/draw/draw_private.h
+draw_vs_varient.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_vs_varient.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_vs_varient.o: ../../../../src/gallium/auxiliary/draw/draw_vbuf.h
+draw_vs_varient.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+draw_vs_varient.o: ../../../../src/gallium/auxiliary/draw/draw_vs.h
+draw_vs_varient.o: draw_context.h draw_private.h
+draw_vs_varient.o: ../../../../src/gallium/auxiliary/translate/translate.h
+draw_vs_varient.o: ../../../../src/gallium/auxiliary/translate/translate_cache.h
+draw_vs_aos.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_vs_aos.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_vs_aos.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vs_aos.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_vs_aos.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_vs_aos.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_vs_aos.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_vs_aos.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_vs_aos.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_vs_aos.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+draw_vs_aos.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+draw_vs_aos.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+draw_vs_aos.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+draw_vs_aos.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_vs_aos.o: /usr/include/libkern/_OSByteOrder.h
+draw_vs_aos.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+draw_vs_aos.o: /usr/include/machine/types.h /usr/include/i386/types.h
+draw_vs_aos.o: /usr/include/string.h /usr/include/secure/_string.h
+draw_vs_aos.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_vs_aos.o: /usr/include/stdbool.h
+draw_vs_aos.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_vs_aos.o: /usr/include/stdarg.h
+draw_vs_aos.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_vs_aos.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+draw_vs_aos.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_vs_aos.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vs_aos.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+draw_vs_aos.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_util.h
+draw_vs_aos.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_exec.h
+draw_vs_aos.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_vs_aos.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vs_aos.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs_aos.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_vs_aos.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_vs_aos.o: /usr/include/stddef.h
+draw_vs_aos.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_vs_aos.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_vs_aos.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_vs_aos.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs_aos.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vs_aos.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_dump.h draw_vs.h
+draw_vs_aos.o: draw_context.h draw_private.h
+draw_vs_aos.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_vs_aos.o: draw_vs_aos.h ../../../../src/gallium/include/pipe/p_config.h
+draw_vs_aos.o: ../../../../src/gallium/auxiliary/rtasm/rtasm_x86sse.h
+draw_vs_aos_io.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_vs_aos_io.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_vs_aos_io.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vs_aos_io.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_vs_aos_io.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_vs_aos_io.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_vs_aos_io.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_vs_aos_io.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_vs_aos_io.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_vs_aos_io.o: /usr/include/sys/appleapiopts.h
+draw_vs_aos_io.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+draw_vs_aos_io.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+draw_vs_aos_io.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+draw_vs_aos_io.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+draw_vs_aos_io.o: /usr/include/sys/_endian.h
+draw_vs_aos_io.o: /usr/include/libkern/_OSByteOrder.h
+draw_vs_aos_io.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_vs_aos_io.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_vs_aos_io.o: /usr/include/i386/types.h /usr/include/string.h
+draw_vs_aos_io.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+draw_vs_aos_io.o: /usr/include/stdint.h /usr/include/stdbool.h
+draw_vs_aos_io.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_vs_aos_io.o: /usr/include/stdarg.h
+draw_vs_aos_io.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_vs_aos_io.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vs_aos_io.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+draw_vs_aos_io.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_util.h
+draw_vs_aos_io.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_exec.h
+draw_vs_aos_io.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_vs_aos_io.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vs_aos_io.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs_aos_io.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_vs_aos_io.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_vs_aos_io.o: /usr/include/stddef.h
+draw_vs_aos_io.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_vs_aos_io.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_vs_aos_io.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_vs_aos_io.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs_aos_io.o: ../../../../src/gallium/include/pipe/p_defines.h draw_vs.h
+draw_vs_aos_io.o: draw_context.h draw_private.h
+draw_vs_aos_io.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_vs_aos_io.o: draw_vs_aos.h
+draw_vs_aos_io.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_vs_aos_io.o: draw_vertex.h
+draw_vs_aos_io.o: ../../../../src/gallium/auxiliary/rtasm/rtasm_x86sse.h
+draw_vs_aos_machine.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_vs_aos_machine.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_vs_aos_machine.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vs_aos_machine.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_vs_aos_machine.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vs_aos_machine.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_vs_aos_machine.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_vs_aos_machine.o: /usr/include/AvailabilityInternal.h
+draw_vs_aos_machine.o: /usr/include/_types.h /usr/include/sys/_types.h
+draw_vs_aos_machine.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+draw_vs_aos_machine.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+draw_vs_aos_machine.o: /usr/include/sys/signal.h
+draw_vs_aos_machine.o: /usr/include/sys/appleapiopts.h
+draw_vs_aos_machine.o: /usr/include/machine/signal.h
+draw_vs_aos_machine.o: /usr/include/i386/signal.h
+draw_vs_aos_machine.o: /usr/include/i386/_structs.h
+draw_vs_aos_machine.o: /usr/include/sys/_structs.h
+draw_vs_aos_machine.o: /usr/include/machine/_structs.h
+draw_vs_aos_machine.o: /usr/include/sys/resource.h
+draw_vs_aos_machine.o: /usr/include/machine/endian.h
+draw_vs_aos_machine.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_vs_aos_machine.o: /usr/include/libkern/_OSByteOrder.h
+draw_vs_aos_machine.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_vs_aos_machine.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_vs_aos_machine.o: /usr/include/i386/types.h /usr/include/string.h
+draw_vs_aos_machine.o: /usr/include/secure/_string.h
+draw_vs_aos_machine.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_vs_aos_machine.o: /usr/include/stdbool.h
+draw_vs_aos_machine.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_vs_aos_machine.o: /usr/include/stdarg.h /usr/include/math.h
+draw_vs_aos_machine.o: /usr/include/architecture/i386/math.h
+draw_vs_aos_machine.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_vs_aos_machine.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_vs_aos_machine.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+draw_vs_aos_machine.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_util.h
+draw_vs_aos_machine.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_exec.h
+draw_vs_aos_machine.o: ../../../../src/gallium/include/pipe/p_state.h
+draw_vs_aos_machine.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vs_aos_machine.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs_aos_machine.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_vs_aos_machine.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_vs_aos_machine.o: /usr/include/stddef.h
+draw_vs_aos_machine.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_vs_aos_machine.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_vs_aos_machine.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_vs_aos_machine.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs_aos_machine.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vs_aos_machine.o: draw_vs.h draw_context.h draw_private.h
+draw_vs_aos_machine.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_vs_aos_machine.o: draw_vs_aos.h draw_vertex.h
+draw_vs_exec.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_vs_exec.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vs_exec.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_vs_exec.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_vs_exec.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_vs_exec.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_vs_exec.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_vs_exec.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_vs_exec.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+draw_vs_exec.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+draw_vs_exec.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+draw_vs_exec.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+draw_vs_exec.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_vs_exec.o: /usr/include/libkern/_OSByteOrder.h
+draw_vs_exec.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_vs_exec.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_vs_exec.o: /usr/include/i386/types.h /usr/include/string.h
+draw_vs_exec.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+draw_vs_exec.o: /usr/include/stdint.h /usr/include/stdbool.h
+draw_vs_exec.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_vs_exec.o: /usr/include/stdarg.h /usr/include/math.h
+draw_vs_exec.o: /usr/include/architecture/i386/math.h
+draw_vs_exec.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_vs_exec.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_vs_exec.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_vs_exec.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vs_exec.o: draw_private.h ../../../../src/gallium/include/pipe/p_state.h
+draw_vs_exec.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vs_exec.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs_exec.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_vs_exec.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_vs_exec.o: /usr/include/stddef.h
+draw_vs_exec.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_vs_exec.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_vs_exec.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_vs_exec.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs_exec.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vs_exec.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_vs_exec.o: draw_context.h draw_vs.h
+draw_vs_exec.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+draw_vs_exec.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_exec.h
+draw_vs_llvm.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_vs_llvm.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_vs_llvm.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vs_llvm.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_vs_llvm.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_vs_llvm.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_vs_llvm.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_vs_llvm.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_vs_llvm.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_vs_llvm.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+draw_vs_llvm.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+draw_vs_llvm.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+draw_vs_llvm.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+draw_vs_llvm.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_vs_llvm.o: /usr/include/libkern/_OSByteOrder.h
+draw_vs_llvm.o: /usr/include/libkern/i386/_OSByteOrder.h
+draw_vs_llvm.o: /usr/include/alloca.h /usr/include/machine/types.h
+draw_vs_llvm.o: /usr/include/i386/types.h /usr/include/string.h
+draw_vs_llvm.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+draw_vs_llvm.o: /usr/include/stdint.h /usr/include/stdbool.h
+draw_vs_llvm.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_vs_llvm.o: /usr/include/stdarg.h
+draw_vs_llvm.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_vs_llvm.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vs_llvm.o: draw_private.h ../../../../src/gallium/include/pipe/p_state.h
+draw_vs_llvm.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vs_llvm.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs_llvm.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_vs_llvm.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_vs_llvm.o: /usr/include/stddef.h
+draw_vs_llvm.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_vs_llvm.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_vs_llvm.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_vs_llvm.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs_llvm.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vs_llvm.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_vs_llvm.o: draw_context.h draw_vs.h
+draw_vs_llvm.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+draw_vs_ppc.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_vs_ppc.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vs_ppc.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_vs_ppc.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_vs_ppc.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_vs_ppc.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_vs_ppc.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_vs_ppc.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_vs_ppc.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+draw_vs_ppc.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+draw_vs_ppc.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+draw_vs_ppc.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+draw_vs_ppc.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_vs_ppc.o: /usr/include/libkern/_OSByteOrder.h
+draw_vs_ppc.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+draw_vs_ppc.o: /usr/include/machine/types.h /usr/include/i386/types.h
+draw_vs_ppc.o: /usr/include/string.h /usr/include/secure/_string.h
+draw_vs_ppc.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_vs_ppc.o: /usr/include/stdbool.h
+draw_vs_ppc.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_vs_ppc.o: /usr/include/stdarg.h /usr/include/math.h
+draw_vs_ppc.o: /usr/include/architecture/i386/math.h
+draw_vs_ppc.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_vs_ppc.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_vs_ppc.o: ../../../../src/gallium/include/pipe/p_config.h draw_vs.h
+draw_vs_ppc.o: draw_context.h ../../../../src/gallium/include/pipe/p_state.h
+draw_vs_ppc.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vs_ppc.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vs_ppc.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs_ppc.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_vs_ppc.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_vs_ppc.o: /usr/include/stddef.h
+draw_vs_ppc.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_vs_ppc.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_vs_ppc.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_vs_ppc.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs_ppc.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vs_ppc.o: draw_private.h
+draw_vs_ppc.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_vs_ppc.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+draw_vs_sse.o: ../../../../src/gallium/auxiliary/util/u_math.h
+draw_vs_sse.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vs_sse.o: ../../../../src/gallium/include/pipe/p_config.h
+draw_vs_sse.o: /usr/include/stdlib.h /usr/include/Availability.h
+draw_vs_sse.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+draw_vs_sse.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+draw_vs_sse.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+draw_vs_sse.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+draw_vs_sse.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+draw_vs_sse.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+draw_vs_sse.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+draw_vs_sse.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+draw_vs_sse.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+draw_vs_sse.o: /usr/include/libkern/_OSByteOrder.h
+draw_vs_sse.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+draw_vs_sse.o: /usr/include/machine/types.h /usr/include/i386/types.h
+draw_vs_sse.o: /usr/include/string.h /usr/include/secure/_string.h
+draw_vs_sse.o: /usr/include/secure/_common.h /usr/include/stdint.h
+draw_vs_sse.o: /usr/include/stdbool.h
+draw_vs_sse.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+draw_vs_sse.o: /usr/include/stdarg.h /usr/include/math.h
+draw_vs_sse.o: /usr/include/architecture/i386/math.h
+draw_vs_sse.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+draw_vs_sse.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+draw_vs_sse.o: ../../../../src/gallium/include/pipe/p_config.h draw_vs.h
+draw_vs_sse.o: draw_context.h ../../../../src/gallium/include/pipe/p_state.h
+draw_vs_sse.o: ../../../../src/gallium/include/pipe/p_compiler.h
+draw_vs_sse.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vs_sse.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs_sse.o: ../../../../src/gallium/auxiliary/util/u_string.h
+draw_vs_sse.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+draw_vs_sse.o: /usr/include/stddef.h
+draw_vs_sse.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+draw_vs_sse.o: ../../../../src/gallium/include/pipe/p_atomic.h
+draw_vs_sse.o: ../../../../src/gallium/include/pipe/p_screen.h
+draw_vs_sse.o: ../../../../src/gallium/include/pipe/p_format.h
+draw_vs_sse.o: ../../../../src/gallium/include/pipe/p_defines.h
+draw_vs_sse.o: draw_private.h
+draw_vs_sse.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+draw_vs_sse.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h

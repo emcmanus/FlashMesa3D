@@ -1,0 +1,168 @@
+# DO NOT DELETE
+
+rbug_connection.o: ../../../../src/gallium/auxiliary/rbug/rbug.h
+rbug_connection.o: ../../../../src/gallium/auxiliary/rbug/rbug_core.h
+rbug_connection.o: ../../../../src/gallium/auxiliary/rbug/rbug_proto.h
+rbug_connection.o: ../../../../src/gallium/include/pipe/p_compiler.h
+rbug_connection.o: ../../../../src/gallium/include/pipe/p_config.h
+rbug_connection.o: /usr/include/stdlib.h /usr/include/Availability.h
+rbug_connection.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+rbug_connection.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+rbug_connection.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+rbug_connection.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+rbug_connection.o: /usr/include/sys/appleapiopts.h
+rbug_connection.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+rbug_connection.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+rbug_connection.o: /usr/include/machine/_structs.h
+rbug_connection.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+rbug_connection.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+rbug_connection.o: /usr/include/libkern/_OSByteOrder.h
+rbug_connection.o: /usr/include/libkern/i386/_OSByteOrder.h
+rbug_connection.o: /usr/include/alloca.h /usr/include/machine/types.h
+rbug_connection.o: /usr/include/i386/types.h /usr/include/string.h
+rbug_connection.o: /usr/include/secure/_string.h
+rbug_connection.o: /usr/include/secure/_common.h /usr/include/stdint.h
+rbug_connection.o: /usr/include/stdbool.h
+rbug_connection.o: ../../../../src/gallium/auxiliary/rbug/rbug_shader.h
+rbug_connection.o: ../../../../src/gallium/auxiliary/rbug/rbug_context.h
+rbug_connection.o: ../../../../src/gallium/auxiliary/rbug/rbug_texture.h
+rbug_connection.o: ../../../../src/gallium/auxiliary/rbug/rbug_connection.h
+rbug_connection.o: ../../../../src/gallium/auxiliary/rbug/rbug_internal.h
+rbug_connection.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+rbug_connection.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+rbug_connection.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+rbug_connection.o: /usr/include/stdarg.h /usr/include/errno.h
+rbug_connection.o: /usr/include/sys/errno.h
+rbug_connection.o: ../../../../src/gallium/auxiliary/util/u_network.h
+rbug_core.o: rbug_internal.h
+rbug_core.o: ../../../../src/gallium/auxiliary/rbug/rbug_proto.h
+rbug_core.o: ../../../../src/gallium/include/pipe/p_compiler.h
+rbug_core.o: ../../../../src/gallium/include/pipe/p_config.h
+rbug_core.o: /usr/include/stdlib.h /usr/include/Availability.h
+rbug_core.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+rbug_core.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+rbug_core.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+rbug_core.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+rbug_core.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+rbug_core.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+rbug_core.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+rbug_core.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+rbug_core.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+rbug_core.o: /usr/include/libkern/_OSByteOrder.h
+rbug_core.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+rbug_core.o: /usr/include/machine/types.h /usr/include/i386/types.h
+rbug_core.o: /usr/include/string.h /usr/include/secure/_string.h
+rbug_core.o: /usr/include/secure/_common.h /usr/include/stdint.h
+rbug_core.o: /usr/include/stdbool.h
+rbug_core.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+rbug_core.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+rbug_core.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+rbug_core.o: /usr/include/stdarg.h /usr/include/errno.h
+rbug_core.o: /usr/include/sys/errno.h
+rbug_core.o: ../../../../src/gallium/auxiliary/rbug/rbug_core.h
+rbug_texture.o: rbug_internal.h
+rbug_texture.o: ../../../../src/gallium/auxiliary/rbug/rbug_proto.h
+rbug_texture.o: ../../../../src/gallium/include/pipe/p_compiler.h
+rbug_texture.o: ../../../../src/gallium/include/pipe/p_config.h
+rbug_texture.o: /usr/include/stdlib.h /usr/include/Availability.h
+rbug_texture.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+rbug_texture.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+rbug_texture.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+rbug_texture.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+rbug_texture.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+rbug_texture.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+rbug_texture.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+rbug_texture.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+rbug_texture.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+rbug_texture.o: /usr/include/libkern/_OSByteOrder.h
+rbug_texture.o: /usr/include/libkern/i386/_OSByteOrder.h
+rbug_texture.o: /usr/include/alloca.h /usr/include/machine/types.h
+rbug_texture.o: /usr/include/i386/types.h /usr/include/string.h
+rbug_texture.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+rbug_texture.o: /usr/include/stdint.h /usr/include/stdbool.h
+rbug_texture.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+rbug_texture.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+rbug_texture.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+rbug_texture.o: /usr/include/stdarg.h /usr/include/errno.h
+rbug_texture.o: /usr/include/sys/errno.h
+rbug_texture.o: ../../../../src/gallium/auxiliary/rbug/rbug_texture.h
+rbug_texture.o: ../../../../src/gallium/auxiliary/rbug/rbug_core.h
+rbug_context.o: rbug_internal.h
+rbug_context.o: ../../../../src/gallium/auxiliary/rbug/rbug_proto.h
+rbug_context.o: ../../../../src/gallium/include/pipe/p_compiler.h
+rbug_context.o: ../../../../src/gallium/include/pipe/p_config.h
+rbug_context.o: /usr/include/stdlib.h /usr/include/Availability.h
+rbug_context.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+rbug_context.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+rbug_context.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+rbug_context.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+rbug_context.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+rbug_context.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+rbug_context.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+rbug_context.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+rbug_context.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+rbug_context.o: /usr/include/libkern/_OSByteOrder.h
+rbug_context.o: /usr/include/libkern/i386/_OSByteOrder.h
+rbug_context.o: /usr/include/alloca.h /usr/include/machine/types.h
+rbug_context.o: /usr/include/i386/types.h /usr/include/string.h
+rbug_context.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+rbug_context.o: /usr/include/stdint.h /usr/include/stdbool.h
+rbug_context.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+rbug_context.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+rbug_context.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+rbug_context.o: /usr/include/stdarg.h /usr/include/errno.h
+rbug_context.o: /usr/include/sys/errno.h
+rbug_context.o: ../../../../src/gallium/auxiliary/rbug/rbug_context.h
+rbug_context.o: ../../../../src/gallium/auxiliary/rbug/rbug_core.h
+rbug_shader.o: rbug_internal.h
+rbug_shader.o: ../../../../src/gallium/auxiliary/rbug/rbug_proto.h
+rbug_shader.o: ../../../../src/gallium/include/pipe/p_compiler.h
+rbug_shader.o: ../../../../src/gallium/include/pipe/p_config.h
+rbug_shader.o: /usr/include/stdlib.h /usr/include/Availability.h
+rbug_shader.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+rbug_shader.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+rbug_shader.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+rbug_shader.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+rbug_shader.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+rbug_shader.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+rbug_shader.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+rbug_shader.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+rbug_shader.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+rbug_shader.o: /usr/include/libkern/_OSByteOrder.h
+rbug_shader.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+rbug_shader.o: /usr/include/machine/types.h /usr/include/i386/types.h
+rbug_shader.o: /usr/include/string.h /usr/include/secure/_string.h
+rbug_shader.o: /usr/include/secure/_common.h /usr/include/stdint.h
+rbug_shader.o: /usr/include/stdbool.h
+rbug_shader.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+rbug_shader.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+rbug_shader.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+rbug_shader.o: /usr/include/stdarg.h /usr/include/errno.h
+rbug_shader.o: /usr/include/sys/errno.h
+rbug_shader.o: ../../../../src/gallium/auxiliary/rbug/rbug_shader.h
+rbug_shader.o: ../../../../src/gallium/auxiliary/rbug/rbug_core.h
+rbug_demarshal.o: rbug.h ../../../../src/gallium/auxiliary/rbug/rbug_core.h
+rbug_demarshal.o: ../../../../src/gallium/auxiliary/rbug/rbug_proto.h
+rbug_demarshal.o: ../../../../src/gallium/include/pipe/p_compiler.h
+rbug_demarshal.o: ../../../../src/gallium/include/pipe/p_config.h
+rbug_demarshal.o: /usr/include/stdlib.h /usr/include/Availability.h
+rbug_demarshal.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+rbug_demarshal.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+rbug_demarshal.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+rbug_demarshal.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+rbug_demarshal.o: /usr/include/sys/appleapiopts.h
+rbug_demarshal.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+rbug_demarshal.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+rbug_demarshal.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+rbug_demarshal.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+rbug_demarshal.o: /usr/include/sys/_endian.h
+rbug_demarshal.o: /usr/include/libkern/_OSByteOrder.h
+rbug_demarshal.o: /usr/include/libkern/i386/_OSByteOrder.h
+rbug_demarshal.o: /usr/include/alloca.h /usr/include/machine/types.h
+rbug_demarshal.o: /usr/include/i386/types.h /usr/include/string.h
+rbug_demarshal.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+rbug_demarshal.o: /usr/include/stdint.h /usr/include/stdbool.h
+rbug_demarshal.o: ../../../../src/gallium/auxiliary/rbug/rbug_shader.h
+rbug_demarshal.o: ../../../../src/gallium/auxiliary/rbug/rbug_context.h
+rbug_demarshal.o: ../../../../src/gallium/auxiliary/rbug/rbug_texture.h
+rbug_demarshal.o: ../../../../src/gallium/auxiliary/rbug/rbug_connection.h

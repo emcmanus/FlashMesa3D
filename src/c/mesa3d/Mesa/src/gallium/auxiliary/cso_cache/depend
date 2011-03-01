@@ -1,0 +1,85 @@
+# DO NOT DELETE
+
+cso_context.o: ../../../../src/gallium/include/pipe/p_state.h
+cso_context.o: ../../../../src/gallium/include/pipe/p_compiler.h
+cso_context.o: ../../../../src/gallium/include/pipe/p_config.h
+cso_context.o: /usr/include/stdlib.h /usr/include/Availability.h
+cso_context.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+cso_context.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+cso_context.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+cso_context.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+cso_context.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+cso_context.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+cso_context.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+cso_context.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+cso_context.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+cso_context.o: /usr/include/libkern/_OSByteOrder.h
+cso_context.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+cso_context.o: /usr/include/machine/types.h /usr/include/i386/types.h
+cso_context.o: /usr/include/string.h /usr/include/secure/_string.h
+cso_context.o: /usr/include/secure/_common.h /usr/include/stdint.h
+cso_context.o: /usr/include/stdbool.h
+cso_context.o: ../../../../src/gallium/include/pipe/p_defines.h
+cso_context.o: ../../../../src/gallium/include/pipe/p_format.h
+cso_context.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+cso_context.o: /usr/include/stdarg.h
+cso_context.o: ../../../../src/gallium/include/pipe/p_compiler.h
+cso_context.o: ../../../../src/gallium/auxiliary/util/u_string.h
+cso_context.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+cso_context.o: /usr/include/stddef.h
+cso_context.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+cso_context.o: ../../../../src/gallium/include/pipe/p_atomic.h
+cso_context.o: ../../../../src/gallium/include/pipe/p_screen.h
+cso_context.o: ../../../../src/gallium/include/pipe/p_format.h
+cso_context.o: ../../../../src/gallium/include/pipe/p_defines.h
+cso_context.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+cso_context.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+cso_context.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+cso_context.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+cso_context.o: ../../../../src/gallium/auxiliary/cso_cache/cso_context.h
+cso_context.o: ../../../../src/gallium/include/pipe/p_context.h
+cso_context.o: ../../../../src/gallium/include/pipe/p_state.h
+cso_context.o: ../../../../src/gallium/auxiliary/cso_cache/cso_cache.h
+cso_context.o: cso_hash.h
+cso_context.o: ../../../../src/gallium/auxiliary/cso_cache/cso_hash.h
+cso_cache.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+cso_cache.o: /usr/include/stdarg.h
+cso_cache.o: ../../../../src/gallium/include/pipe/p_compiler.h
+cso_cache.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+cso_cache.o: ../../../../src/gallium/auxiliary/util/u_pointer.h cso_cache.h
+cso_cache.o: ../../../../src/gallium/include/pipe/p_context.h
+cso_cache.o: ../../../../src/gallium/include/pipe/p_state.h
+cso_cache.o: ../../../../src/gallium/include/pipe/p_state.h
+cso_cache.o: ../../../../src/gallium/include/pipe/p_compiler.h
+cso_cache.o: ../../../../src/gallium/include/pipe/p_config.h
+cso_cache.o: /usr/include/stdlib.h /usr/include/Availability.h
+cso_cache.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+cso_cache.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+cso_cache.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+cso_cache.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+cso_cache.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+cso_cache.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+cso_cache.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+cso_cache.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+cso_cache.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+cso_cache.o: /usr/include/libkern/_OSByteOrder.h
+cso_cache.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+cso_cache.o: /usr/include/machine/types.h /usr/include/i386/types.h
+cso_cache.o: /usr/include/string.h /usr/include/secure/_string.h
+cso_cache.o: /usr/include/secure/_common.h /usr/include/stdint.h
+cso_cache.o: /usr/include/stdbool.h
+cso_cache.o: ../../../../src/gallium/include/pipe/p_defines.h
+cso_cache.o: ../../../../src/gallium/include/pipe/p_format.h
+cso_cache.o: ../../../../src/gallium/auxiliary/util/u_string.h
+cso_cache.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+cso_cache.o: /usr/include/stddef.h
+cso_cache.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+cso_cache.o: ../../../../src/gallium/include/pipe/p_atomic.h
+cso_cache.o: ../../../../src/gallium/include/pipe/p_screen.h
+cso_cache.o: ../../../../src/gallium/include/pipe/p_format.h
+cso_cache.o: ../../../../src/gallium/include/pipe/p_defines.h cso_hash.h
+cso_hash.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+cso_hash.o: /usr/include/stdarg.h
+cso_hash.o: ../../../../src/gallium/include/pipe/p_compiler.h
+cso_hash.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+cso_hash.o: ../../../../src/gallium/auxiliary/util/u_pointer.h cso_hash.h

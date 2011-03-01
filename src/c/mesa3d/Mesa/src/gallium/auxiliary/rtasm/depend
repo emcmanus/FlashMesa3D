@@ -1,0 +1,95 @@
+# DO NOT DELETE
+
+rtasm_cpu.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+rtasm_cpu.o: /usr/include/stdarg.h
+rtasm_cpu.o: ../../../../src/gallium/include/pipe/p_compiler.h
+rtasm_cpu.o: ../../../../src/gallium/include/pipe/p_config.h
+rtasm_cpu.o: /usr/include/stdlib.h /usr/include/Availability.h
+rtasm_cpu.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+rtasm_cpu.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+rtasm_cpu.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+rtasm_cpu.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+rtasm_cpu.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+rtasm_cpu.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+rtasm_cpu.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+rtasm_cpu.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+rtasm_cpu.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+rtasm_cpu.o: /usr/include/libkern/_OSByteOrder.h
+rtasm_cpu.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+rtasm_cpu.o: /usr/include/machine/types.h /usr/include/i386/types.h
+rtasm_cpu.o: /usr/include/string.h /usr/include/secure/_string.h
+rtasm_cpu.o: /usr/include/secure/_common.h /usr/include/stdint.h
+rtasm_cpu.o: /usr/include/stdbool.h rtasm_cpu.h
+rtasm_execmem.o: ../../../../src/gallium/include/pipe/p_compiler.h
+rtasm_execmem.o: ../../../../src/gallium/include/pipe/p_config.h
+rtasm_execmem.o: /usr/include/stdlib.h /usr/include/Availability.h
+rtasm_execmem.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+rtasm_execmem.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+rtasm_execmem.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+rtasm_execmem.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+rtasm_execmem.o: /usr/include/sys/appleapiopts.h
+rtasm_execmem.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+rtasm_execmem.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+rtasm_execmem.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+rtasm_execmem.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+rtasm_execmem.o: /usr/include/sys/_endian.h
+rtasm_execmem.o: /usr/include/libkern/_OSByteOrder.h
+rtasm_execmem.o: /usr/include/libkern/i386/_OSByteOrder.h
+rtasm_execmem.o: /usr/include/alloca.h /usr/include/machine/types.h
+rtasm_execmem.o: /usr/include/i386/types.h /usr/include/string.h
+rtasm_execmem.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+rtasm_execmem.o: /usr/include/stdint.h /usr/include/stdbool.h
+rtasm_execmem.o: /usr/include/sys/types.h
+rtasm_execmem.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+rtasm_execmem.o: /usr/include/stdarg.h
+rtasm_execmem.o: ../../../../src/gallium/include/pipe/p_thread.h
+rtasm_execmem.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+rtasm_execmem.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+rtasm_execmem.o: rtasm_execmem.h
+rtasm_x86sse.o: ../../../../src/gallium/include/pipe/p_config.h
+rtasm_ppc.o: /usr/include/stdio.h /usr/include/_types.h
+rtasm_ppc.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+rtasm_ppc.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+rtasm_ppc.o: /usr/include/secure/_stdio.h /usr/include/secure/_common.h
+rtasm_ppc.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+rtasm_ppc.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+rtasm_ppc.o: ../../../../src/gallium/include/pipe/p_compiler.h
+rtasm_ppc.o: ../../../../src/gallium/include/pipe/p_config.h
+rtasm_ppc.o: /usr/include/stdlib.h /usr/include/Availability.h
+rtasm_ppc.o: /usr/include/AvailabilityInternal.h /usr/include/sys/wait.h
+rtasm_ppc.o: /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h
+rtasm_ppc.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+rtasm_ppc.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+rtasm_ppc.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+rtasm_ppc.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+rtasm_ppc.o: /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h
+rtasm_ppc.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+rtasm_ppc.o: /usr/include/machine/types.h /usr/include/i386/types.h
+rtasm_ppc.o: /usr/include/string.h /usr/include/secure/_string.h
+rtasm_ppc.o: /usr/include/stdint.h /usr/include/stdbool.h
+rtasm_ppc.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+rtasm_ppc.o: /usr/include/stdarg.h rtasm_execmem.h rtasm_ppc.h
+rtasm_ppc_spe.o: /usr/include/stdio.h /usr/include/_types.h
+rtasm_ppc_spe.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+rtasm_ppc_spe.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+rtasm_ppc_spe.o: /usr/include/secure/_stdio.h /usr/include/secure/_common.h
+rtasm_ppc_spe.o: ../../../../src/gallium/include/pipe/p_compiler.h
+rtasm_ppc_spe.o: ../../../../src/gallium/include/pipe/p_config.h
+rtasm_ppc_spe.o: /usr/include/stdlib.h /usr/include/Availability.h
+rtasm_ppc_spe.o: /usr/include/AvailabilityInternal.h /usr/include/sys/wait.h
+rtasm_ppc_spe.o: /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h
+rtasm_ppc_spe.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+rtasm_ppc_spe.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+rtasm_ppc_spe.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+rtasm_ppc_spe.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+rtasm_ppc_spe.o: /usr/include/sys/_endian.h
+rtasm_ppc_spe.o: /usr/include/libkern/_OSByteOrder.h
+rtasm_ppc_spe.o: /usr/include/libkern/i386/_OSByteOrder.h
+rtasm_ppc_spe.o: /usr/include/alloca.h /usr/include/machine/types.h
+rtasm_ppc_spe.o: /usr/include/i386/types.h /usr/include/string.h
+rtasm_ppc_spe.o: /usr/include/secure/_string.h /usr/include/stdint.h
+rtasm_ppc_spe.o: /usr/include/stdbool.h
+rtasm_ppc_spe.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+rtasm_ppc_spe.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+rtasm_ppc_spe.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+rtasm_ppc_spe.o: /usr/include/stdarg.h rtasm_ppc_spe.h

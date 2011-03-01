@@ -1,0 +1,154 @@
+# DO NOT DELETE
+
+translate_generic.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+translate_generic.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+translate_generic.o: ../../../../src/gallium/include/pipe/p_compiler.h
+translate_generic.o: ../../../../src/gallium/include/pipe/p_config.h
+translate_generic.o: /usr/include/stdlib.h /usr/include/Availability.h
+translate_generic.o: /usr/include/AvailabilityInternal.h
+translate_generic.o: /usr/include/_types.h /usr/include/sys/_types.h
+translate_generic.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+translate_generic.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+translate_generic.o: /usr/include/sys/signal.h
+translate_generic.o: /usr/include/sys/appleapiopts.h
+translate_generic.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+translate_generic.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+translate_generic.o: /usr/include/machine/_structs.h
+translate_generic.o: /usr/include/sys/resource.h
+translate_generic.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+translate_generic.o: /usr/include/sys/_endian.h
+translate_generic.o: /usr/include/libkern/_OSByteOrder.h
+translate_generic.o: /usr/include/libkern/i386/_OSByteOrder.h
+translate_generic.o: /usr/include/alloca.h /usr/include/machine/types.h
+translate_generic.o: /usr/include/i386/types.h /usr/include/string.h
+translate_generic.o: /usr/include/secure/_string.h
+translate_generic.o: /usr/include/secure/_common.h /usr/include/stdint.h
+translate_generic.o: /usr/include/stdbool.h
+translate_generic.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+translate_generic.o: /usr/include/stdarg.h
+translate_generic.o: ../../../../src/gallium/include/pipe/p_state.h
+translate_generic.o: ../../../../src/gallium/include/pipe/p_compiler.h
+translate_generic.o: ../../../../src/gallium/include/pipe/p_defines.h
+translate_generic.o: ../../../../src/gallium/include/pipe/p_format.h
+translate_generic.o: ../../../../src/gallium/auxiliary/util/u_string.h
+translate_generic.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+translate_generic.o: /usr/include/stddef.h
+translate_generic.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+translate_generic.o: ../../../../src/gallium/include/pipe/p_atomic.h
+translate_generic.o: ../../../../src/gallium/include/pipe/p_screen.h
+translate_generic.o: ../../../../src/gallium/include/pipe/p_format.h
+translate_generic.o: ../../../../src/gallium/include/pipe/p_defines.h
+translate_generic.o: translate.h
+translate_sse.o: ../../../../src/gallium/include/pipe/p_config.h
+translate_sse.o: ../../../../src/gallium/include/pipe/p_compiler.h
+translate_sse.o: ../../../../src/gallium/include/pipe/p_config.h
+translate_sse.o: /usr/include/stdlib.h /usr/include/Availability.h
+translate_sse.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+translate_sse.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+translate_sse.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+translate_sse.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+translate_sse.o: /usr/include/sys/appleapiopts.h
+translate_sse.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+translate_sse.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+translate_sse.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+translate_sse.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+translate_sse.o: /usr/include/sys/_endian.h
+translate_sse.o: /usr/include/libkern/_OSByteOrder.h
+translate_sse.o: /usr/include/libkern/i386/_OSByteOrder.h
+translate_sse.o: /usr/include/alloca.h /usr/include/machine/types.h
+translate_sse.o: /usr/include/i386/types.h /usr/include/string.h
+translate_sse.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+translate_sse.o: /usr/include/stdint.h /usr/include/stdbool.h
+translate_sse.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+translate_sse.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+translate_sse.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+translate_sse.o: /usr/include/stdarg.h
+translate_sse.o: ../../../../src/gallium/auxiliary/util/u_math.h
+translate_sse.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+translate_sse.o: translate.h ../../../../src/gallium/include/pipe/p_format.h
+translate_sse.o: ../../../../src/gallium/include/pipe/p_state.h
+translate_sse.o: ../../../../src/gallium/include/pipe/p_compiler.h
+translate_sse.o: ../../../../src/gallium/include/pipe/p_defines.h
+translate_sse.o: ../../../../src/gallium/include/pipe/p_format.h
+translate_sse.o: ../../../../src/gallium/auxiliary/util/u_string.h
+translate_sse.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+translate_sse.o: /usr/include/stddef.h
+translate_sse.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+translate_sse.o: ../../../../src/gallium/include/pipe/p_atomic.h
+translate_sse.o: ../../../../src/gallium/include/pipe/p_screen.h
+translate_sse.o: ../../../../src/gallium/include/pipe/p_defines.h
+translate.o: ../../../../src/gallium/include/pipe/p_config.h
+translate.o: ../../../../src/gallium/include/pipe/p_state.h
+translate.o: ../../../../src/gallium/include/pipe/p_compiler.h
+translate.o: ../../../../src/gallium/include/pipe/p_defines.h
+translate.o: ../../../../src/gallium/include/pipe/p_format.h
+translate.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+translate.o: /usr/include/stdarg.h
+translate.o: ../../../../src/gallium/include/pipe/p_compiler.h
+translate.o: ../../../../src/gallium/include/pipe/p_config.h
+translate.o: /usr/include/stdlib.h /usr/include/Availability.h
+translate.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+translate.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+translate.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+translate.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+translate.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+translate.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+translate.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+translate.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+translate.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+translate.o: /usr/include/libkern/_OSByteOrder.h
+translate.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+translate.o: /usr/include/machine/types.h /usr/include/i386/types.h
+translate.o: /usr/include/string.h /usr/include/secure/_string.h
+translate.o: /usr/include/secure/_common.h /usr/include/stdint.h
+translate.o: /usr/include/stdbool.h
+translate.o: ../../../../src/gallium/auxiliary/util/u_string.h
+translate.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+translate.o: /usr/include/stddef.h
+translate.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+translate.o: ../../../../src/gallium/include/pipe/p_atomic.h
+translate.o: ../../../../src/gallium/include/pipe/p_screen.h
+translate.o: ../../../../src/gallium/include/pipe/p_format.h
+translate.o: ../../../../src/gallium/include/pipe/p_defines.h translate.h
+translate_cache.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+translate_cache.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+translate_cache.o: ../../../../src/gallium/include/pipe/p_compiler.h
+translate_cache.o: ../../../../src/gallium/include/pipe/p_config.h
+translate_cache.o: /usr/include/stdlib.h /usr/include/Availability.h
+translate_cache.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+translate_cache.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+translate_cache.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+translate_cache.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+translate_cache.o: /usr/include/sys/appleapiopts.h
+translate_cache.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+translate_cache.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+translate_cache.o: /usr/include/machine/_structs.h
+translate_cache.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+translate_cache.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+translate_cache.o: /usr/include/libkern/_OSByteOrder.h
+translate_cache.o: /usr/include/libkern/i386/_OSByteOrder.h
+translate_cache.o: /usr/include/alloca.h /usr/include/machine/types.h
+translate_cache.o: /usr/include/i386/types.h /usr/include/string.h
+translate_cache.o: /usr/include/secure/_string.h
+translate_cache.o: /usr/include/secure/_common.h /usr/include/stdint.h
+translate_cache.o: /usr/include/stdbool.h
+translate_cache.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+translate_cache.o: /usr/include/stdarg.h
+translate_cache.o: ../../../../src/gallium/include/pipe/p_state.h
+translate_cache.o: ../../../../src/gallium/include/pipe/p_compiler.h
+translate_cache.o: ../../../../src/gallium/include/pipe/p_defines.h
+translate_cache.o: ../../../../src/gallium/include/pipe/p_format.h
+translate_cache.o: ../../../../src/gallium/auxiliary/util/u_string.h
+translate_cache.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+translate_cache.o: /usr/include/stddef.h
+translate_cache.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+translate_cache.o: ../../../../src/gallium/include/pipe/p_atomic.h
+translate_cache.o: ../../../../src/gallium/include/pipe/p_screen.h
+translate_cache.o: ../../../../src/gallium/include/pipe/p_format.h
+translate_cache.o: ../../../../src/gallium/include/pipe/p_defines.h
+translate_cache.o: translate.h translate_cache.h
+translate_cache.o: ../../../../src/gallium/auxiliary/cso_cache/cso_cache.h
+translate_cache.o: ../../../../src/gallium/include/pipe/p_context.h
+translate_cache.o: ../../../../src/gallium/include/pipe/p_state.h
+translate_cache.o: ../../../../src/gallium/auxiliary/cso_cache/cso_hash.h
+translate_cache.o: ../../../../src/gallium/auxiliary/cso_cache/cso_hash.h

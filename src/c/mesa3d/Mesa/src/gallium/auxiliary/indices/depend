@@ -1,0 +1,69 @@
+# DO NOT DELETE
+
+u_indices_gen.o: ../../../../src/gallium/auxiliary/indices/u_indices.h
+u_indices_gen.o: ../../../../src/gallium/include/pipe/p_compiler.h
+u_indices_gen.o: ../../../../src/gallium/include/pipe/p_config.h
+u_indices_gen.o: /usr/include/stdlib.h /usr/include/Availability.h
+u_indices_gen.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+u_indices_gen.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+u_indices_gen.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+u_indices_gen.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+u_indices_gen.o: /usr/include/sys/appleapiopts.h
+u_indices_gen.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+u_indices_gen.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+u_indices_gen.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+u_indices_gen.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+u_indices_gen.o: /usr/include/sys/_endian.h
+u_indices_gen.o: /usr/include/libkern/_OSByteOrder.h
+u_indices_gen.o: /usr/include/libkern/i386/_OSByteOrder.h
+u_indices_gen.o: /usr/include/alloca.h /usr/include/machine/types.h
+u_indices_gen.o: /usr/include/i386/types.h /usr/include/string.h
+u_indices_gen.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+u_indices_gen.o: /usr/include/stdint.h /usr/include/stdbool.h
+u_indices_gen.o: ../../../../src/gallium/auxiliary/indices/u_indices_priv.h
+u_indices_gen.o: u_indices.h ../../../../src/gallium/auxiliary/util/u_debug.h
+u_indices_gen.o: /usr/include/stdarg.h
+u_indices_gen.o: ../../../../src/gallium/include/pipe/p_defines.h
+u_indices_gen.o: ../../../../src/gallium/include/pipe/p_format.h
+u_indices_gen.o: ../../../../src/gallium/include/pipe/p_compiler.h
+u_indices_gen.o: ../../../../src/gallium/auxiliary/util/u_string.h
+u_indices_gen.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+u_indices_gen.o: /usr/include/stddef.h
+u_indices_gen.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+u_indices_gen.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+u_indices_gen.o: ../../../../src/gallium/auxiliary/indices/u_indices.c
+u_indices_gen.o: u_indices_priv.h
+u_unfilled_gen.o: ../../../../src/gallium/auxiliary/indices/u_indices.h
+u_unfilled_gen.o: ../../../../src/gallium/include/pipe/p_compiler.h
+u_unfilled_gen.o: ../../../../src/gallium/include/pipe/p_config.h
+u_unfilled_gen.o: /usr/include/stdlib.h /usr/include/Availability.h
+u_unfilled_gen.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+u_unfilled_gen.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+u_unfilled_gen.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+u_unfilled_gen.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+u_unfilled_gen.o: /usr/include/sys/appleapiopts.h
+u_unfilled_gen.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+u_unfilled_gen.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+u_unfilled_gen.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+u_unfilled_gen.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+u_unfilled_gen.o: /usr/include/sys/_endian.h
+u_unfilled_gen.o: /usr/include/libkern/_OSByteOrder.h
+u_unfilled_gen.o: /usr/include/libkern/i386/_OSByteOrder.h
+u_unfilled_gen.o: /usr/include/alloca.h /usr/include/machine/types.h
+u_unfilled_gen.o: /usr/include/i386/types.h /usr/include/string.h
+u_unfilled_gen.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+u_unfilled_gen.o: /usr/include/stdint.h /usr/include/stdbool.h
+u_unfilled_gen.o: ../../../../src/gallium/auxiliary/indices/u_indices_priv.h
+u_unfilled_gen.o: u_indices.h
+u_unfilled_gen.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+u_unfilled_gen.o: /usr/include/stdarg.h
+u_unfilled_gen.o: ../../../../src/gallium/include/pipe/p_defines.h
+u_unfilled_gen.o: ../../../../src/gallium/include/pipe/p_format.h
+u_unfilled_gen.o: ../../../../src/gallium/include/pipe/p_compiler.h
+u_unfilled_gen.o: ../../../../src/gallium/auxiliary/util/u_string.h
+u_unfilled_gen.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+u_unfilled_gen.o: /usr/include/stddef.h
+u_unfilled_gen.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+u_unfilled_gen.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+u_unfilled_gen.o: ../../../../src/gallium/auxiliary/indices/u_unfilled_indices.c
+u_unfilled_gen.o: u_indices_priv.h

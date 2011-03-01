@@ -1,0 +1,20 @@
+Getting Started Guide
+
+
+Open AND READ all documentation in this folder.
+
+The documentation at http://www.mesa3d.org/ is pretty helpful, too.
+
+Mesa3d has a pretty weird build system. At least, one that isn't supported by Alchemy without some hacking.
+
+The important files:
+
+src/c/mesa3d/Mesa/src/mesa/drivers/x11, the xLib driver, which the Flash driver will likely be built on.
+src/c/mesa3d/Mesa/configs/flash, which contains the build configuration.
+
+Note: now that I'm looking at this again it probably makes sense to build the driver based on Off-screen rendering (OSMesa).
+
+http://www.mesa3d.org/brianp/sig97/offscrn.htm
+http://www.mesa3d.org/osmesa.html
+
+

@@ -1,0 +1,11 @@
+
+TODO:
+
+ [OPEN]
+ - Ok, now that the build process is more or less straightened out, start building the Flash driver (first check that there isn't already a software driver!)
+ - Begin with a dummy driver, just an empty file with the necessary calls
+ - Then see how much is needed for real rendering by compiling a test application
+ - Then see if we need to also build out another driver for GLUT
+
+ [DONE]
+ - The mklib changes aren't yet being reflected in the makefiles. Probably need to do a realclean, re-run configure, then make the same edits again.

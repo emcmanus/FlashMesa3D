@@ -1,0 +1,1237 @@
+# DO NOT DELETE
+
+sp_fs_exec.o: sp_context.h ../../../../src/gallium/include/pipe/p_context.h
+sp_fs_exec.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_fs_exec.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_fs_exec.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_fs_exec.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_fs_exec.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_fs_exec.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_fs_exec.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_fs_exec.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_fs_exec.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+sp_fs_exec.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+sp_fs_exec.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+sp_fs_exec.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+sp_fs_exec.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_fs_exec.o: /usr/include/libkern/_OSByteOrder.h
+sp_fs_exec.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+sp_fs_exec.o: /usr/include/machine/types.h /usr/include/i386/types.h
+sp_fs_exec.o: /usr/include/string.h /usr/include/secure/_string.h
+sp_fs_exec.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_fs_exec.o: /usr/include/stdbool.h
+sp_fs_exec.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_fs_exec.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_fs_exec.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_fs_exec.o: /usr/include/stdarg.h
+sp_fs_exec.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_fs_exec.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_fs_exec.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_fs_exec.o: /usr/include/stddef.h
+sp_fs_exec.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_fs_exec.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_fs_exec.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_fs_exec.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_fs_exec.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_fs_exec.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_fs_exec.o: ../../../../src/gallium/include/pipe/p_state.h sp_quad_pipe.h
+sp_fs_exec.o: sp_state.h ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_fs_exec.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h sp_fs.h
+sp_fs_exec.o: sp_quad.h ../../../../src/gallium/auxiliary/tgsi/tgsi_exec.h
+sp_fs_exec.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_fs_exec.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_fs_exec.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+sp_fs_sse.o: sp_context.h ../../../../src/gallium/include/pipe/p_context.h
+sp_fs_sse.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_fs_sse.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_fs_sse.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_fs_sse.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_fs_sse.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_fs_sse.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_fs_sse.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_fs_sse.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_fs_sse.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+sp_fs_sse.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+sp_fs_sse.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+sp_fs_sse.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+sp_fs_sse.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_fs_sse.o: /usr/include/libkern/_OSByteOrder.h
+sp_fs_sse.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+sp_fs_sse.o: /usr/include/machine/types.h /usr/include/i386/types.h
+sp_fs_sse.o: /usr/include/string.h /usr/include/secure/_string.h
+sp_fs_sse.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_fs_sse.o: /usr/include/stdbool.h
+sp_fs_sse.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_fs_sse.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_fs_sse.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_fs_sse.o: /usr/include/stdarg.h
+sp_fs_sse.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_fs_sse.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_fs_sse.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_fs_sse.o: /usr/include/stddef.h
+sp_fs_sse.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_fs_sse.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_fs_sse.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_fs_sse.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_fs_sse.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_fs_sse.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_fs_sse.o: ../../../../src/gallium/include/pipe/p_state.h sp_quad_pipe.h
+sp_fs_sse.o: sp_state.h ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_fs_sse.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h sp_fs.h
+sp_fs_sse.o: sp_quad.h ../../../../src/gallium/auxiliary/tgsi/tgsi_exec.h
+sp_fs_sse.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_fs_sse.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_fs_sse.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_sse2.h
+sp_clear.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_clear.o: ../../../../src/gallium/auxiliary/util/u_pack_color.h
+sp_clear.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_clear.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_clear.o: ../../../../src/gallium/auxiliary/util/u_math.h
+sp_clear.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_clear.o: /usr/include/stdarg.h /usr/include/math.h
+sp_clear.o: /usr/include/architecture/i386/math.h /usr/include/sys/cdefs.h
+sp_clear.o: sp_clear.h sp_context.h
+sp_clear.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_clear.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_clear.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_clear.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_clear.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_clear.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_clear.o: /usr/include/sys/_types.h /usr/include/machine/_types.h
+sp_clear.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+sp_clear.o: /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h
+sp_clear.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+sp_clear.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+sp_clear.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+sp_clear.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+sp_clear.o: /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h
+sp_clear.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+sp_clear.o: /usr/include/machine/types.h /usr/include/i386/types.h
+sp_clear.o: /usr/include/string.h /usr/include/secure/_string.h
+sp_clear.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_clear.o: /usr/include/stdbool.h
+sp_clear.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_clear.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_clear.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_clear.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_clear.o: /usr/include/stddef.h
+sp_clear.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_clear.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_clear.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_clear.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_clear.o: ../../../../src/gallium/include/pipe/p_state.h sp_quad_pipe.h
+sp_clear.o: sp_tile_cache.h
+sp_flush.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_flush.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+sp_flush.o: ../../../../src/gallium/include/pipe/p_state.h sp_flush.h
+sp_flush.o: sp_context.h ../../../../src/gallium/include/pipe/p_context.h
+sp_flush.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_flush.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_flush.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_flush.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_flush.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_flush.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_flush.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_flush.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_flush.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+sp_flush.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+sp_flush.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+sp_flush.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+sp_flush.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_flush.o: /usr/include/libkern/_OSByteOrder.h
+sp_flush.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+sp_flush.o: /usr/include/machine/types.h /usr/include/i386/types.h
+sp_flush.o: /usr/include/string.h /usr/include/secure/_string.h
+sp_flush.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_flush.o: /usr/include/stdbool.h
+sp_flush.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_flush.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_flush.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_flush.o: /usr/include/stdarg.h
+sp_flush.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_flush.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_flush.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_flush.o: /usr/include/stddef.h
+sp_flush.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_flush.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_flush.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_flush.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_flush.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_flush.o: sp_quad_pipe.h sp_surface.h sp_state.h
+sp_flush.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_flush.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_flush.o: sp_tile_cache.h sp_tex_tile_cache.h sp_winsys.h
+sp_query.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+sp_query.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_query.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_query.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_query.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_query.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_query.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_query.o: /usr/include/stdarg.h sp_context.h
+sp_query.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_query.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_query.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_query.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_query.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_query.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_query.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_query.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_query.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_query.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+sp_query.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+sp_query.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+sp_query.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+sp_query.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_query.o: /usr/include/libkern/_OSByteOrder.h
+sp_query.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+sp_query.o: /usr/include/machine/types.h /usr/include/i386/types.h
+sp_query.o: /usr/include/string.h /usr/include/secure/_string.h
+sp_query.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_query.o: /usr/include/stdbool.h
+sp_query.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_query.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_query.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_query.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_query.o: /usr/include/stddef.h
+sp_query.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_query.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_query.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_query.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_query.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_query.o: sp_quad_pipe.h sp_query.h sp_state.h
+sp_query.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_query.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_context.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+sp_context.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_context.o: ../../../../src/gallium/auxiliary/draw/draw_vbuf.h
+sp_context.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_context.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_context.o: ../../../../src/gallium/auxiliary/util/u_math.h
+sp_context.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_context.o: /usr/include/stdarg.h /usr/include/math.h
+sp_context.o: /usr/include/architecture/i386/math.h /usr/include/sys/cdefs.h
+sp_context.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_context.o: ../../../../src/gallium/auxiliary/util/u_pointer.h sp_clear.h
+sp_context.o: sp_context.h ../../../../src/gallium/include/pipe/p_context.h
+sp_context.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_context.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_context.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_context.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_context.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_context.o: /usr/include/sys/_types.h /usr/include/machine/_types.h
+sp_context.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+sp_context.o: /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h
+sp_context.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+sp_context.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+sp_context.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+sp_context.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+sp_context.o: /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h
+sp_context.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+sp_context.o: /usr/include/machine/types.h /usr/include/i386/types.h
+sp_context.o: /usr/include/string.h /usr/include/secure/_string.h
+sp_context.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_context.o: /usr/include/stdbool.h
+sp_context.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_context.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_context.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_context.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_context.o: /usr/include/stddef.h
+sp_context.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_context.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_context.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_context.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_context.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_context.o: sp_quad_pipe.h sp_flush.h sp_prim_vbuf.h sp_state.h
+sp_context.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_context.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_context.o: sp_surface.h sp_tile_cache.h sp_tex_tile_cache.h sp_texture.h
+sp_context.o: ../../../../src/gallium/include/pipe/p_video_state.h
+sp_context.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_context.o: ../../../../src/gallium/include/pipe/p_screen.h sp_winsys.h
+sp_context.o: sp_query.h
+sp_draw_arrays.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_draw_arrays.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_draw_arrays.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_draw_arrays.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_draw_arrays.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_draw_arrays.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_draw_arrays.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_draw_arrays.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_draw_arrays.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_draw_arrays.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_draw_arrays.o: /usr/include/sys/appleapiopts.h
+sp_draw_arrays.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+sp_draw_arrays.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+sp_draw_arrays.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+sp_draw_arrays.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+sp_draw_arrays.o: /usr/include/sys/_endian.h
+sp_draw_arrays.o: /usr/include/libkern/_OSByteOrder.h
+sp_draw_arrays.o: /usr/include/libkern/i386/_OSByteOrder.h
+sp_draw_arrays.o: /usr/include/alloca.h /usr/include/machine/types.h
+sp_draw_arrays.o: /usr/include/i386/types.h /usr/include/string.h
+sp_draw_arrays.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+sp_draw_arrays.o: /usr/include/stdint.h /usr/include/stdbool.h
+sp_draw_arrays.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_draw_arrays.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_draw_arrays.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_draw_arrays.o: /usr/include/stdarg.h
+sp_draw_arrays.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_draw_arrays.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_draw_arrays.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_draw_arrays.o: /usr/include/stddef.h
+sp_draw_arrays.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_draw_arrays.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_draw_arrays.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_draw_arrays.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_draw_arrays.o: ../../../../src/gallium/include/pipe/internal/p_winsys_screen.h
+sp_draw_arrays.o: ../../../../src/gallium/include/pipe/p_inlines.h
+sp_draw_arrays.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_draw_arrays.o: ../../../../src/gallium/auxiliary/util/u_prim.h
+sp_draw_arrays.o: sp_context.h
+sp_draw_arrays.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_draw_arrays.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_draw_arrays.o: sp_quad_pipe.h sp_state.h
+sp_draw_arrays.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_draw_arrays.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_draw_arrays.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+sp_prim_vbuf.o: sp_context.h ../../../../src/gallium/include/pipe/p_context.h
+sp_prim_vbuf.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_prim_vbuf.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_prim_vbuf.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_prim_vbuf.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_prim_vbuf.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_prim_vbuf.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_prim_vbuf.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_prim_vbuf.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_prim_vbuf.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+sp_prim_vbuf.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+sp_prim_vbuf.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+sp_prim_vbuf.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+sp_prim_vbuf.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_prim_vbuf.o: /usr/include/libkern/_OSByteOrder.h
+sp_prim_vbuf.o: /usr/include/libkern/i386/_OSByteOrder.h
+sp_prim_vbuf.o: /usr/include/alloca.h /usr/include/machine/types.h
+sp_prim_vbuf.o: /usr/include/i386/types.h /usr/include/string.h
+sp_prim_vbuf.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+sp_prim_vbuf.o: /usr/include/stdint.h /usr/include/stdbool.h
+sp_prim_vbuf.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_prim_vbuf.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_prim_vbuf.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_prim_vbuf.o: /usr/include/stdarg.h
+sp_prim_vbuf.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_prim_vbuf.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_prim_vbuf.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_prim_vbuf.o: /usr/include/stddef.h
+sp_prim_vbuf.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_prim_vbuf.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_prim_vbuf.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_prim_vbuf.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_prim_vbuf.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_prim_vbuf.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_prim_vbuf.o: ../../../../src/gallium/include/pipe/p_state.h sp_quad_pipe.h
+sp_prim_vbuf.o: sp_setup.h sp_state.h
+sp_prim_vbuf.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_prim_vbuf.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_prim_vbuf.o: sp_prim_vbuf.h
+sp_prim_vbuf.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+sp_prim_vbuf.o: ../../../../src/gallium/auxiliary/draw/draw_vbuf.h
+sp_prim_vbuf.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_prim_vbuf.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_prim_vbuf.o: ../../../../src/gallium/auxiliary/util/u_prim.h
+sp_quad_pipe.o: sp_context.h ../../../../src/gallium/include/pipe/p_context.h
+sp_quad_pipe.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_quad_pipe.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_quad_pipe.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_quad_pipe.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_quad_pipe.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_quad_pipe.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_quad_pipe.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_quad_pipe.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_quad_pipe.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+sp_quad_pipe.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+sp_quad_pipe.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+sp_quad_pipe.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+sp_quad_pipe.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_quad_pipe.o: /usr/include/libkern/_OSByteOrder.h
+sp_quad_pipe.o: /usr/include/libkern/i386/_OSByteOrder.h
+sp_quad_pipe.o: /usr/include/alloca.h /usr/include/machine/types.h
+sp_quad_pipe.o: /usr/include/i386/types.h /usr/include/string.h
+sp_quad_pipe.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+sp_quad_pipe.o: /usr/include/stdint.h /usr/include/stdbool.h
+sp_quad_pipe.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_quad_pipe.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_quad_pipe.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_quad_pipe.o: /usr/include/stdarg.h
+sp_quad_pipe.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_quad_pipe.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_quad_pipe.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_quad_pipe.o: /usr/include/stddef.h
+sp_quad_pipe.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_quad_pipe.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_quad_pipe.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_quad_pipe.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_quad_pipe.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_quad_pipe.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_quad_pipe.o: ../../../../src/gallium/include/pipe/p_state.h sp_quad_pipe.h
+sp_quad_pipe.o: sp_state.h ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_quad_pipe.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_quad_stipple.o: sp_context.h
+sp_quad_stipple.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_quad_stipple.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_quad_stipple.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_quad_stipple.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_quad_stipple.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_quad_stipple.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_quad_stipple.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_quad_stipple.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_quad_stipple.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_quad_stipple.o: /usr/include/sys/appleapiopts.h
+sp_quad_stipple.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+sp_quad_stipple.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+sp_quad_stipple.o: /usr/include/machine/_structs.h
+sp_quad_stipple.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+sp_quad_stipple.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_quad_stipple.o: /usr/include/libkern/_OSByteOrder.h
+sp_quad_stipple.o: /usr/include/libkern/i386/_OSByteOrder.h
+sp_quad_stipple.o: /usr/include/alloca.h /usr/include/machine/types.h
+sp_quad_stipple.o: /usr/include/i386/types.h /usr/include/string.h
+sp_quad_stipple.o: /usr/include/secure/_string.h
+sp_quad_stipple.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_quad_stipple.o: /usr/include/stdbool.h
+sp_quad_stipple.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_quad_stipple.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_quad_stipple.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_quad_stipple.o: /usr/include/stdarg.h
+sp_quad_stipple.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_quad_stipple.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_quad_stipple.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_quad_stipple.o: /usr/include/stddef.h
+sp_quad_stipple.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_quad_stipple.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_quad_stipple.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_quad_stipple.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_quad_stipple.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_quad_stipple.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_quad_stipple.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_quad_stipple.o: sp_quad_pipe.h sp_quad.h
+sp_quad_stipple.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_exec.h
+sp_quad_stipple.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_quad_stipple.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_quad_depth_test.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_quad_depth_test.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_quad_depth_test.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_quad_depth_test.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_quad_depth_test.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_quad_depth_test.o: /usr/include/stdarg.h
+sp_quad_depth_test.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_quad_depth_test.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_quad_depth_test.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_quad_depth_test.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_quad_depth_test.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_quad_depth_test.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_quad_depth_test.o: /usr/include/AvailabilityInternal.h
+sp_quad_depth_test.o: /usr/include/_types.h /usr/include/sys/_types.h
+sp_quad_depth_test.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+sp_quad_depth_test.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+sp_quad_depth_test.o: /usr/include/sys/signal.h
+sp_quad_depth_test.o: /usr/include/sys/appleapiopts.h
+sp_quad_depth_test.o: /usr/include/machine/signal.h
+sp_quad_depth_test.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+sp_quad_depth_test.o: /usr/include/sys/_structs.h
+sp_quad_depth_test.o: /usr/include/machine/_structs.h
+sp_quad_depth_test.o: /usr/include/sys/resource.h
+sp_quad_depth_test.o: /usr/include/machine/endian.h
+sp_quad_depth_test.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_quad_depth_test.o: /usr/include/libkern/_OSByteOrder.h
+sp_quad_depth_test.o: /usr/include/libkern/i386/_OSByteOrder.h
+sp_quad_depth_test.o: /usr/include/alloca.h /usr/include/machine/types.h
+sp_quad_depth_test.o: /usr/include/i386/types.h /usr/include/string.h
+sp_quad_depth_test.o: /usr/include/secure/_string.h
+sp_quad_depth_test.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_quad_depth_test.o: /usr/include/stdbool.h sp_context.h
+sp_quad_depth_test.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_quad_depth_test.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_quad_depth_test.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_quad_depth_test.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_quad_depth_test.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_quad_depth_test.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_quad_depth_test.o: /usr/include/stddef.h
+sp_quad_depth_test.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_quad_depth_test.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_quad_depth_test.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_quad_depth_test.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_quad_depth_test.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_quad_depth_test.o: sp_quad_pipe.h sp_quad.h
+sp_quad_depth_test.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_exec.h
+sp_quad_depth_test.o: sp_surface.h sp_tile_cache.h sp_state.h
+sp_quad_fs.o: ../../../../src/gallium/auxiliary/util/u_math.h
+sp_quad_fs.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_quad_fs.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_quad_fs.o: /usr/include/stdarg.h /usr/include/math.h
+sp_quad_fs.o: /usr/include/architecture/i386/math.h /usr/include/sys/cdefs.h
+sp_quad_fs.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_quad_fs.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_quad_fs.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_quad_fs.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_quad_fs.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_quad_fs.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_quad_fs.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_quad_fs.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_quad_fs.o: /usr/include/sys/_types.h /usr/include/machine/_types.h
+sp_quad_fs.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+sp_quad_fs.o: /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h
+sp_quad_fs.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+sp_quad_fs.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+sp_quad_fs.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+sp_quad_fs.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+sp_quad_fs.o: /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h
+sp_quad_fs.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+sp_quad_fs.o: /usr/include/machine/types.h /usr/include/i386/types.h
+sp_quad_fs.o: /usr/include/string.h /usr/include/secure/_string.h
+sp_quad_fs.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_quad_fs.o: /usr/include/stdbool.h sp_context.h
+sp_quad_fs.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_quad_fs.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_quad_fs.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_quad_fs.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_quad_fs.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_quad_fs.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_quad_fs.o: /usr/include/stddef.h
+sp_quad_fs.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_quad_fs.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_quad_fs.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_quad_fs.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_quad_fs.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_quad_fs.o: ../../../../src/gallium/include/pipe/p_state.h sp_quad_pipe.h
+sp_quad_fs.o: sp_state.h ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_quad_fs.o: sp_quad.h ../../../../src/gallium/auxiliary/tgsi/tgsi_exec.h
+sp_quad_fs.o: sp_texture.h
+sp_quad_fs.o: ../../../../src/gallium/include/pipe/p_video_state.h
+sp_quad_fs.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_quad_fs.o: ../../../../src/gallium/include/pipe/p_screen.h sp_tex_sample.h
+sp_quad_blend.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_quad_blend.o: ../../../../src/gallium/auxiliary/util/u_math.h
+sp_quad_blend.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_quad_blend.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_quad_blend.o: /usr/include/stdarg.h /usr/include/math.h
+sp_quad_blend.o: /usr/include/architecture/i386/math.h
+sp_quad_blend.o: /usr/include/sys/cdefs.h
+sp_quad_blend.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_quad_blend.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_quad_blend.o: sp_context.h
+sp_quad_blend.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_quad_blend.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_quad_blend.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_quad_blend.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_quad_blend.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_quad_blend.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_quad_blend.o: /usr/include/sys/_types.h /usr/include/machine/_types.h
+sp_quad_blend.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+sp_quad_blend.o: /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h
+sp_quad_blend.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+sp_quad_blend.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+sp_quad_blend.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+sp_quad_blend.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+sp_quad_blend.o: /usr/include/sys/_endian.h
+sp_quad_blend.o: /usr/include/libkern/_OSByteOrder.h
+sp_quad_blend.o: /usr/include/libkern/i386/_OSByteOrder.h
+sp_quad_blend.o: /usr/include/alloca.h /usr/include/machine/types.h
+sp_quad_blend.o: /usr/include/i386/types.h /usr/include/string.h
+sp_quad_blend.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+sp_quad_blend.o: /usr/include/stdint.h /usr/include/stdbool.h
+sp_quad_blend.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_quad_blend.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_quad_blend.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_quad_blend.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_quad_blend.o: /usr/include/stddef.h
+sp_quad_blend.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_quad_blend.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_quad_blend.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_quad_blend.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_quad_blend.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_quad_blend.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_quad_blend.o: sp_quad_pipe.h sp_quad.h
+sp_quad_blend.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_exec.h
+sp_quad_blend.o: sp_surface.h sp_tile_cache.h
+sp_screen.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_screen.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_screen.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_screen.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_screen.o: /usr/include/stdarg.h
+sp_screen.o: ../../../../src/gallium/auxiliary/util/u_simple_screen.h
+sp_screen.o: ../../../../src/gallium/include/pipe/internal/p_winsys_screen.h
+sp_screen.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_screen.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_screen.o: ../../../../src/gallium/include/pipe/p_screen.h sp_texture.h
+sp_screen.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_screen.o: ../../../../src/gallium/include/pipe/p_video_state.h
+sp_screen.o: ../../../../src/gallium/include/pipe/p_refcnt.h sp_winsys.h
+sp_screen.o: sp_screen.h
+sp_setup.o: sp_context.h ../../../../src/gallium/include/pipe/p_context.h
+sp_setup.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_setup.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_setup.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_setup.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_setup.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_setup.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_setup.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_setup.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_setup.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+sp_setup.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+sp_setup.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+sp_setup.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+sp_setup.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_setup.o: /usr/include/libkern/_OSByteOrder.h
+sp_setup.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+sp_setup.o: /usr/include/machine/types.h /usr/include/i386/types.h
+sp_setup.o: /usr/include/string.h /usr/include/secure/_string.h
+sp_setup.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_setup.o: /usr/include/stdbool.h
+sp_setup.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_setup.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_setup.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_setup.o: /usr/include/stdarg.h
+sp_setup.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_setup.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_setup.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_setup.o: /usr/include/stddef.h
+sp_setup.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_setup.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_setup.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_setup.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_setup.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_setup.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_setup.o: ../../../../src/gallium/include/pipe/p_state.h sp_quad_pipe.h
+sp_setup.o: sp_quad.h ../../../../src/gallium/auxiliary/tgsi/tgsi_exec.h
+sp_setup.o: sp_setup.h sp_state.h
+sp_setup.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_setup.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_setup.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+sp_setup.o: ../../../../src/gallium/auxiliary/draw/draw_private.h
+sp_setup.o: ../../../../src/gallium/include/pipe/p_thread.h
+sp_setup.o: ../../../../src/gallium/auxiliary/util/u_math.h
+sp_setup.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+sp_setup.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_setup.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_state_blend.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_state_blend.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_state_blend.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_state_blend.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_state_blend.o: /usr/include/stdarg.h sp_context.h
+sp_state_blend.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_state_blend.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_state_blend.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_state_blend.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_state_blend.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_state_blend.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_state_blend.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_state_blend.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_state_blend.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_state_blend.o: /usr/include/sys/appleapiopts.h
+sp_state_blend.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+sp_state_blend.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+sp_state_blend.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+sp_state_blend.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+sp_state_blend.o: /usr/include/sys/_endian.h
+sp_state_blend.o: /usr/include/libkern/_OSByteOrder.h
+sp_state_blend.o: /usr/include/libkern/i386/_OSByteOrder.h
+sp_state_blend.o: /usr/include/alloca.h /usr/include/machine/types.h
+sp_state_blend.o: /usr/include/i386/types.h /usr/include/string.h
+sp_state_blend.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+sp_state_blend.o: /usr/include/stdint.h /usr/include/stdbool.h
+sp_state_blend.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_state_blend.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_state_blend.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_state_blend.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_state_blend.o: /usr/include/stddef.h
+sp_state_blend.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_state_blend.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_state_blend.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_state_blend.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_state_blend.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_state_blend.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_state_blend.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_state_blend.o: sp_quad_pipe.h sp_state.h
+sp_state_blend.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_state_blend.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_state_clip.o: sp_context.h
+sp_state_clip.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_state_clip.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_state_clip.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_state_clip.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_state_clip.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_state_clip.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_state_clip.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_state_clip.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_state_clip.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_state_clip.o: /usr/include/sys/appleapiopts.h
+sp_state_clip.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+sp_state_clip.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+sp_state_clip.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+sp_state_clip.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+sp_state_clip.o: /usr/include/sys/_endian.h
+sp_state_clip.o: /usr/include/libkern/_OSByteOrder.h
+sp_state_clip.o: /usr/include/libkern/i386/_OSByteOrder.h
+sp_state_clip.o: /usr/include/alloca.h /usr/include/machine/types.h
+sp_state_clip.o: /usr/include/i386/types.h /usr/include/string.h
+sp_state_clip.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+sp_state_clip.o: /usr/include/stdint.h /usr/include/stdbool.h
+sp_state_clip.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_state_clip.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_state_clip.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_state_clip.o: /usr/include/stdarg.h
+sp_state_clip.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_state_clip.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_state_clip.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_state_clip.o: /usr/include/stddef.h
+sp_state_clip.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_state_clip.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_state_clip.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_state_clip.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_state_clip.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_state_clip.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_state_clip.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_state_clip.o: sp_quad_pipe.h sp_state.h
+sp_state_clip.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_state_clip.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_state_clip.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+sp_state_derived.o: ../../../../src/gallium/auxiliary/util/u_math.h
+sp_state_derived.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_state_derived.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_state_derived.o: /usr/include/stdarg.h /usr/include/math.h
+sp_state_derived.o: /usr/include/architecture/i386/math.h
+sp_state_derived.o: /usr/include/sys/cdefs.h
+sp_state_derived.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_state_derived.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_state_derived.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_state_derived.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_state_derived.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_state_derived.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_state_derived.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_state_derived.o: /usr/include/sys/_types.h /usr/include/machine/_types.h
+sp_state_derived.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+sp_state_derived.o: /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h
+sp_state_derived.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+sp_state_derived.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+sp_state_derived.o: /usr/include/machine/_structs.h
+sp_state_derived.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+sp_state_derived.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_state_derived.o: /usr/include/libkern/_OSByteOrder.h
+sp_state_derived.o: /usr/include/libkern/i386/_OSByteOrder.h
+sp_state_derived.o: /usr/include/alloca.h /usr/include/machine/types.h
+sp_state_derived.o: /usr/include/i386/types.h /usr/include/string.h
+sp_state_derived.o: /usr/include/secure/_string.h
+sp_state_derived.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_state_derived.o: /usr/include/stdbool.h
+sp_state_derived.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+sp_state_derived.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_state_derived.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_state_derived.o: ../../../../src/gallium/auxiliary/draw/draw_private.h
+sp_state_derived.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_state_derived.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_state_derived.o: sp_context.h
+sp_state_derived.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_state_derived.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_state_derived.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_state_derived.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_state_derived.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_state_derived.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_state_derived.o: /usr/include/stddef.h
+sp_state_derived.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_state_derived.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_state_derived.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_state_derived.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_state_derived.o: sp_quad_pipe.h sp_screen.h
+sp_state_derived.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_state_derived.o: sp_state.h sp_texture.h
+sp_state_derived.o: ../../../../src/gallium/include/pipe/p_video_state.h
+sp_state_derived.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_state_derived.o: sp_tex_tile_cache.h
+sp_state_fs.o: sp_context.h ../../../../src/gallium/include/pipe/p_context.h
+sp_state_fs.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_state_fs.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_state_fs.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_state_fs.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_state_fs.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_state_fs.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_state_fs.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_state_fs.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_state_fs.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+sp_state_fs.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+sp_state_fs.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+sp_state_fs.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+sp_state_fs.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_state_fs.o: /usr/include/libkern/_OSByteOrder.h
+sp_state_fs.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+sp_state_fs.o: /usr/include/machine/types.h /usr/include/i386/types.h
+sp_state_fs.o: /usr/include/string.h /usr/include/secure/_string.h
+sp_state_fs.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_state_fs.o: /usr/include/stdbool.h
+sp_state_fs.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_state_fs.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_state_fs.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_state_fs.o: /usr/include/stdarg.h
+sp_state_fs.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_state_fs.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_state_fs.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_state_fs.o: /usr/include/stddef.h
+sp_state_fs.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_state_fs.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_state_fs.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_state_fs.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_state_fs.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_state_fs.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_state_fs.o: ../../../../src/gallium/include/pipe/p_state.h sp_quad_pipe.h
+sp_state_fs.o: sp_state.h ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_state_fs.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h sp_fs.h
+sp_state_fs.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_state_fs.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_state_fs.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+sp_state_fs.o: ../../../../src/gallium/auxiliary/draw/draw_vs.h
+sp_state_fs.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+sp_state_fs.o: ../../../../src/gallium/auxiliary/draw/draw_private.h
+sp_state_fs.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_dump.h
+sp_state_fs.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+sp_state_sampler.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_state_sampler.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_state_sampler.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_state_sampler.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_state_sampler.o: /usr/include/stdarg.h
+sp_state_sampler.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+sp_state_sampler.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_state_sampler.o: sp_context.h
+sp_state_sampler.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_state_sampler.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_state_sampler.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_state_sampler.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_state_sampler.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_state_sampler.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_state_sampler.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_state_sampler.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_state_sampler.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_state_sampler.o: /usr/include/sys/appleapiopts.h
+sp_state_sampler.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+sp_state_sampler.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+sp_state_sampler.o: /usr/include/machine/_structs.h
+sp_state_sampler.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+sp_state_sampler.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_state_sampler.o: /usr/include/libkern/_OSByteOrder.h
+sp_state_sampler.o: /usr/include/libkern/i386/_OSByteOrder.h
+sp_state_sampler.o: /usr/include/alloca.h /usr/include/machine/types.h
+sp_state_sampler.o: /usr/include/i386/types.h /usr/include/string.h
+sp_state_sampler.o: /usr/include/secure/_string.h
+sp_state_sampler.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_state_sampler.o: /usr/include/stdbool.h
+sp_state_sampler.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_state_sampler.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_state_sampler.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_state_sampler.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_state_sampler.o: /usr/include/stddef.h
+sp_state_sampler.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_state_sampler.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_state_sampler.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_state_sampler.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_state_sampler.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_state_sampler.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_state_sampler.o: sp_quad_pipe.h sp_state.h
+sp_state_sampler.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_state_sampler.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_state_sampler.o: sp_texture.h
+sp_state_sampler.o: ../../../../src/gallium/include/pipe/p_video_state.h
+sp_state_sampler.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_state_sampler.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_state_sampler.o: sp_tex_sample.h
+sp_state_sampler.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_exec.h
+sp_state_sampler.o: sp_tex_tile_cache.h
+sp_state_rasterizer.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_state_rasterizer.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_state_rasterizer.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_state_rasterizer.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_state_rasterizer.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_state_rasterizer.o: /usr/include/stdarg.h sp_context.h
+sp_state_rasterizer.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_state_rasterizer.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_state_rasterizer.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_state_rasterizer.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_state_rasterizer.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_state_rasterizer.o: /usr/include/AvailabilityInternal.h
+sp_state_rasterizer.o: /usr/include/_types.h /usr/include/sys/_types.h
+sp_state_rasterizer.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+sp_state_rasterizer.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+sp_state_rasterizer.o: /usr/include/sys/signal.h
+sp_state_rasterizer.o: /usr/include/sys/appleapiopts.h
+sp_state_rasterizer.o: /usr/include/machine/signal.h
+sp_state_rasterizer.o: /usr/include/i386/signal.h
+sp_state_rasterizer.o: /usr/include/i386/_structs.h
+sp_state_rasterizer.o: /usr/include/sys/_structs.h
+sp_state_rasterizer.o: /usr/include/machine/_structs.h
+sp_state_rasterizer.o: /usr/include/sys/resource.h
+sp_state_rasterizer.o: /usr/include/machine/endian.h
+sp_state_rasterizer.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_state_rasterizer.o: /usr/include/libkern/_OSByteOrder.h
+sp_state_rasterizer.o: /usr/include/libkern/i386/_OSByteOrder.h
+sp_state_rasterizer.o: /usr/include/alloca.h /usr/include/machine/types.h
+sp_state_rasterizer.o: /usr/include/i386/types.h /usr/include/string.h
+sp_state_rasterizer.o: /usr/include/secure/_string.h
+sp_state_rasterizer.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_state_rasterizer.o: /usr/include/stdbool.h
+sp_state_rasterizer.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_state_rasterizer.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_state_rasterizer.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_state_rasterizer.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_state_rasterizer.o: /usr/include/stddef.h
+sp_state_rasterizer.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_state_rasterizer.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_state_rasterizer.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_state_rasterizer.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_state_rasterizer.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_state_rasterizer.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_state_rasterizer.o: sp_quad_pipe.h sp_state.h
+sp_state_rasterizer.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_state_rasterizer.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_state_rasterizer.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+sp_state_surface.o: sp_context.h
+sp_state_surface.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_state_surface.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_state_surface.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_state_surface.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_state_surface.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_state_surface.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_state_surface.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_state_surface.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_state_surface.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_state_surface.o: /usr/include/sys/appleapiopts.h
+sp_state_surface.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+sp_state_surface.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+sp_state_surface.o: /usr/include/machine/_structs.h
+sp_state_surface.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+sp_state_surface.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_state_surface.o: /usr/include/libkern/_OSByteOrder.h
+sp_state_surface.o: /usr/include/libkern/i386/_OSByteOrder.h
+sp_state_surface.o: /usr/include/alloca.h /usr/include/machine/types.h
+sp_state_surface.o: /usr/include/i386/types.h /usr/include/string.h
+sp_state_surface.o: /usr/include/secure/_string.h
+sp_state_surface.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_state_surface.o: /usr/include/stdbool.h
+sp_state_surface.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_state_surface.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_state_surface.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_state_surface.o: /usr/include/stdarg.h
+sp_state_surface.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_state_surface.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_state_surface.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_state_surface.o: /usr/include/stddef.h
+sp_state_surface.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_state_surface.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_state_surface.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_state_surface.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_state_surface.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_state_surface.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_state_surface.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_state_surface.o: sp_quad_pipe.h sp_state.h
+sp_state_surface.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_state_surface.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_state_surface.o: sp_surface.h sp_tile_cache.h
+sp_state_surface.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+sp_state_vertex.o: sp_context.h
+sp_state_vertex.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_state_vertex.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_state_vertex.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_state_vertex.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_state_vertex.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_state_vertex.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_state_vertex.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_state_vertex.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_state_vertex.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_state_vertex.o: /usr/include/sys/appleapiopts.h
+sp_state_vertex.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+sp_state_vertex.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+sp_state_vertex.o: /usr/include/machine/_structs.h
+sp_state_vertex.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+sp_state_vertex.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_state_vertex.o: /usr/include/libkern/_OSByteOrder.h
+sp_state_vertex.o: /usr/include/libkern/i386/_OSByteOrder.h
+sp_state_vertex.o: /usr/include/alloca.h /usr/include/machine/types.h
+sp_state_vertex.o: /usr/include/i386/types.h /usr/include/string.h
+sp_state_vertex.o: /usr/include/secure/_string.h
+sp_state_vertex.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_state_vertex.o: /usr/include/stdbool.h
+sp_state_vertex.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_state_vertex.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_state_vertex.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_state_vertex.o: /usr/include/stdarg.h
+sp_state_vertex.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_state_vertex.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_state_vertex.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_state_vertex.o: /usr/include/stddef.h
+sp_state_vertex.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_state_vertex.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_state_vertex.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_state_vertex.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_state_vertex.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_state_vertex.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_state_vertex.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_state_vertex.o: sp_quad_pipe.h sp_state.h
+sp_state_vertex.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_state_vertex.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_state_vertex.o: sp_surface.h
+sp_state_vertex.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_inlines.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_texture.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_texture.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_texture.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_texture.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_texture.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_texture.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+sp_texture.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+sp_texture.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+sp_texture.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+sp_texture.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_texture.o: /usr/include/libkern/_OSByteOrder.h
+sp_texture.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+sp_texture.o: /usr/include/machine/types.h /usr/include/i386/types.h
+sp_texture.o: /usr/include/string.h /usr/include/secure/_string.h
+sp_texture.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_texture.o: /usr/include/stdbool.h
+sp_texture.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_texture.o: /usr/include/stdarg.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_texture.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_texture.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_texture.o: /usr/include/stddef.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_texture.o: ../../../../src/gallium/auxiliary/util/u_math.h
+sp_texture.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+sp_texture.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_texture.o: ../../../../src/gallium/auxiliary/util/u_pointer.h sp_context.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_texture.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_state.h sp_quad_pipe.h
+sp_texture.o: sp_state.h ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_texture.o: sp_texture.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_video_state.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_texture.o: ../../../../src/gallium/include/pipe/p_screen.h sp_screen.h
+sp_texture.o: sp_winsys.h
+sp_tex_sample.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_tex_sample.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_tex_sample.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_tex_sample.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_tex_sample.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_tex_sample.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_tex_sample.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_tex_sample.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_tex_sample.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_tex_sample.o: /usr/include/sys/appleapiopts.h
+sp_tex_sample.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+sp_tex_sample.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+sp_tex_sample.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+sp_tex_sample.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+sp_tex_sample.o: /usr/include/sys/_endian.h
+sp_tex_sample.o: /usr/include/libkern/_OSByteOrder.h
+sp_tex_sample.o: /usr/include/libkern/i386/_OSByteOrder.h
+sp_tex_sample.o: /usr/include/alloca.h /usr/include/machine/types.h
+sp_tex_sample.o: /usr/include/i386/types.h /usr/include/string.h
+sp_tex_sample.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+sp_tex_sample.o: /usr/include/stdint.h /usr/include/stdbool.h
+sp_tex_sample.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_tex_sample.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_tex_sample.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_tex_sample.o: /usr/include/stdarg.h
+sp_tex_sample.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_tex_sample.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_tex_sample.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_tex_sample.o: /usr/include/stddef.h
+sp_tex_sample.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_tex_sample.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_tex_sample.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_tex_sample.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_tex_sample.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_tex_sample.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+sp_tex_sample.o: ../../../../src/gallium/auxiliary/util/u_math.h
+sp_tex_sample.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+sp_tex_sample.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_tex_sample.o: ../../../../src/gallium/auxiliary/util/u_pointer.h sp_quad.h
+sp_tex_sample.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_tex_sample.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_exec.h
+sp_tex_sample.o: sp_tex_sample.h sp_tex_tile_cache.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_inlines.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_tex_tile_cache.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_tex_tile_cache.o: /usr/include/AvailabilityInternal.h
+sp_tex_tile_cache.o: /usr/include/_types.h /usr/include/sys/_types.h
+sp_tex_tile_cache.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+sp_tex_tile_cache.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+sp_tex_tile_cache.o: /usr/include/sys/signal.h
+sp_tex_tile_cache.o: /usr/include/sys/appleapiopts.h
+sp_tex_tile_cache.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+sp_tex_tile_cache.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+sp_tex_tile_cache.o: /usr/include/machine/_structs.h
+sp_tex_tile_cache.o: /usr/include/sys/resource.h
+sp_tex_tile_cache.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+sp_tex_tile_cache.o: /usr/include/sys/_endian.h
+sp_tex_tile_cache.o: /usr/include/libkern/_OSByteOrder.h
+sp_tex_tile_cache.o: /usr/include/libkern/i386/_OSByteOrder.h
+sp_tex_tile_cache.o: /usr/include/alloca.h /usr/include/machine/types.h
+sp_tex_tile_cache.o: /usr/include/i386/types.h /usr/include/string.h
+sp_tex_tile_cache.o: /usr/include/secure/_string.h
+sp_tex_tile_cache.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_tex_tile_cache.o: /usr/include/stdbool.h
+sp_tex_tile_cache.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_tex_tile_cache.o: /usr/include/stdarg.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_tex_tile_cache.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_tex_tile_cache.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_tex_tile_cache.o: /usr/include/stddef.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_tex_tile_cache.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_tex_tile_cache.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_tex_tile_cache.o: ../../../../src/gallium/auxiliary/util/u_tile.h
+sp_tex_tile_cache.o: sp_context.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_tex_tile_cache.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_tex_tile_cache.o: sp_quad_pipe.h sp_surface.h sp_texture.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_video_state.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_tex_tile_cache.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_tex_tile_cache.o: sp_tex_tile_cache.h
+sp_tile_cache.o: ../../../../src/gallium/include/pipe/p_inlines.h
+sp_tile_cache.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_tile_cache.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_tile_cache.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_tile_cache.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_tile_cache.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_tile_cache.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_tile_cache.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_tile_cache.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_tile_cache.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_tile_cache.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_tile_cache.o: /usr/include/sys/appleapiopts.h
+sp_tile_cache.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+sp_tile_cache.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+sp_tile_cache.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+sp_tile_cache.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+sp_tile_cache.o: /usr/include/sys/_endian.h
+sp_tile_cache.o: /usr/include/libkern/_OSByteOrder.h
+sp_tile_cache.o: /usr/include/libkern/i386/_OSByteOrder.h
+sp_tile_cache.o: /usr/include/alloca.h /usr/include/machine/types.h
+sp_tile_cache.o: /usr/include/i386/types.h /usr/include/string.h
+sp_tile_cache.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+sp_tile_cache.o: /usr/include/stdint.h /usr/include/stdbool.h
+sp_tile_cache.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_tile_cache.o: /usr/include/stdarg.h
+sp_tile_cache.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_tile_cache.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_tile_cache.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_tile_cache.o: /usr/include/stddef.h
+sp_tile_cache.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_tile_cache.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_tile_cache.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_tile_cache.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_tile_cache.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_tile_cache.o: ../../../../src/gallium/auxiliary/util/u_tile.h
+sp_tile_cache.o: sp_tile_cache.h
+sp_surface.o: ../../../../src/gallium/auxiliary/util/u_rect.h
+sp_surface.o: ../../../../src/gallium/include/pipe/p_format.h sp_context.h
+sp_surface.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_surface.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_surface.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_surface.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_surface.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_surface.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_surface.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_surface.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_surface.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_surface.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+sp_surface.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+sp_surface.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+sp_surface.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+sp_surface.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_surface.o: /usr/include/libkern/_OSByteOrder.h
+sp_surface.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+sp_surface.o: /usr/include/machine/types.h /usr/include/i386/types.h
+sp_surface.o: /usr/include/string.h /usr/include/secure/_string.h
+sp_surface.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_surface.o: /usr/include/stdbool.h
+sp_surface.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_surface.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_surface.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_surface.o: /usr/include/stdarg.h
+sp_surface.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_surface.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_surface.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_surface.o: /usr/include/stddef.h
+sp_surface.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_surface.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sp_surface.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_surface.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_surface.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+sp_surface.o: ../../../../src/gallium/include/pipe/p_state.h sp_quad_pipe.h
+sp_surface.o: sp_surface.h
+sp_video_context.o: sp_video_context.h
+sp_video_context.o: ../../../../src/gallium/include/pipe/p_video_context.h
+sp_video_context.o: ../../../../src/gallium/include/pipe/p_video_state.h
+sp_video_context.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_video_context.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+sp_video_context.o: /usr/include/stdarg.h
+sp_video_context.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_video_context.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_video_context.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sp_video_context.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_video_context.o: ../../../../src/gallium/auxiliary/vl/vl_mpeg12_mc_renderer.h
+sp_video_context.o: ../../../../src/gallium/include/pipe/p_state.h
+sp_video_context.o: ../../../../src/gallium/auxiliary/vl/vl_compositor.h
+sp_video_context.o: ../../../../src/gallium/include/pipe/p_inlines.h
+sp_video_context.o: ../../../../src/gallium/include/pipe/p_context.h
+sp_video_context.o: ../../../../src/gallium/include/pipe/p_defines.h
+sp_video_context.o: ../../../../src/gallium/include/pipe/p_format.h
+sp_video_context.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sp_video_context.o: ../../../../src/gallium/include/pipe/p_config.h
+sp_video_context.o: /usr/include/stdlib.h /usr/include/Availability.h
+sp_video_context.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+sp_video_context.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+sp_video_context.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+sp_video_context.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+sp_video_context.o: /usr/include/sys/appleapiopts.h
+sp_video_context.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+sp_video_context.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+sp_video_context.o: /usr/include/machine/_structs.h
+sp_video_context.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+sp_video_context.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+sp_video_context.o: /usr/include/libkern/_OSByteOrder.h
+sp_video_context.o: /usr/include/libkern/i386/_OSByteOrder.h
+sp_video_context.o: /usr/include/alloca.h /usr/include/machine/types.h
+sp_video_context.o: /usr/include/i386/types.h /usr/include/string.h
+sp_video_context.o: /usr/include/secure/_string.h
+sp_video_context.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sp_video_context.o: /usr/include/stdbool.h
+sp_video_context.o: ../../../../src/gallium/auxiliary/util/u_string.h
+sp_video_context.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+sp_video_context.o: /usr/include/stddef.h
+sp_video_context.o: ../../../../src/gallium/include/pipe/p_screen.h
+sp_video_context.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sp_video_context.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sp_video_context.o: ../../../../src/gallium/drivers/softpipe/sp_winsys.h
+sp_video_context.o: ../../../../src/gallium/drivers/softpipe/sp_texture.h

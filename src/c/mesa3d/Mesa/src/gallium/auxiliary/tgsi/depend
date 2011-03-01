@@ -1,0 +1,351 @@
+# DO NOT DELETE
+
+tgsi_sanity.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+tgsi_sanity.o: /usr/include/stdarg.h
+tgsi_sanity.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_sanity.o: ../../../../src/gallium/include/pipe/p_config.h
+tgsi_sanity.o: /usr/include/stdlib.h /usr/include/Availability.h
+tgsi_sanity.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+tgsi_sanity.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+tgsi_sanity.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+tgsi_sanity.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+tgsi_sanity.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+tgsi_sanity.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+tgsi_sanity.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+tgsi_sanity.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+tgsi_sanity.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+tgsi_sanity.o: /usr/include/libkern/_OSByteOrder.h
+tgsi_sanity.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+tgsi_sanity.o: /usr/include/machine/types.h /usr/include/i386/types.h
+tgsi_sanity.o: /usr/include/string.h /usr/include/secure/_string.h
+tgsi_sanity.o: /usr/include/secure/_common.h /usr/include/stdint.h
+tgsi_sanity.o: /usr/include/stdbool.h tgsi_sanity.h
+tgsi_sanity.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+tgsi_sanity.o: ../../../../src/gallium/include/pipe/p_compiler.h tgsi_info.h
+tgsi_sanity.o: tgsi_iterate.h
+tgsi_sanity.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+tgsi_build.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+tgsi_build.o: /usr/include/stdarg.h
+tgsi_build.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_build.o: ../../../../src/gallium/include/pipe/p_config.h
+tgsi_build.o: /usr/include/stdlib.h /usr/include/Availability.h
+tgsi_build.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+tgsi_build.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+tgsi_build.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+tgsi_build.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+tgsi_build.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+tgsi_build.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+tgsi_build.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+tgsi_build.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+tgsi_build.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+tgsi_build.o: /usr/include/libkern/_OSByteOrder.h
+tgsi_build.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+tgsi_build.o: /usr/include/machine/types.h /usr/include/i386/types.h
+tgsi_build.o: /usr/include/string.h /usr/include/secure/_string.h
+tgsi_build.o: /usr/include/secure/_common.h /usr/include/stdint.h
+tgsi_build.o: /usr/include/stdbool.h
+tgsi_build.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+tgsi_build.o: ../../../../src/gallium/include/pipe/p_compiler.h tgsi_build.h
+tgsi_build.o: tgsi_parse.h
+tgsi_dump.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+tgsi_dump.o: /usr/include/stdarg.h
+tgsi_dump.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_dump.o: ../../../../src/gallium/include/pipe/p_config.h
+tgsi_dump.o: /usr/include/stdlib.h /usr/include/Availability.h
+tgsi_dump.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+tgsi_dump.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+tgsi_dump.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+tgsi_dump.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+tgsi_dump.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+tgsi_dump.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+tgsi_dump.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+tgsi_dump.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+tgsi_dump.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+tgsi_dump.o: /usr/include/libkern/_OSByteOrder.h
+tgsi_dump.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+tgsi_dump.o: /usr/include/machine/types.h /usr/include/i386/types.h
+tgsi_dump.o: /usr/include/string.h /usr/include/secure/_string.h
+tgsi_dump.o: /usr/include/secure/_common.h /usr/include/stdint.h
+tgsi_dump.o: /usr/include/stdbool.h
+tgsi_dump.o: ../../../../src/gallium/auxiliary/util/u_string.h
+tgsi_dump.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+tgsi_dump.o: /usr/include/stddef.h
+tgsi_dump.o: ../../../../src/gallium/auxiliary/util/u_math.h
+tgsi_dump.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+tgsi_dump.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+tgsi_dump.o: ../../../../src/gallium/auxiliary/util/u_pointer.h tgsi_dump.h
+tgsi_dump.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+tgsi_dump.o: ../../../../src/gallium/include/pipe/p_compiler.h tgsi_info.h
+tgsi_dump.o: tgsi_iterate.h
+tgsi_dump.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+tgsi_exec.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_exec.o: ../../../../src/gallium/include/pipe/p_config.h
+tgsi_exec.o: /usr/include/stdlib.h /usr/include/Availability.h
+tgsi_exec.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+tgsi_exec.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+tgsi_exec.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+tgsi_exec.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+tgsi_exec.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+tgsi_exec.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+tgsi_exec.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+tgsi_exec.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+tgsi_exec.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+tgsi_exec.o: /usr/include/libkern/_OSByteOrder.h
+tgsi_exec.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+tgsi_exec.o: /usr/include/machine/types.h /usr/include/i386/types.h
+tgsi_exec.o: /usr/include/string.h /usr/include/secure/_string.h
+tgsi_exec.o: /usr/include/secure/_common.h /usr/include/stdint.h
+tgsi_exec.o: /usr/include/stdbool.h
+tgsi_exec.o: ../../../../src/gallium/include/pipe/p_state.h
+tgsi_exec.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_exec.o: ../../../../src/gallium/include/pipe/p_defines.h
+tgsi_exec.o: ../../../../src/gallium/include/pipe/p_format.h
+tgsi_exec.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+tgsi_exec.o: /usr/include/stdarg.h
+tgsi_exec.o: ../../../../src/gallium/auxiliary/util/u_string.h
+tgsi_exec.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+tgsi_exec.o: /usr/include/stddef.h
+tgsi_exec.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+tgsi_exec.o: ../../../../src/gallium/include/pipe/p_atomic.h
+tgsi_exec.o: ../../../../src/gallium/include/pipe/p_screen.h
+tgsi_exec.o: ../../../../src/gallium/include/pipe/p_format.h
+tgsi_exec.o: ../../../../src/gallium/include/pipe/p_defines.h
+tgsi_exec.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+tgsi_exec.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_dump.h
+tgsi_exec.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+tgsi_exec.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_util.h tgsi_exec.h
+tgsi_exec.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+tgsi_exec.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+tgsi_exec.o: ../../../../src/gallium/auxiliary/util/u_math.h
+tgsi_exec.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+tgsi_info.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+tgsi_info.o: /usr/include/stdarg.h
+tgsi_info.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_info.o: ../../../../src/gallium/include/pipe/p_config.h
+tgsi_info.o: /usr/include/stdlib.h /usr/include/Availability.h
+tgsi_info.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+tgsi_info.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+tgsi_info.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+tgsi_info.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+tgsi_info.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+tgsi_info.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+tgsi_info.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+tgsi_info.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+tgsi_info.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+tgsi_info.o: /usr/include/libkern/_OSByteOrder.h
+tgsi_info.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+tgsi_info.o: /usr/include/machine/types.h /usr/include/i386/types.h
+tgsi_info.o: /usr/include/string.h /usr/include/secure/_string.h
+tgsi_info.o: /usr/include/secure/_common.h /usr/include/stdint.h
+tgsi_info.o: /usr/include/stdbool.h
+tgsi_info.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+tgsi_info.o: ../../../../src/gallium/auxiliary/util/u_pointer.h tgsi_info.h
+tgsi_info.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+tgsi_info.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_iterate.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+tgsi_iterate.o: /usr/include/stdarg.h
+tgsi_iterate.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_iterate.o: ../../../../src/gallium/include/pipe/p_config.h
+tgsi_iterate.o: /usr/include/stdlib.h /usr/include/Availability.h
+tgsi_iterate.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+tgsi_iterate.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+tgsi_iterate.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+tgsi_iterate.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+tgsi_iterate.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+tgsi_iterate.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+tgsi_iterate.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+tgsi_iterate.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+tgsi_iterate.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+tgsi_iterate.o: /usr/include/libkern/_OSByteOrder.h
+tgsi_iterate.o: /usr/include/libkern/i386/_OSByteOrder.h
+tgsi_iterate.o: /usr/include/alloca.h /usr/include/machine/types.h
+tgsi_iterate.o: /usr/include/i386/types.h /usr/include/string.h
+tgsi_iterate.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+tgsi_iterate.o: /usr/include/stdint.h /usr/include/stdbool.h tgsi_iterate.h
+tgsi_iterate.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+tgsi_iterate.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_iterate.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+tgsi_parse.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+tgsi_parse.o: /usr/include/stdarg.h
+tgsi_parse.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_parse.o: ../../../../src/gallium/include/pipe/p_config.h
+tgsi_parse.o: /usr/include/stdlib.h /usr/include/Availability.h
+tgsi_parse.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+tgsi_parse.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+tgsi_parse.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+tgsi_parse.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+tgsi_parse.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+tgsi_parse.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+tgsi_parse.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+tgsi_parse.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+tgsi_parse.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+tgsi_parse.o: /usr/include/libkern/_OSByteOrder.h
+tgsi_parse.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+tgsi_parse.o: /usr/include/machine/types.h /usr/include/i386/types.h
+tgsi_parse.o: /usr/include/string.h /usr/include/secure/_string.h
+tgsi_parse.o: /usr/include/secure/_common.h /usr/include/stdint.h
+tgsi_parse.o: /usr/include/stdbool.h
+tgsi_parse.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+tgsi_parse.o: ../../../../src/gallium/include/pipe/p_compiler.h tgsi_parse.h
+tgsi_parse.o: tgsi_build.h ../../../../src/gallium/auxiliary/util/u_memory.h
+tgsi_parse.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+tgsi_ppc.o: ../../../../src/gallium/include/pipe/p_config.h
+tgsi_scan.o: ../../../../src/gallium/auxiliary/util/u_math.h
+tgsi_scan.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_scan.o: ../../../../src/gallium/include/pipe/p_config.h
+tgsi_scan.o: /usr/include/stdlib.h /usr/include/Availability.h
+tgsi_scan.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+tgsi_scan.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+tgsi_scan.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+tgsi_scan.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+tgsi_scan.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+tgsi_scan.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+tgsi_scan.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+tgsi_scan.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+tgsi_scan.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+tgsi_scan.o: /usr/include/libkern/_OSByteOrder.h
+tgsi_scan.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+tgsi_scan.o: /usr/include/machine/types.h /usr/include/i386/types.h
+tgsi_scan.o: /usr/include/string.h /usr/include/secure/_string.h
+tgsi_scan.o: /usr/include/secure/_common.h /usr/include/stdint.h
+tgsi_scan.o: /usr/include/stdbool.h
+tgsi_scan.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+tgsi_scan.o: /usr/include/stdarg.h /usr/include/math.h
+tgsi_scan.o: /usr/include/architecture/i386/math.h
+tgsi_scan.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_build.h
+tgsi_scan.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+tgsi_scan.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+tgsi_scan.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_scan.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+tgsi_scan.o: ../../../../src/gallium/include/pipe/p_state.h
+tgsi_scan.o: ../../../../src/gallium/include/pipe/p_defines.h
+tgsi_scan.o: ../../../../src/gallium/include/pipe/p_format.h
+tgsi_scan.o: ../../../../src/gallium/auxiliary/util/u_string.h
+tgsi_scan.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+tgsi_scan.o: /usr/include/stddef.h
+tgsi_scan.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+tgsi_scan.o: ../../../../src/gallium/include/pipe/p_atomic.h
+tgsi_scan.o: ../../../../src/gallium/include/pipe/p_screen.h
+tgsi_scan.o: ../../../../src/gallium/include/pipe/p_format.h
+tgsi_scan.o: ../../../../src/gallium/include/pipe/p_defines.h
+tgsi_sse2.o: ../../../../src/gallium/include/pipe/p_config.h
+tgsi_text.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+tgsi_text.o: /usr/include/stdarg.h
+tgsi_text.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_text.o: ../../../../src/gallium/include/pipe/p_config.h
+tgsi_text.o: /usr/include/stdlib.h /usr/include/Availability.h
+tgsi_text.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+tgsi_text.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+tgsi_text.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+tgsi_text.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+tgsi_text.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+tgsi_text.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+tgsi_text.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+tgsi_text.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+tgsi_text.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+tgsi_text.o: /usr/include/libkern/_OSByteOrder.h
+tgsi_text.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+tgsi_text.o: /usr/include/machine/types.h /usr/include/i386/types.h
+tgsi_text.o: /usr/include/string.h /usr/include/secure/_string.h
+tgsi_text.o: /usr/include/secure/_common.h /usr/include/stdint.h
+tgsi_text.o: /usr/include/stdbool.h
+tgsi_text.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+tgsi_text.o: ../../../../src/gallium/auxiliary/util/u_pointer.h tgsi_text.h
+tgsi_text.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+tgsi_text.o: ../../../../src/gallium/include/pipe/p_compiler.h tgsi_build.h
+tgsi_text.o: tgsi_info.h tgsi_parse.h tgsi_sanity.h tgsi_util.h
+tgsi_transform.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+tgsi_transform.o: /usr/include/stdarg.h
+tgsi_transform.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_transform.o: ../../../../src/gallium/include/pipe/p_config.h
+tgsi_transform.o: /usr/include/stdlib.h /usr/include/Availability.h
+tgsi_transform.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+tgsi_transform.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+tgsi_transform.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+tgsi_transform.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+tgsi_transform.o: /usr/include/sys/appleapiopts.h
+tgsi_transform.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+tgsi_transform.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+tgsi_transform.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+tgsi_transform.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+tgsi_transform.o: /usr/include/sys/_endian.h
+tgsi_transform.o: /usr/include/libkern/_OSByteOrder.h
+tgsi_transform.o: /usr/include/libkern/i386/_OSByteOrder.h
+tgsi_transform.o: /usr/include/alloca.h /usr/include/machine/types.h
+tgsi_transform.o: /usr/include/i386/types.h /usr/include/string.h
+tgsi_transform.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+tgsi_transform.o: /usr/include/stdint.h /usr/include/stdbool.h
+tgsi_transform.o: tgsi_transform.h
+tgsi_transform.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+tgsi_transform.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_transform.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+tgsi_transform.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_build.h
+tgsi_transform.o: tgsi_text.h
+tgsi_ureg.o: ../../../../src/gallium/include/pipe/p_context.h
+tgsi_ureg.o: ../../../../src/gallium/include/pipe/p_state.h
+tgsi_ureg.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_ureg.o: ../../../../src/gallium/include/pipe/p_defines.h
+tgsi_ureg.o: ../../../../src/gallium/include/pipe/p_format.h
+tgsi_ureg.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+tgsi_ureg.o: /usr/include/stdarg.h
+tgsi_ureg.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_ureg.o: ../../../../src/gallium/include/pipe/p_config.h
+tgsi_ureg.o: /usr/include/stdlib.h /usr/include/Availability.h
+tgsi_ureg.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+tgsi_ureg.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+tgsi_ureg.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+tgsi_ureg.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+tgsi_ureg.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+tgsi_ureg.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+tgsi_ureg.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+tgsi_ureg.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+tgsi_ureg.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+tgsi_ureg.o: /usr/include/libkern/_OSByteOrder.h
+tgsi_ureg.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+tgsi_ureg.o: /usr/include/machine/types.h /usr/include/i386/types.h
+tgsi_ureg.o: /usr/include/string.h /usr/include/secure/_string.h
+tgsi_ureg.o: /usr/include/secure/_common.h /usr/include/stdint.h
+tgsi_ureg.o: /usr/include/stdbool.h
+tgsi_ureg.o: ../../../../src/gallium/auxiliary/util/u_string.h
+tgsi_ureg.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+tgsi_ureg.o: /usr/include/stddef.h
+tgsi_ureg.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+tgsi_ureg.o: ../../../../src/gallium/include/pipe/p_atomic.h
+tgsi_ureg.o: ../../../../src/gallium/include/pipe/p_screen.h
+tgsi_ureg.o: ../../../../src/gallium/include/pipe/p_format.h
+tgsi_ureg.o: ../../../../src/gallium/include/pipe/p_defines.h
+tgsi_ureg.o: ../../../../src/gallium/include/pipe/p_state.h
+tgsi_ureg.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_ureg.h
+tgsi_ureg.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+tgsi_ureg.o: tgsi_opcode_tmp.h
+tgsi_ureg.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_build.h
+tgsi_ureg.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_info.h
+tgsi_ureg.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_dump.h
+tgsi_ureg.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_sanity.h
+tgsi_ureg.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+tgsi_ureg.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+tgsi_ureg.o: ../../../../src/gallium/auxiliary/util/u_math.h
+tgsi_ureg.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+tgsi_util.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+tgsi_util.o: /usr/include/stdarg.h
+tgsi_util.o: ../../../../src/gallium/include/pipe/p_compiler.h
+tgsi_util.o: ../../../../src/gallium/include/pipe/p_config.h
+tgsi_util.o: /usr/include/stdlib.h /usr/include/Availability.h
+tgsi_util.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+tgsi_util.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+tgsi_util.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+tgsi_util.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+tgsi_util.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+tgsi_util.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+tgsi_util.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+tgsi_util.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+tgsi_util.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+tgsi_util.o: /usr/include/libkern/_OSByteOrder.h
+tgsi_util.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+tgsi_util.o: /usr/include/machine/types.h /usr/include/i386/types.h
+tgsi_util.o: /usr/include/string.h /usr/include/secure/_string.h
+tgsi_util.o: /usr/include/secure/_common.h /usr/include/stdint.h
+tgsi_util.o: /usr/include/stdbool.h
+tgsi_util.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+tgsi_util.o: ../../../../src/gallium/include/pipe/p_compiler.h tgsi_parse.h
+tgsi_util.o: tgsi_build.h tgsi_util.h

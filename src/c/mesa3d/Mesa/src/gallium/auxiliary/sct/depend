@@ -1,0 +1,33 @@
+# DO NOT DELETE
+
+sct.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+sct.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+sct.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sct.o: ../../../../src/gallium/include/pipe/p_config.h /usr/include/stdlib.h
+sct.o: /usr/include/Availability.h /usr/include/AvailabilityInternal.h
+sct.o: /usr/include/_types.h /usr/include/sys/_types.h
+sct.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+sct.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+sct.o: /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h
+sct.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+sct.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+sct.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+sct.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+sct.o: /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h
+sct.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+sct.o: /usr/include/machine/types.h /usr/include/i386/types.h
+sct.o: /usr/include/string.h /usr/include/secure/_string.h
+sct.o: /usr/include/secure/_common.h /usr/include/stdint.h
+sct.o: /usr/include/stdbool.h
+sct.o: ../../../../src/gallium/auxiliary/util/u_debug.h /usr/include/stdarg.h
+sct.o: ../../../../src/gallium/include/pipe/p_state.h
+sct.o: ../../../../src/gallium/include/pipe/p_compiler.h
+sct.o: ../../../../src/gallium/include/pipe/p_defines.h
+sct.o: ../../../../src/gallium/include/pipe/p_format.h
+sct.o: ../../../../src/gallium/auxiliary/util/u_string.h /usr/include/stdio.h
+sct.o: /usr/include/secure/_stdio.h /usr/include/stddef.h
+sct.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+sct.o: ../../../../src/gallium/include/pipe/p_atomic.h
+sct.o: ../../../../src/gallium/include/pipe/p_screen.h
+sct.o: ../../../../src/gallium/include/pipe/p_format.h
+sct.o: ../../../../src/gallium/include/pipe/p_defines.h sct.h

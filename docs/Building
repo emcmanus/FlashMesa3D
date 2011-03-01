@@ -1,0 +1,65 @@
+
+[PREFACE]
+
+Mesa has a weird, complex build system. It takes a little work to wrap your head around.
+
+But at a high level we're compiling with a modified version of the linux-osmesa-static configuration. That's the 24-bit off-screen Mesa renderer.
+
+("8-bit color channels" == 8-bits PER channel)
+
+OSMesa is a very simple driver which exposes a 24-bit display buffer, that we can then map to a BitmapData object.
+
+From the OSMesa guide: "If you need to compile on a non-Linux platform, copy [Mesa/configs/linux-osmesa-static] to a new config file and edit it as needed. Then, add the new config name to the top-level Makefile."
+http://www.mesa3d.org/osmesa.html
+
+So we need to make a copy of the config, correct it for alchemy, and add it to the list of accepted configurations.
+
+By default the build system tries to use its own mklib binary. This MUST be changed to use Alchemy's ar.
+
+Once that's done, build to generate a ".a" file -- a static library. In the test application write the hooks for Flash and link against the lib when compiling to a SWC.
+
+Note: there were quite a few problems getting this to compile with the right system headers. So I had to add two include directories: the standard Alchemy includes, and the llvm-gcc includes, which is pretty deep in the Alchemy hierarchy.
+
+On top of that, I had to add checks for type definitions. It appears Alchemy isn't honoring HAVE_STDINT_H, so I had to add some #ifdef's to keep the compiler from defining the types twice.
+
+I basically spent a night trying every combination of standard system directives until I found what worked. For reference, see x_SKIP_P_COMPILER_TYPES, SKIP_P_COMPILER_TYPES, and #define _SYS_TYPES_H_. Not fun.
+
+I also had to add #include <sys/types.h> to some select files, as well as manually disable threads in p_thread.h
+
+
+Build steps:
+
+Library ==> osmesa.a
+
+Test.c + osmesa.a ==> SWC
+
+SWC + AS3 Wrapper ==> Demo
+
+
+
+
+[HOW TO BUILD]
+
+In the root of the C Mesa folder, do:
+
+make realclean && make flash
+
+Thats it! You should now have a bunch of .a files in the folders.
+
+SEE ALSO: the makefile in the Mesa root's parent directory.
+
+
+
+[EARLY BUILD ATTEMPT]
+
+Generating the first autoconf file
+
+This is the minimal static configuration:
+LDFLAGS="-emit-llvm" CFLAGS="-emit-llvm" ./configure --prefix="$ALCHEMY_HOME/usr/local/" --disable-asm --with-driver="xlib" enable_shared="no" enable_static="yes"
+
+Now rename the "autoconf" makefile in configs/ to "flash" and modify the necessary properties:
+Define "FLASH" directive, remove C standard def, remove xlib references and sources
+
+
+
+

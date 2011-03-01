@@ -1,0 +1,150 @@
+# DO NOT DELETE
+
+id_objects.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+id_objects.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+id_objects.o: ../../../../src/gallium/include/pipe/p_compiler.h
+id_objects.o: ../../../../src/gallium/include/pipe/p_config.h
+id_objects.o: /usr/include/stdlib.h /usr/include/Availability.h
+id_objects.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+id_objects.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+id_objects.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+id_objects.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+id_objects.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+id_objects.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+id_objects.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+id_objects.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+id_objects.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+id_objects.o: /usr/include/libkern/_OSByteOrder.h
+id_objects.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+id_objects.o: /usr/include/machine/types.h /usr/include/i386/types.h
+id_objects.o: /usr/include/string.h /usr/include/secure/_string.h
+id_objects.o: /usr/include/secure/_common.h /usr/include/stdint.h
+id_objects.o: /usr/include/stdbool.h
+id_objects.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+id_objects.o: /usr/include/stdarg.h id_public.h id_screen.h
+id_objects.o: ../../../../src/gallium/include/pipe/p_screen.h
+id_objects.o: ../../../../src/gallium/include/pipe/p_format.h
+id_objects.o: ../../../../src/gallium/include/pipe/p_compiler.h
+id_objects.o: ../../../../src/gallium/auxiliary/util/u_string.h
+id_objects.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+id_objects.o: /usr/include/stddef.h
+id_objects.o: ../../../../src/gallium/include/pipe/p_defines.h
+id_objects.o: ../../../../src/gallium/include/pipe/p_format.h id_objects.h
+id_objects.o: ../../../../src/gallium/include/pipe/p_state.h
+id_objects.o: ../../../../src/gallium/include/pipe/p_defines.h
+id_objects.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+id_objects.o: ../../../../src/gallium/include/pipe/p_atomic.h
+id_objects.o: ../../../../src/gallium/include/pipe/p_screen.h
+id_context.o: ../../../../src/gallium/include/pipe/p_context.h
+id_context.o: ../../../../src/gallium/include/pipe/p_state.h
+id_context.o: ../../../../src/gallium/include/pipe/p_compiler.h
+id_context.o: ../../../../src/gallium/include/pipe/p_defines.h
+id_context.o: ../../../../src/gallium/include/pipe/p_format.h
+id_context.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+id_context.o: ../../../../src/gallium/include/pipe/p_atomic.h
+id_context.o: ../../../../src/gallium/include/pipe/p_screen.h
+id_context.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+id_context.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+id_context.o: ../../../../src/gallium/include/pipe/p_compiler.h
+id_context.o: ../../../../src/gallium/include/pipe/p_config.h
+id_context.o: /usr/include/stdlib.h /usr/include/Availability.h
+id_context.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+id_context.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+id_context.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+id_context.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+id_context.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+id_context.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+id_context.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+id_context.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+id_context.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+id_context.o: /usr/include/libkern/_OSByteOrder.h
+id_context.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+id_context.o: /usr/include/machine/types.h /usr/include/i386/types.h
+id_context.o: /usr/include/string.h /usr/include/secure/_string.h
+id_context.o: /usr/include/secure/_common.h /usr/include/stdint.h
+id_context.o: /usr/include/stdbool.h
+id_context.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+id_context.o: /usr/include/stdarg.h id_public.h id_context.h
+id_context.o: ../../../../src/gallium/include/pipe/p_state.h id_objects.h
+id_context.o: id_screen.h ../../../../src/gallium/include/pipe/p_screen.h
+id_context.o: ../../../../src/gallium/include/pipe/p_format.h
+id_context.o: ../../../../src/gallium/auxiliary/util/u_string.h
+id_context.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+id_context.o: /usr/include/stddef.h
+id_context.o: ../../../../src/gallium/include/pipe/p_defines.h
+id_screen.o: ../../../../src/gallium/include/pipe/p_screen.h
+id_screen.o: ../../../../src/gallium/include/pipe/p_compiler.h
+id_screen.o: ../../../../src/gallium/include/pipe/p_config.h
+id_screen.o: /usr/include/stdlib.h /usr/include/Availability.h
+id_screen.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+id_screen.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+id_screen.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+id_screen.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+id_screen.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+id_screen.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+id_screen.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+id_screen.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+id_screen.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+id_screen.o: /usr/include/libkern/_OSByteOrder.h
+id_screen.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+id_screen.o: /usr/include/machine/types.h /usr/include/i386/types.h
+id_screen.o: /usr/include/string.h /usr/include/secure/_string.h
+id_screen.o: /usr/include/secure/_common.h /usr/include/stdint.h
+id_screen.o: /usr/include/stdbool.h
+id_screen.o: ../../../../src/gallium/include/pipe/p_format.h
+id_screen.o: ../../../../src/gallium/include/pipe/p_compiler.h
+id_screen.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+id_screen.o: /usr/include/stdarg.h
+id_screen.o: ../../../../src/gallium/auxiliary/util/u_string.h
+id_screen.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+id_screen.o: /usr/include/stddef.h
+id_screen.o: ../../../../src/gallium/include/pipe/p_defines.h
+id_screen.o: ../../../../src/gallium/include/pipe/p_format.h
+id_screen.o: ../../../../src/gallium/include/pipe/p_state.h
+id_screen.o: ../../../../src/gallium/include/pipe/p_defines.h
+id_screen.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+id_screen.o: ../../../../src/gallium/include/pipe/p_atomic.h
+id_screen.o: ../../../../src/gallium/include/pipe/p_screen.h
+id_screen.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+id_screen.o: ../../../../src/gallium/auxiliary/util/u_pointer.h id_public.h
+id_screen.o: id_screen.h id_objects.h
+id_drm.o: ../../../../src/gallium/include/state_tracker/drm_api.h
+id_drm.o: ../../../../src/gallium/include/pipe/p_compiler.h
+id_drm.o: ../../../../src/gallium/include/pipe/p_config.h
+id_drm.o: /usr/include/stdlib.h /usr/include/Availability.h
+id_drm.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+id_drm.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+id_drm.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+id_drm.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+id_drm.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+id_drm.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+id_drm.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+id_drm.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+id_drm.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+id_drm.o: /usr/include/libkern/_OSByteOrder.h
+id_drm.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+id_drm.o: /usr/include/machine/types.h /usr/include/i386/types.h
+id_drm.o: /usr/include/string.h /usr/include/secure/_string.h
+id_drm.o: /usr/include/secure/_common.h /usr/include/stdint.h
+id_drm.o: /usr/include/stdbool.h
+id_drm.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+id_drm.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+id_drm.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+id_drm.o: /usr/include/stdarg.h
+id_drm.o: ../../../../src/gallium/drivers/identity/id_drm.h
+id_drm.o: ../../../../src/gallium/drivers/identity/id_screen.h
+id_drm.o: ../../../../src/gallium/include/pipe/p_screen.h
+id_drm.o: ../../../../src/gallium/include/pipe/p_format.h
+id_drm.o: ../../../../src/gallium/include/pipe/p_compiler.h
+id_drm.o: ../../../../src/gallium/auxiliary/util/u_string.h
+id_drm.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+id_drm.o: /usr/include/stddef.h
+id_drm.o: ../../../../src/gallium/include/pipe/p_defines.h
+id_drm.o: ../../../../src/gallium/include/pipe/p_format.h
+id_drm.o: ../../../../src/gallium/drivers/identity/id_public.h
+id_drm.o: ../../../../src/gallium/drivers/identity/id_objects.h
+id_drm.o: ../../../../src/gallium/include/pipe/p_state.h
+id_drm.o: ../../../../src/gallium/include/pipe/p_defines.h
+id_drm.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+id_drm.o: ../../../../src/gallium/include/pipe/p_atomic.h
+id_drm.o: ../../../../src/gallium/include/pipe/p_screen.h id_screen.h

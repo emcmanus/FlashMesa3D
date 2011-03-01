@@ -1,0 +1,2113 @@
+# DO NOT DELETE
+
+svgadump/svga_shader_dump.o: svgadump/svga_shader.h
+svgadump/svga_shader_dump.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svgadump/svga_shader_dump.o: ../../../../src/gallium/include/pipe/p_config.h
+svgadump/svga_shader_dump.o: /usr/include/stdlib.h
+svgadump/svga_shader_dump.o: /usr/include/Availability.h
+svgadump/svga_shader_dump.o: /usr/include/AvailabilityInternal.h
+svgadump/svga_shader_dump.o: /usr/include/_types.h /usr/include/sys/_types.h
+svgadump/svga_shader_dump.o: /usr/include/sys/cdefs.h
+svgadump/svga_shader_dump.o: /usr/include/machine/_types.h
+svgadump/svga_shader_dump.o: /usr/include/i386/_types.h
+svgadump/svga_shader_dump.o: /usr/include/sys/wait.h
+svgadump/svga_shader_dump.o: /usr/include/sys/signal.h
+svgadump/svga_shader_dump.o: /usr/include/sys/appleapiopts.h
+svgadump/svga_shader_dump.o: /usr/include/machine/signal.h
+svgadump/svga_shader_dump.o: /usr/include/i386/signal.h
+svgadump/svga_shader_dump.o: /usr/include/i386/_structs.h
+svgadump/svga_shader_dump.o: /usr/include/sys/_structs.h
+svgadump/svga_shader_dump.o: /usr/include/machine/_structs.h
+svgadump/svga_shader_dump.o: /usr/include/sys/resource.h
+svgadump/svga_shader_dump.o: /usr/include/machine/endian.h
+svgadump/svga_shader_dump.o: /usr/include/i386/endian.h
+svgadump/svga_shader_dump.o: /usr/include/sys/_endian.h
+svgadump/svga_shader_dump.o: /usr/include/libkern/_OSByteOrder.h
+svgadump/svga_shader_dump.o: /usr/include/libkern/i386/_OSByteOrder.h
+svgadump/svga_shader_dump.o: /usr/include/alloca.h
+svgadump/svga_shader_dump.o: /usr/include/machine/types.h
+svgadump/svga_shader_dump.o: /usr/include/i386/types.h /usr/include/string.h
+svgadump/svga_shader_dump.o: /usr/include/secure/_string.h
+svgadump/svga_shader_dump.o: /usr/include/secure/_common.h
+svgadump/svga_shader_dump.o: /usr/include/stdint.h /usr/include/stdbool.h
+svgadump/svga_shader_dump.o: svgadump/svga_shader_dump.h
+svgadump/svga_shader_dump.o: svgadump/svga_shader_op.h
+svgadump/svga_shader_dump.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svgadump/svga_shader_dump.o: /usr/include/stdarg.h svga_hw_reg.h
+svgadump/svga_shader_dump.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svgadump/svga_shader_dump.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svgadump/svga_shader_dump.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svgadump/svga_shader_dump.o: ../../../../src/gallium/drivers/svga/include/svga3d_shaderdefs.h
+svgadump/svga_shader_op.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svgadump/svga_shader_op.o: /usr/include/stdarg.h
+svgadump/svga_shader_op.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svgadump/svga_shader_op.o: ../../../../src/gallium/include/pipe/p_config.h
+svgadump/svga_shader_op.o: /usr/include/stdlib.h /usr/include/Availability.h
+svgadump/svga_shader_op.o: /usr/include/AvailabilityInternal.h
+svgadump/svga_shader_op.o: /usr/include/_types.h /usr/include/sys/_types.h
+svgadump/svga_shader_op.o: /usr/include/sys/cdefs.h
+svgadump/svga_shader_op.o: /usr/include/machine/_types.h
+svgadump/svga_shader_op.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+svgadump/svga_shader_op.o: /usr/include/sys/signal.h
+svgadump/svga_shader_op.o: /usr/include/sys/appleapiopts.h
+svgadump/svga_shader_op.o: /usr/include/machine/signal.h
+svgadump/svga_shader_op.o: /usr/include/i386/signal.h
+svgadump/svga_shader_op.o: /usr/include/i386/_structs.h
+svgadump/svga_shader_op.o: /usr/include/sys/_structs.h
+svgadump/svga_shader_op.o: /usr/include/machine/_structs.h
+svgadump/svga_shader_op.o: /usr/include/sys/resource.h
+svgadump/svga_shader_op.o: /usr/include/machine/endian.h
+svgadump/svga_shader_op.o: /usr/include/i386/endian.h
+svgadump/svga_shader_op.o: /usr/include/sys/_endian.h
+svgadump/svga_shader_op.o: /usr/include/libkern/_OSByteOrder.h
+svgadump/svga_shader_op.o: /usr/include/libkern/i386/_OSByteOrder.h
+svgadump/svga_shader_op.o: /usr/include/alloca.h /usr/include/machine/types.h
+svgadump/svga_shader_op.o: /usr/include/i386/types.h /usr/include/string.h
+svgadump/svga_shader_op.o: /usr/include/secure/_string.h
+svgadump/svga_shader_op.o: /usr/include/secure/_common.h
+svgadump/svga_shader_op.o: /usr/include/stdint.h /usr/include/stdbool.h
+svgadump/svga_shader_op.o: svgadump/svga_shader_op.h svga_hw_reg.h
+svgadump/svga_shader_op.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svgadump/svga_shader_op.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svgadump/svga_shader_op.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svgadump/svga_shader_op.o: ../../../../src/gallium/drivers/svga/include/svga3d_shaderdefs.h
+svgadump/svga_dump.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svgadump/svga_dump.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svgadump/svga_dump.o: ../../../../src/gallium/include/pipe/p_config.h
+svgadump/svga_dump.o: /usr/include/stdlib.h /usr/include/Availability.h
+svgadump/svga_dump.o: /usr/include/AvailabilityInternal.h
+svgadump/svga_dump.o: /usr/include/_types.h /usr/include/sys/_types.h
+svgadump/svga_dump.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+svgadump/svga_dump.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+svgadump/svga_dump.o: /usr/include/sys/signal.h
+svgadump/svga_dump.o: /usr/include/sys/appleapiopts.h
+svgadump/svga_dump.o: /usr/include/machine/signal.h
+svgadump/svga_dump.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+svgadump/svga_dump.o: /usr/include/sys/_structs.h
+svgadump/svga_dump.o: /usr/include/machine/_structs.h
+svgadump/svga_dump.o: /usr/include/sys/resource.h
+svgadump/svga_dump.o: /usr/include/machine/endian.h
+svgadump/svga_dump.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svgadump/svga_dump.o: /usr/include/libkern/_OSByteOrder.h
+svgadump/svga_dump.o: /usr/include/libkern/i386/_OSByteOrder.h
+svgadump/svga_dump.o: /usr/include/alloca.h /usr/include/machine/types.h
+svgadump/svga_dump.o: /usr/include/i386/types.h /usr/include/string.h
+svgadump/svga_dump.o: /usr/include/secure/_string.h
+svgadump/svga_dump.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svgadump/svga_dump.o: /usr/include/stdbool.h svgadump/svga_shader_dump.h
+svgadump/svga_dump.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svgadump/svga_dump.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svgadump/svga_dump.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svgadump/svga_dump.o: /usr/include/stdarg.h svgadump/svga_dump.h
+svga_cmd.o: svga_winsys.h
+svga_cmd.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_cmd.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_cmd.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_cmd.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_cmd.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_cmd.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_cmd.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_cmd.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_cmd.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+svga_cmd.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+svga_cmd.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+svga_cmd.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+svga_cmd.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_cmd.o: /usr/include/libkern/_OSByteOrder.h
+svga_cmd.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+svga_cmd.o: /usr/include/machine/types.h /usr/include/i386/types.h
+svga_cmd.o: /usr/include/string.h /usr/include/secure/_string.h
+svga_cmd.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_cmd.o: /usr/include/stdbool.h
+svga_cmd.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_cmd.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_cmd.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_cmd.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_cmd.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_cmd.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_cmd.o: /usr/include/stdarg.h
+svga_cmd.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_cmd.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_cmd.o: /usr/include/stddef.h svga_screen_buffer.h
+svga_cmd.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_cmd.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_cmd.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_cmd.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_cmd.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_cmd.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_cmd.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_cmd.o: svga_screen_cache.h
+svga_cmd.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_cmd.o: svga_screen_texture.h svga_cmd.h
+svga_context.o: svga_cmd.h
+svga_context.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_context.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_context.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_context.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_context.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_context.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_context.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_context.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_context.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+svga_context.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+svga_context.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+svga_context.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+svga_context.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_context.o: /usr/include/libkern/_OSByteOrder.h
+svga_context.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_context.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_context.o: /usr/include/i386/types.h /usr/include/string.h
+svga_context.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+svga_context.o: /usr/include/stdint.h /usr/include/stdbool.h
+svga_context.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_context.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_context.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_context.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_context.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_context.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_context.o: /usr/include/stdarg.h
+svga_context.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_context.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_context.o: /usr/include/stddef.h
+svga_context.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_context.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_context.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_context.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_context.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_context.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_context.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_context.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_context.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_context.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_context.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_context.o: ../../../../src/gallium/auxiliary/util/u_upload_mgr.h
+svga_context.o: svga_context.h
+svga_context.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_context.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_context.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_context.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_context.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_context.o: svga_screen.h ../../../../src/gallium/include/pipe/p_thread.h
+svga_context.o: svga_screen_cache.h svga_screen_texture.h
+svga_context.o: svga_screen_buffer.h svga_winsys.h svga_swtnl.h svga_draw.h
+svga_context.o: svga_hw_reg.h svga_debug.h svga_state.h
+svga_draw.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_draw.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_draw.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_draw.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_draw.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_draw.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_draw.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_draw.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+svga_draw.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+svga_draw.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+svga_draw.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+svga_draw.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_draw.o: /usr/include/libkern/_OSByteOrder.h
+svga_draw.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+svga_draw.o: /usr/include/machine/types.h /usr/include/i386/types.h
+svga_draw.o: /usr/include/string.h /usr/include/secure/_string.h
+svga_draw.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_draw.o: /usr/include/stdbool.h
+svga_draw.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_draw.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_draw.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_draw.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_draw.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_draw.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_draw.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_draw.o: /usr/include/stdarg.h
+svga_draw.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_draw.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_draw.o: /usr/include/stddef.h
+svga_draw.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_draw.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_draw.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_draw.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_draw.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_draw.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_draw.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_draw.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_draw.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+svga_draw.o: svga_context.h ../../../../src/gallium/include/pipe/p_context.h
+svga_draw.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_draw.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_draw.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_draw.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_draw.o: svga_draw.h svga_hw_reg.h
+svga_draw.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_draw.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_draw.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_draw.o: svga_draw_private.h
+svga_draw.o: ../../../../src/gallium/auxiliary/indices/u_indices.h
+svga_draw.o: ../../../../src/gallium/drivers/svga/include/svga3d_shaderdefs.h
+svga_draw.o: svga_debug.h svga_screen.h
+svga_draw.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_draw.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_draw.o: svga_screen_cache.h svga_screen_buffer.h svga_screen_texture.h
+svga_draw.o: svga_winsys.h svga_cmd.h
+svga_draw_arrays.o: svga_cmd.h
+svga_draw_arrays.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_draw_arrays.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_draw_arrays.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_draw_arrays.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_draw_arrays.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_draw_arrays.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_draw_arrays.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_draw_arrays.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_draw_arrays.o: /usr/include/sys/appleapiopts.h
+svga_draw_arrays.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_draw_arrays.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_draw_arrays.o: /usr/include/machine/_structs.h
+svga_draw_arrays.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+svga_draw_arrays.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_draw_arrays.o: /usr/include/libkern/_OSByteOrder.h
+svga_draw_arrays.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_draw_arrays.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_draw_arrays.o: /usr/include/i386/types.h /usr/include/string.h
+svga_draw_arrays.o: /usr/include/secure/_string.h
+svga_draw_arrays.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_draw_arrays.o: /usr/include/stdbool.h
+svga_draw_arrays.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_draw_arrays.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_draw_arrays.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_draw_arrays.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_draw_arrays.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_draw_arrays.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_draw_arrays.o: /usr/include/stdarg.h
+svga_draw_arrays.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_draw_arrays.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_draw_arrays.o: /usr/include/stddef.h
+svga_draw_arrays.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_draw_arrays.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_draw_arrays.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_draw_arrays.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_draw_arrays.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_draw_arrays.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_draw_arrays.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_draw_arrays.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_draw_arrays.o: ../../../../src/gallium/auxiliary/util/u_prim.h
+svga_draw_arrays.o: ../../../../src/gallium/auxiliary/indices/u_indices.h
+svga_draw_arrays.o: svga_hw_reg.h svga_draw.h svga_draw_private.h
+svga_draw_arrays.o: ../../../../src/gallium/drivers/svga/include/svga3d_shaderdefs.h
+svga_draw_arrays.o: svga_context.h
+svga_draw_arrays.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_draw_arrays.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_draw_arrays.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_draw_arrays.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_draw_arrays.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_draw_elements.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_draw_elements.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_draw_elements.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_draw_elements.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_draw_elements.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_draw_elements.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_draw_elements.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_draw_elements.o: /usr/include/stdarg.h
+svga_draw_elements.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_draw_elements.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_draw_elements.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_draw_elements.o: /usr/include/AvailabilityInternal.h
+svga_draw_elements.o: /usr/include/_types.h /usr/include/sys/_types.h
+svga_draw_elements.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+svga_draw_elements.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+svga_draw_elements.o: /usr/include/sys/signal.h
+svga_draw_elements.o: /usr/include/sys/appleapiopts.h
+svga_draw_elements.o: /usr/include/machine/signal.h
+svga_draw_elements.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+svga_draw_elements.o: /usr/include/sys/_structs.h
+svga_draw_elements.o: /usr/include/machine/_structs.h
+svga_draw_elements.o: /usr/include/sys/resource.h
+svga_draw_elements.o: /usr/include/machine/endian.h
+svga_draw_elements.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_draw_elements.o: /usr/include/libkern/_OSByteOrder.h
+svga_draw_elements.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_draw_elements.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_draw_elements.o: /usr/include/i386/types.h /usr/include/string.h
+svga_draw_elements.o: /usr/include/secure/_string.h
+svga_draw_elements.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_draw_elements.o: /usr/include/stdbool.h
+svga_draw_elements.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_draw_elements.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_draw_elements.o: /usr/include/stddef.h
+svga_draw_elements.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_draw_elements.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_draw_elements.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_draw_elements.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_draw_elements.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_draw_elements.o: ../../../../src/gallium/auxiliary/util/u_prim.h
+svga_draw_elements.o: ../../../../src/gallium/auxiliary/util/u_upload_mgr.h
+svga_draw_elements.o: ../../../../src/gallium/auxiliary/indices/u_indices.h
+svga_draw_elements.o: svga_cmd.h
+svga_draw_elements.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_draw_elements.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_draw_elements.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_draw_elements.o: svga_draw.h svga_hw_reg.h svga_draw_private.h
+svga_draw_elements.o: ../../../../src/gallium/drivers/svga/include/svga3d_shaderdefs.h
+svga_draw_elements.o: svga_screen_buffer.h
+svga_draw_elements.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_draw_elements.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_draw_elements.o: svga_screen_cache.h
+svga_draw_elements.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_draw_elements.o: svga_winsys.h svga_context.h
+svga_draw_elements.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_draw_elements.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_draw_elements.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_pipe_blend.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_pipe_blend.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_blend.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_blend.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_blend.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_blend.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_blend.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_pipe_blend.o: /usr/include/stdarg.h
+svga_pipe_blend.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_blend.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_pipe_blend.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_pipe_blend.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_pipe_blend.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_pipe_blend.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_pipe_blend.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_pipe_blend.o: /usr/include/sys/appleapiopts.h
+svga_pipe_blend.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_pipe_blend.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_pipe_blend.o: /usr/include/machine/_structs.h
+svga_pipe_blend.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+svga_pipe_blend.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_pipe_blend.o: /usr/include/libkern/_OSByteOrder.h
+svga_pipe_blend.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_pipe_blend.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_pipe_blend.o: /usr/include/i386/types.h /usr/include/string.h
+svga_pipe_blend.o: /usr/include/secure/_string.h
+svga_pipe_blend.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_pipe_blend.o: /usr/include/stdbool.h
+svga_pipe_blend.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_pipe_blend.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_pipe_blend.o: /usr/include/stddef.h
+svga_pipe_blend.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_pipe_blend.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_pipe_blend.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_blend.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_blend.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_blend.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_pipe_blend.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+svga_pipe_blend.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_pipe_blend.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_pipe_blend.o: svga_context.h
+svga_pipe_blend.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_blend.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_blend.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_pipe_blend.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_pipe_blend.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_pipe_blend.o: svga_state.h svga_hw_reg.h
+svga_pipe_blend.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_pipe_blend.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_pipe_blend.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_pipe_blit.o: svga_screen_texture.h
+svga_pipe_blit.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_blit.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_pipe_blit.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_pipe_blit.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_pipe_blit.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_pipe_blit.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_pipe_blit.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_pipe_blit.o: /usr/include/sys/appleapiopts.h
+svga_pipe_blit.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_pipe_blit.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_pipe_blit.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+svga_pipe_blit.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+svga_pipe_blit.o: /usr/include/sys/_endian.h
+svga_pipe_blit.o: /usr/include/libkern/_OSByteOrder.h
+svga_pipe_blit.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_pipe_blit.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_pipe_blit.o: /usr/include/i386/types.h /usr/include/string.h
+svga_pipe_blit.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+svga_pipe_blit.o: /usr/include/stdint.h /usr/include/stdbool.h
+svga_pipe_blit.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_blit.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_blit.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_blit.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_blit.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_pipe_blit.o: /usr/include/stdarg.h
+svga_pipe_blit.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_pipe_blit.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_pipe_blit.o: /usr/include/stddef.h
+svga_pipe_blit.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_pipe_blit.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_pipe_blit.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_blit.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_blit.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_blit.o: svga_screen_cache.h
+svga_pipe_blit.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_pipe_blit.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_pipe_blit.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_pipe_blit.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_pipe_blit.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_pipe_blit.o: svga_context.h
+svga_pipe_blit.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_blit.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_pipe_blit.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_pipe_blit.o: svga_debug.h svga_cmd.h
+svga_pipe_clear.o: svga_cmd.h
+svga_pipe_clear.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_pipe_clear.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_clear.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_pipe_clear.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_pipe_clear.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_pipe_clear.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_pipe_clear.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_pipe_clear.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_pipe_clear.o: /usr/include/sys/appleapiopts.h
+svga_pipe_clear.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_pipe_clear.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_pipe_clear.o: /usr/include/machine/_structs.h
+svga_pipe_clear.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+svga_pipe_clear.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_pipe_clear.o: /usr/include/libkern/_OSByteOrder.h
+svga_pipe_clear.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_pipe_clear.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_pipe_clear.o: /usr/include/i386/types.h /usr/include/string.h
+svga_pipe_clear.o: /usr/include/secure/_string.h
+svga_pipe_clear.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_pipe_clear.o: /usr/include/stdbool.h
+svga_pipe_clear.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_pipe_clear.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_pipe_clear.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_clear.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_clear.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_clear.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_pipe_clear.o: /usr/include/stdarg.h
+svga_pipe_clear.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_pipe_clear.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_pipe_clear.o: /usr/include/stddef.h svga_debug.h
+svga_pipe_clear.o: ../../../../src/gallium/auxiliary/util/u_pack_color.h
+svga_pipe_clear.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_clear.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_pipe_clear.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+svga_pipe_clear.o: svga_context.h
+svga_pipe_clear.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_clear.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_clear.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_clear.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_pipe_clear.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_pipe_clear.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_clear.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_pipe_clear.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_pipe_clear.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_pipe_clear.o: svga_state.h svga_screen_texture.h svga_screen_cache.h
+svga_pipe_clear.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_pipe_constants.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_pipe_constants.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_constants.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_constants.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_constants.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_constants.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_constants.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_pipe_constants.o: /usr/include/stdarg.h
+svga_pipe_constants.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_constants.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_pipe_constants.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_pipe_constants.o: /usr/include/AvailabilityInternal.h
+svga_pipe_constants.o: /usr/include/_types.h /usr/include/sys/_types.h
+svga_pipe_constants.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+svga_pipe_constants.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+svga_pipe_constants.o: /usr/include/sys/signal.h
+svga_pipe_constants.o: /usr/include/sys/appleapiopts.h
+svga_pipe_constants.o: /usr/include/machine/signal.h
+svga_pipe_constants.o: /usr/include/i386/signal.h
+svga_pipe_constants.o: /usr/include/i386/_structs.h
+svga_pipe_constants.o: /usr/include/sys/_structs.h
+svga_pipe_constants.o: /usr/include/machine/_structs.h
+svga_pipe_constants.o: /usr/include/sys/resource.h
+svga_pipe_constants.o: /usr/include/machine/endian.h
+svga_pipe_constants.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_pipe_constants.o: /usr/include/libkern/_OSByteOrder.h
+svga_pipe_constants.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_pipe_constants.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_pipe_constants.o: /usr/include/i386/types.h /usr/include/string.h
+svga_pipe_constants.o: /usr/include/secure/_string.h
+svga_pipe_constants.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_pipe_constants.o: /usr/include/stdbool.h
+svga_pipe_constants.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_pipe_constants.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_pipe_constants.o: /usr/include/stddef.h
+svga_pipe_constants.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_pipe_constants.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_pipe_constants.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_constants.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_constants.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_constants.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_pipe_constants.o: /usr/include/math.h
+svga_pipe_constants.o: /usr/include/architecture/i386/math.h
+svga_pipe_constants.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_pipe_constants.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_pipe_constants.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+svga_pipe_constants.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_pipe_constants.o: svga_context.h
+svga_pipe_constants.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_constants.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_constants.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_pipe_constants.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_pipe_constants.o: svga_state.h svga_hw_reg.h
+svga_pipe_constants.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_pipe_constants.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_pipe_constants.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_pipe_constants.o: svga_cmd.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_pipe_depthstencil.o: /usr/include/stdarg.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_pipe_depthstencil.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_pipe_depthstencil.o: /usr/include/AvailabilityInternal.h
+svga_pipe_depthstencil.o: /usr/include/_types.h /usr/include/sys/_types.h
+svga_pipe_depthstencil.o: /usr/include/sys/cdefs.h
+svga_pipe_depthstencil.o: /usr/include/machine/_types.h
+svga_pipe_depthstencil.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+svga_pipe_depthstencil.o: /usr/include/sys/signal.h
+svga_pipe_depthstencil.o: /usr/include/sys/appleapiopts.h
+svga_pipe_depthstencil.o: /usr/include/machine/signal.h
+svga_pipe_depthstencil.o: /usr/include/i386/signal.h
+svga_pipe_depthstencil.o: /usr/include/i386/_structs.h
+svga_pipe_depthstencil.o: /usr/include/sys/_structs.h
+svga_pipe_depthstencil.o: /usr/include/machine/_structs.h
+svga_pipe_depthstencil.o: /usr/include/sys/resource.h
+svga_pipe_depthstencil.o: /usr/include/machine/endian.h
+svga_pipe_depthstencil.o: /usr/include/i386/endian.h
+svga_pipe_depthstencil.o: /usr/include/sys/_endian.h
+svga_pipe_depthstencil.o: /usr/include/libkern/_OSByteOrder.h
+svga_pipe_depthstencil.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_pipe_depthstencil.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_pipe_depthstencil.o: /usr/include/i386/types.h /usr/include/string.h
+svga_pipe_depthstencil.o: /usr/include/secure/_string.h
+svga_pipe_depthstencil.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_pipe_depthstencil.o: /usr/include/stdbool.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_pipe_depthstencil.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_pipe_depthstencil.o: /usr/include/stddef.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_pipe_depthstencil.o: /usr/include/math.h
+svga_pipe_depthstencil.o: /usr/include/architecture/i386/math.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_pipe_depthstencil.o: svga_context.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_pipe_depthstencil.o: svga_state.h svga_hw_reg.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_pipe_depthstencil.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_pipe_draw.o: /usr/include/sys/types.h /usr/include/sys/appleapiopts.h
+svga_pipe_draw.o: /usr/include/sys/cdefs.h /usr/include/machine/types.h
+svga_pipe_draw.o: /usr/include/i386/types.h /usr/include/i386/_types.h
+svga_pipe_draw.o: /usr/include/sys/_types.h /usr/include/machine/_types.h
+svga_pipe_draw.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+svga_pipe_draw.o: /usr/include/sys/_endian.h
+svga_pipe_draw.o: /usr/include/libkern/_OSByteOrder.h
+svga_pipe_draw.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_pipe_draw.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+svga_pipe_draw.o: /usr/include/i386/_structs.h svga_cmd.h
+svga_pipe_draw.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_pipe_draw.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_pipe_draw.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_pipe_draw.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_pipe_draw.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_pipe_draw.o: /usr/include/sys/resource.h /usr/include/alloca.h
+svga_pipe_draw.o: /usr/include/string.h /usr/include/secure/_string.h
+svga_pipe_draw.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_pipe_draw.o: /usr/include/stdbool.h
+svga_pipe_draw.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_pipe_draw.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_draw.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_pipe_draw.o: /usr/include/stdarg.h
+svga_pipe_draw.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_pipe_draw.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_pipe_draw.o: /usr/include/stddef.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_draw.o: ../../../../src/gallium/auxiliary/util/u_prim.h
+svga_pipe_draw.o: ../../../../src/gallium/auxiliary/util/u_time.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_pipe_draw.o: ../../../../src/gallium/auxiliary/indices/u_indices.h
+svga_pipe_draw.o: svga_hw_reg.h svga_context.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_draw.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_pipe_draw.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_pipe_draw.o: svga_screen.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_draw.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_pipe_draw.o: svga_screen_cache.h svga_winsys.h svga_draw.h svga_state.h
+svga_pipe_draw.o: svga_swtnl.h svga_debug.h
+svga_pipe_flush.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_flush.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_flush.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_flush.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_pipe_flush.o: /usr/include/stdarg.h
+svga_pipe_flush.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_flush.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_pipe_flush.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_pipe_flush.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_pipe_flush.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_pipe_flush.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_pipe_flush.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_pipe_flush.o: /usr/include/sys/appleapiopts.h
+svga_pipe_flush.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_pipe_flush.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_pipe_flush.o: /usr/include/machine/_structs.h
+svga_pipe_flush.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+svga_pipe_flush.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_pipe_flush.o: /usr/include/libkern/_OSByteOrder.h
+svga_pipe_flush.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_pipe_flush.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_pipe_flush.o: /usr/include/i386/types.h /usr/include/string.h
+svga_pipe_flush.o: /usr/include/secure/_string.h
+svga_pipe_flush.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_pipe_flush.o: /usr/include/stdbool.h
+svga_pipe_flush.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_pipe_flush.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_pipe_flush.o: /usr/include/stddef.h svga_screen.h
+svga_pipe_flush.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_flush.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_pipe_flush.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_pipe_flush.o: svga_screen_cache.h
+svga_pipe_flush.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_pipe_flush.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_pipe_flush.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_pipe_flush.o: svga_screen_texture.h
+svga_pipe_flush.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_flush.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_flush.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_pipe_flush.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_pipe_flush.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_flush.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_flush.o: svga_context.h
+svga_pipe_flush.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_flush.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_pipe_flush.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_pipe_flush.o: svga_winsys.h svga_draw.h svga_hw_reg.h svga_debug.h
+svga_pipe_fs.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_pipe_fs.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_fs.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_fs.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_fs.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_fs.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_fs.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_pipe_fs.o: /usr/include/stdarg.h
+svga_pipe_fs.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_fs.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_pipe_fs.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_pipe_fs.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_pipe_fs.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_pipe_fs.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_pipe_fs.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_pipe_fs.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+svga_pipe_fs.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+svga_pipe_fs.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+svga_pipe_fs.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+svga_pipe_fs.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_pipe_fs.o: /usr/include/libkern/_OSByteOrder.h
+svga_pipe_fs.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_pipe_fs.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_pipe_fs.o: /usr/include/i386/types.h /usr/include/string.h
+svga_pipe_fs.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+svga_pipe_fs.o: /usr/include/stdint.h /usr/include/stdbool.h
+svga_pipe_fs.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_pipe_fs.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_pipe_fs.o: /usr/include/stddef.h
+svga_pipe_fs.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_pipe_fs.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_pipe_fs.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_fs.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_fs.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_fs.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_pipe_fs.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+svga_pipe_fs.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_pipe_fs.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_pipe_fs.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+svga_pipe_fs.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_pipe_fs.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_text.h
+svga_pipe_fs.o: svga_screen.h ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_fs.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_pipe_fs.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_pipe_fs.o: svga_screen_cache.h
+svga_pipe_fs.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_pipe_fs.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_pipe_fs.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_pipe_fs.o: svga_context.h
+svga_pipe_fs.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_fs.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_fs.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_pipe_fs.o: svga_state.h svga_tgsi.h svga_hw_reg.h svga_cmd.h svga_draw.h
+svga_pipe_fs.o: svga_debug.h
+svga_pipe_misc.o: svga_cmd.h
+svga_pipe_misc.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_pipe_misc.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_misc.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_pipe_misc.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_pipe_misc.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_pipe_misc.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_pipe_misc.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_pipe_misc.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_pipe_misc.o: /usr/include/sys/appleapiopts.h
+svga_pipe_misc.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_pipe_misc.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_pipe_misc.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+svga_pipe_misc.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+svga_pipe_misc.o: /usr/include/sys/_endian.h
+svga_pipe_misc.o: /usr/include/libkern/_OSByteOrder.h
+svga_pipe_misc.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_pipe_misc.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_pipe_misc.o: /usr/include/i386/types.h /usr/include/string.h
+svga_pipe_misc.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+svga_pipe_misc.o: /usr/include/stdint.h /usr/include/stdbool.h
+svga_pipe_misc.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_pipe_misc.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_pipe_misc.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_misc.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_misc.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_misc.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_pipe_misc.o: /usr/include/stdarg.h
+svga_pipe_misc.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_pipe_misc.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_pipe_misc.o: /usr/include/stddef.h svga_context.h
+svga_pipe_misc.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_misc.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_misc.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_misc.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_pipe_misc.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_pipe_misc.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_misc.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_misc.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_pipe_misc.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_pipe_misc.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_pipe_misc.o: svga_screen_texture.h svga_screen_cache.h
+svga_pipe_misc.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_pipe_misc.o: svga_state.h svga_winsys.h svga_hw_reg.h
+svga_pipe_query.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_query.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_query.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_query.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_query.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_pipe_query.o: /usr/include/stdarg.h
+svga_pipe_query.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_query.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_pipe_query.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_pipe_query.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_pipe_query.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_pipe_query.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_pipe_query.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_pipe_query.o: /usr/include/sys/appleapiopts.h
+svga_pipe_query.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_pipe_query.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_pipe_query.o: /usr/include/machine/_structs.h
+svga_pipe_query.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+svga_pipe_query.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_pipe_query.o: /usr/include/libkern/_OSByteOrder.h
+svga_pipe_query.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_pipe_query.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_pipe_query.o: /usr/include/i386/types.h /usr/include/string.h
+svga_pipe_query.o: /usr/include/secure/_string.h
+svga_pipe_query.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_pipe_query.o: /usr/include/stdbool.h
+svga_pipe_query.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_pipe_query.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_pipe_query.o: /usr/include/stddef.h
+svga_pipe_query.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_pipe_query.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_pipe_query.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_query.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_query.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_query.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_query.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_pipe_query.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_pipe_query.o: svga_cmd.h
+svga_pipe_query.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_pipe_query.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_pipe_query.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_pipe_query.o: svga_context.h
+svga_pipe_query.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_pipe_query.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_pipe_query.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_pipe_query.o: svga_screen.h
+svga_pipe_query.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_query.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_pipe_query.o: svga_screen_cache.h svga_screen_buffer.h svga_winsys.h
+svga_pipe_query.o: svga_draw.h svga_hw_reg.h svga_debug.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_pipe_rasterizer.o: /usr/include/stdarg.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_pipe_rasterizer.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_pipe_rasterizer.o: /usr/include/AvailabilityInternal.h
+svga_pipe_rasterizer.o: /usr/include/_types.h /usr/include/sys/_types.h
+svga_pipe_rasterizer.o: /usr/include/sys/cdefs.h
+svga_pipe_rasterizer.o: /usr/include/machine/_types.h
+svga_pipe_rasterizer.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+svga_pipe_rasterizer.o: /usr/include/sys/signal.h
+svga_pipe_rasterizer.o: /usr/include/sys/appleapiopts.h
+svga_pipe_rasterizer.o: /usr/include/machine/signal.h
+svga_pipe_rasterizer.o: /usr/include/i386/signal.h
+svga_pipe_rasterizer.o: /usr/include/i386/_structs.h
+svga_pipe_rasterizer.o: /usr/include/sys/_structs.h
+svga_pipe_rasterizer.o: /usr/include/machine/_structs.h
+svga_pipe_rasterizer.o: /usr/include/sys/resource.h
+svga_pipe_rasterizer.o: /usr/include/machine/endian.h
+svga_pipe_rasterizer.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_pipe_rasterizer.o: /usr/include/libkern/_OSByteOrder.h
+svga_pipe_rasterizer.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_pipe_rasterizer.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_pipe_rasterizer.o: /usr/include/i386/types.h /usr/include/string.h
+svga_pipe_rasterizer.o: /usr/include/secure/_string.h
+svga_pipe_rasterizer.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_pipe_rasterizer.o: /usr/include/stdbool.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_pipe_rasterizer.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_pipe_rasterizer.o: /usr/include/stddef.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_pipe_rasterizer.o: /usr/include/math.h
+svga_pipe_rasterizer.o: /usr/include/architecture/i386/math.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_pipe_rasterizer.o: svga_context.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_pipe_rasterizer.o: svga_state.h svga_hw_reg.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_pipe_rasterizer.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_pipe_sampler.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_pipe_sampler.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_sampler.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_sampler.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_sampler.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_sampler.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_sampler.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_pipe_sampler.o: /usr/include/stdarg.h
+svga_pipe_sampler.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_sampler.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_pipe_sampler.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_pipe_sampler.o: /usr/include/AvailabilityInternal.h
+svga_pipe_sampler.o: /usr/include/_types.h /usr/include/sys/_types.h
+svga_pipe_sampler.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+svga_pipe_sampler.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+svga_pipe_sampler.o: /usr/include/sys/signal.h
+svga_pipe_sampler.o: /usr/include/sys/appleapiopts.h
+svga_pipe_sampler.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_pipe_sampler.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_pipe_sampler.o: /usr/include/machine/_structs.h
+svga_pipe_sampler.o: /usr/include/sys/resource.h
+svga_pipe_sampler.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+svga_pipe_sampler.o: /usr/include/sys/_endian.h
+svga_pipe_sampler.o: /usr/include/libkern/_OSByteOrder.h
+svga_pipe_sampler.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_pipe_sampler.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_pipe_sampler.o: /usr/include/i386/types.h /usr/include/string.h
+svga_pipe_sampler.o: /usr/include/secure/_string.h
+svga_pipe_sampler.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_pipe_sampler.o: /usr/include/stdbool.h
+svga_pipe_sampler.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_pipe_sampler.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_pipe_sampler.o: /usr/include/stddef.h
+svga_pipe_sampler.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_pipe_sampler.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_pipe_sampler.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_sampler.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_sampler.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_sampler.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_pipe_sampler.o: /usr/include/math.h
+svga_pipe_sampler.o: /usr/include/architecture/i386/math.h
+svga_pipe_sampler.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_pipe_sampler.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_pipe_sampler.o: ../../../../src/gallium/auxiliary/util/u_pack_color.h
+svga_pipe_sampler.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+svga_pipe_sampler.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_pipe_sampler.o: svga_context.h
+svga_pipe_sampler.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_sampler.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_sampler.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_pipe_sampler.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_pipe_sampler.o: svga_screen_texture.h svga_screen_cache.h
+svga_pipe_sampler.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_pipe_sampler.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_pipe_sampler.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_pipe_sampler.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_pipe_sampler.o: svga_state.h svga_hw_reg.h svga_debug.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_vertex.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_pipe_vertex.o: /usr/include/stdarg.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_pipe_vertex.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_pipe_vertex.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_pipe_vertex.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_pipe_vertex.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_pipe_vertex.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_pipe_vertex.o: /usr/include/sys/appleapiopts.h
+svga_pipe_vertex.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_pipe_vertex.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_pipe_vertex.o: /usr/include/machine/_structs.h
+svga_pipe_vertex.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+svga_pipe_vertex.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_pipe_vertex.o: /usr/include/libkern/_OSByteOrder.h
+svga_pipe_vertex.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_pipe_vertex.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_pipe_vertex.o: /usr/include/i386/types.h /usr/include/string.h
+svga_pipe_vertex.o: /usr/include/secure/_string.h
+svga_pipe_vertex.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_pipe_vertex.o: /usr/include/stdbool.h
+svga_pipe_vertex.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_pipe_vertex.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_pipe_vertex.o: /usr/include/stddef.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_vertex.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_pipe_vertex.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+svga_pipe_vertex.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_pipe_vertex.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_pipe_vertex.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_pipe_vertex.o: svga_screen.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_pipe_vertex.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_pipe_vertex.o: svga_screen_cache.h
+svga_pipe_vertex.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_pipe_vertex.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_pipe_vertex.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_pipe_vertex.o: svga_screen_buffer.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_vertex.o: svga_context.h
+svga_pipe_vertex.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_vertex.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_pipe_vertex.o: svga_state.h svga_winsys.h svga_hw_reg.h
+svga_pipe_vs.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+svga_pipe_vs.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_vs.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_vs.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_vs.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_vs.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_pipe_vs.o: /usr/include/stdarg.h
+svga_pipe_vs.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_pipe_vs.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_pipe_vs.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_pipe_vs.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_pipe_vs.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_pipe_vs.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_pipe_vs.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_pipe_vs.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+svga_pipe_vs.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+svga_pipe_vs.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+svga_pipe_vs.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+svga_pipe_vs.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_pipe_vs.o: /usr/include/libkern/_OSByteOrder.h
+svga_pipe_vs.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_pipe_vs.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_pipe_vs.o: /usr/include/i386/types.h /usr/include/string.h
+svga_pipe_vs.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+svga_pipe_vs.o: /usr/include/stdint.h /usr/include/stdbool.h
+svga_pipe_vs.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_pipe_vs.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_pipe_vs.o: /usr/include/stddef.h
+svga_pipe_vs.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_pipe_vs.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_pipe_vs.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_vs.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_pipe_vs.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_pipe_vs.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_pipe_vs.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_vs.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_pipe_vs.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_pipe_vs.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+svga_pipe_vs.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_pipe_vs.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_pipe_vs.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+svga_pipe_vs.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_pipe_vs.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_text.h
+svga_pipe_vs.o: svga_screen.h ../../../../src/gallium/include/pipe/p_screen.h
+svga_pipe_vs.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_pipe_vs.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_pipe_vs.o: svga_screen_cache.h
+svga_pipe_vs.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_pipe_vs.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_pipe_vs.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_pipe_vs.o: svga_context.h
+svga_pipe_vs.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_pipe_vs.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_pipe_vs.o: svga_state.h svga_tgsi.h svga_hw_reg.h svga_cmd.h
+svga_pipe_vs.o: svga_debug.h
+svga_screen.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_screen.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_screen.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_screen.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_screen.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_screen.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_screen.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_screen.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_screen.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_screen.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+svga_screen.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+svga_screen.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+svga_screen.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+svga_screen.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_screen.o: /usr/include/libkern/_OSByteOrder.h
+svga_screen.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+svga_screen.o: /usr/include/machine/types.h /usr/include/i386/types.h
+svga_screen.o: /usr/include/string.h /usr/include/secure/_string.h
+svga_screen.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_screen.o: /usr/include/stdbool.h
+svga_screen.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_screen.o: /usr/include/stdarg.h
+svga_screen.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_screen.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_screen.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_screen.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_screen.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_screen.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_screen.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_screen.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_screen.o: /usr/include/stddef.h
+svga_screen.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_screen.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_screen.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_screen.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_screen.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_screen.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_screen.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+svga_screen.o: svga_winsys.h
+svga_screen.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_screen.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_screen.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_screen.o: svga_context.h
+svga_screen.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_screen.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_screen.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_screen.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_screen.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_screen.o: svga_screen.h ../../../../src/gallium/include/pipe/p_screen.h
+svga_screen.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_screen.o: svga_screen_cache.h svga_screen_texture.h svga_screen_buffer.h
+svga_screen.o: svga_cmd.h svga_debug.h svga_hw_reg.h
+svga_screen.o: ../../../../src/gallium/drivers/svga/include/svga3d_shaderdefs.h
+svga_screen_buffer.o: svga_cmd.h
+svga_screen_buffer.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_screen_buffer.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_screen_buffer.o: /usr/include/AvailabilityInternal.h
+svga_screen_buffer.o: /usr/include/_types.h /usr/include/sys/_types.h
+svga_screen_buffer.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+svga_screen_buffer.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+svga_screen_buffer.o: /usr/include/sys/signal.h
+svga_screen_buffer.o: /usr/include/sys/appleapiopts.h
+svga_screen_buffer.o: /usr/include/machine/signal.h
+svga_screen_buffer.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+svga_screen_buffer.o: /usr/include/sys/_structs.h
+svga_screen_buffer.o: /usr/include/machine/_structs.h
+svga_screen_buffer.o: /usr/include/sys/resource.h
+svga_screen_buffer.o: /usr/include/machine/endian.h
+svga_screen_buffer.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_screen_buffer.o: /usr/include/libkern/_OSByteOrder.h
+svga_screen_buffer.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_screen_buffer.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_screen_buffer.o: /usr/include/i386/types.h /usr/include/string.h
+svga_screen_buffer.o: /usr/include/secure/_string.h
+svga_screen_buffer.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_screen_buffer.o: /usr/include/stdbool.h
+svga_screen_buffer.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_screen_buffer.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_screen_buffer.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_screen_buffer.o: /usr/include/stdarg.h
+svga_screen_buffer.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_screen_buffer.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_screen_buffer.o: /usr/include/stddef.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_screen_buffer.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_screen_buffer.o: /usr/include/math.h
+svga_screen_buffer.o: /usr/include/architecture/i386/math.h
+svga_screen_buffer.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_screen_buffer.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_screen_buffer.o: svga_context.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_screen_buffer.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_screen_buffer.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_screen_buffer.o: svga_screen.h
+svga_screen_buffer.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_screen_buffer.o: svga_screen_cache.h svga_screen_buffer.h svga_winsys.h
+svga_screen_buffer.o: svga_debug.h
+svga_screen_texture.o: svga_cmd.h
+svga_screen_texture.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_screen_texture.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_screen_texture.o: /usr/include/AvailabilityInternal.h
+svga_screen_texture.o: /usr/include/_types.h /usr/include/sys/_types.h
+svga_screen_texture.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+svga_screen_texture.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+svga_screen_texture.o: /usr/include/sys/signal.h
+svga_screen_texture.o: /usr/include/sys/appleapiopts.h
+svga_screen_texture.o: /usr/include/machine/signal.h
+svga_screen_texture.o: /usr/include/i386/signal.h
+svga_screen_texture.o: /usr/include/i386/_structs.h
+svga_screen_texture.o: /usr/include/sys/_structs.h
+svga_screen_texture.o: /usr/include/machine/_structs.h
+svga_screen_texture.o: /usr/include/sys/resource.h
+svga_screen_texture.o: /usr/include/machine/endian.h
+svga_screen_texture.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_screen_texture.o: /usr/include/libkern/_OSByteOrder.h
+svga_screen_texture.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_screen_texture.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_screen_texture.o: /usr/include/i386/types.h /usr/include/string.h
+svga_screen_texture.o: /usr/include/secure/_string.h
+svga_screen_texture.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_screen_texture.o: /usr/include/stdbool.h
+svga_screen_texture.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_screen_texture.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_screen_texture.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_screen_texture.o: /usr/include/stdarg.h
+svga_screen_texture.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_screen_texture.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_screen_texture.o: /usr/include/stddef.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_screen_texture.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_screen_texture.o: /usr/include/math.h
+svga_screen_texture.o: /usr/include/architecture/i386/math.h
+svga_screen_texture.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_screen_texture.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_screen_texture.o: svga_screen.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_screen_texture.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_screen_texture.o: svga_screen_cache.h svga_context.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_screen_texture.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_screen_texture.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_screen_texture.o: svga_screen_texture.h svga_screen_buffer.h
+svga_screen_texture.o: svga_winsys.h svga_debug.h
+svga_screen_cache.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_screen_cache.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_screen_cache.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_screen_cache.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_screen_cache.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_screen_cache.o: /usr/include/AvailabilityInternal.h
+svga_screen_cache.o: /usr/include/_types.h /usr/include/sys/_types.h
+svga_screen_cache.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+svga_screen_cache.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+svga_screen_cache.o: /usr/include/sys/signal.h
+svga_screen_cache.o: /usr/include/sys/appleapiopts.h
+svga_screen_cache.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_screen_cache.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_screen_cache.o: /usr/include/machine/_structs.h
+svga_screen_cache.o: /usr/include/sys/resource.h
+svga_screen_cache.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+svga_screen_cache.o: /usr/include/sys/_endian.h
+svga_screen_cache.o: /usr/include/libkern/_OSByteOrder.h
+svga_screen_cache.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_screen_cache.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_screen_cache.o: /usr/include/i386/types.h /usr/include/string.h
+svga_screen_cache.o: /usr/include/secure/_string.h
+svga_screen_cache.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_screen_cache.o: /usr/include/stdbool.h
+svga_screen_cache.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_screen_cache.o: /usr/include/stdarg.h
+svga_screen_cache.o: ../../../../src/gallium/auxiliary/util/u_hash.h
+svga_screen_cache.o: svga_debug.h svga_winsys.h
+svga_screen_cache.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_screen_cache.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_screen_cache.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_screen_cache.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_screen_cache.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_screen_cache.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_screen_cache.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_screen_cache.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_screen_cache.o: /usr/include/stddef.h svga_screen.h
+svga_screen_cache.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_screen_cache.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_screen_cache.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_screen_cache.o: svga_screen_cache.h
+svga_state.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_state.o: /usr/include/stdarg.h
+svga_state.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_state.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_state.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_state.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_state.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_state.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_state.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+svga_state.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+svga_state.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+svga_state.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+svga_state.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_state.o: /usr/include/libkern/_OSByteOrder.h
+svga_state.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+svga_state.o: /usr/include/machine/types.h /usr/include/i386/types.h
+svga_state.o: /usr/include/string.h /usr/include/secure/_string.h
+svga_state.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_state.o: /usr/include/stdbool.h
+svga_state.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_state.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_state.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_state.o: /usr/include/stddef.h
+svga_state.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_state.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_state.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+svga_state.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_state.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_state.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_state.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_state.o: ../../../../src/gallium/include/pipe/p_format.h svga_context.h
+svga_state.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_state.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_state.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_state.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_state.o: svga_screen.h ../../../../src/gallium/include/pipe/p_screen.h
+svga_state.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_state.o: svga_screen_cache.h
+svga_state.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_state.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_state.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_state.o: svga_state.h svga_draw.h svga_hw_reg.h svga_cmd.h
+svga_state_need_swtnl.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_state_need_swtnl.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_state_need_swtnl.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_state_need_swtnl.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state_need_swtnl.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state_need_swtnl.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_state_need_swtnl.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_state_need_swtnl.o: /usr/include/stdarg.h
+svga_state_need_swtnl.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state_need_swtnl.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_state_need_swtnl.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_state_need_swtnl.o: /usr/include/AvailabilityInternal.h
+svga_state_need_swtnl.o: /usr/include/_types.h /usr/include/sys/_types.h
+svga_state_need_swtnl.o: /usr/include/sys/cdefs.h
+svga_state_need_swtnl.o: /usr/include/machine/_types.h
+svga_state_need_swtnl.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+svga_state_need_swtnl.o: /usr/include/sys/signal.h
+svga_state_need_swtnl.o: /usr/include/sys/appleapiopts.h
+svga_state_need_swtnl.o: /usr/include/machine/signal.h
+svga_state_need_swtnl.o: /usr/include/i386/signal.h
+svga_state_need_swtnl.o: /usr/include/i386/_structs.h
+svga_state_need_swtnl.o: /usr/include/sys/_structs.h
+svga_state_need_swtnl.o: /usr/include/machine/_structs.h
+svga_state_need_swtnl.o: /usr/include/sys/resource.h
+svga_state_need_swtnl.o: /usr/include/machine/endian.h
+svga_state_need_swtnl.o: /usr/include/i386/endian.h
+svga_state_need_swtnl.o: /usr/include/sys/_endian.h
+svga_state_need_swtnl.o: /usr/include/libkern/_OSByteOrder.h
+svga_state_need_swtnl.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_state_need_swtnl.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_state_need_swtnl.o: /usr/include/i386/types.h /usr/include/string.h
+svga_state_need_swtnl.o: /usr/include/secure/_string.h
+svga_state_need_swtnl.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_state_need_swtnl.o: /usr/include/stdbool.h
+svga_state_need_swtnl.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_state_need_swtnl.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_state_need_swtnl.o: /usr/include/stddef.h
+svga_state_need_swtnl.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_state_need_swtnl.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_state_need_swtnl.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_state_need_swtnl.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_state_need_swtnl.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state_need_swtnl.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_state_need_swtnl.o: svga_context.h
+svga_state_need_swtnl.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_state_need_swtnl.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_state_need_swtnl.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_state_need_swtnl.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_state_need_swtnl.o: svga_state.h svga_debug.h svga_hw_reg.h
+svga_state_need_swtnl.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_state_need_swtnl.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_state_need_swtnl.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_state_constants.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_state_constants.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_state_constants.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_state_constants.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state_constants.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state_constants.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_state_constants.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_state_constants.o: /usr/include/stdarg.h
+svga_state_constants.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state_constants.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_state_constants.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_state_constants.o: /usr/include/AvailabilityInternal.h
+svga_state_constants.o: /usr/include/_types.h /usr/include/sys/_types.h
+svga_state_constants.o: /usr/include/sys/cdefs.h
+svga_state_constants.o: /usr/include/machine/_types.h
+svga_state_constants.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+svga_state_constants.o: /usr/include/sys/signal.h
+svga_state_constants.o: /usr/include/sys/appleapiopts.h
+svga_state_constants.o: /usr/include/machine/signal.h
+svga_state_constants.o: /usr/include/i386/signal.h
+svga_state_constants.o: /usr/include/i386/_structs.h
+svga_state_constants.o: /usr/include/sys/_structs.h
+svga_state_constants.o: /usr/include/machine/_structs.h
+svga_state_constants.o: /usr/include/sys/resource.h
+svga_state_constants.o: /usr/include/machine/endian.h
+svga_state_constants.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_state_constants.o: /usr/include/libkern/_OSByteOrder.h
+svga_state_constants.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_state_constants.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_state_constants.o: /usr/include/i386/types.h /usr/include/string.h
+svga_state_constants.o: /usr/include/secure/_string.h
+svga_state_constants.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_state_constants.o: /usr/include/stdbool.h
+svga_state_constants.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_state_constants.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_state_constants.o: /usr/include/stddef.h
+svga_state_constants.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_state_constants.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_state_constants.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_state_constants.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_state_constants.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state_constants.o: svga_context.h
+svga_state_constants.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_state_constants.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_state_constants.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_state_constants.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_state_constants.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_state_constants.o: svga_state.h svga_cmd.h
+svga_state_constants.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_state_constants.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_state_constants.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_state_constants.o: svga_tgsi.h svga_hw_reg.h svga_debug.h
+svga_state_framebuffer.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_state_framebuffer.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_state_framebuffer.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_state_framebuffer.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state_framebuffer.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state_framebuffer.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_state_framebuffer.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_state_framebuffer.o: /usr/include/stdarg.h
+svga_state_framebuffer.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state_framebuffer.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_state_framebuffer.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_state_framebuffer.o: /usr/include/AvailabilityInternal.h
+svga_state_framebuffer.o: /usr/include/_types.h /usr/include/sys/_types.h
+svga_state_framebuffer.o: /usr/include/sys/cdefs.h
+svga_state_framebuffer.o: /usr/include/machine/_types.h
+svga_state_framebuffer.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+svga_state_framebuffer.o: /usr/include/sys/signal.h
+svga_state_framebuffer.o: /usr/include/sys/appleapiopts.h
+svga_state_framebuffer.o: /usr/include/machine/signal.h
+svga_state_framebuffer.o: /usr/include/i386/signal.h
+svga_state_framebuffer.o: /usr/include/i386/_structs.h
+svga_state_framebuffer.o: /usr/include/sys/_structs.h
+svga_state_framebuffer.o: /usr/include/machine/_structs.h
+svga_state_framebuffer.o: /usr/include/sys/resource.h
+svga_state_framebuffer.o: /usr/include/machine/endian.h
+svga_state_framebuffer.o: /usr/include/i386/endian.h
+svga_state_framebuffer.o: /usr/include/sys/_endian.h
+svga_state_framebuffer.o: /usr/include/libkern/_OSByteOrder.h
+svga_state_framebuffer.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_state_framebuffer.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_state_framebuffer.o: /usr/include/i386/types.h /usr/include/string.h
+svga_state_framebuffer.o: /usr/include/secure/_string.h
+svga_state_framebuffer.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_state_framebuffer.o: /usr/include/stdbool.h
+svga_state_framebuffer.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_state_framebuffer.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_state_framebuffer.o: /usr/include/stddef.h
+svga_state_framebuffer.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_state_framebuffer.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_state_framebuffer.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_state_framebuffer.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_state_framebuffer.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state_framebuffer.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_state_framebuffer.o: /usr/include/math.h
+svga_state_framebuffer.o: /usr/include/architecture/i386/math.h
+svga_state_framebuffer.o: svga_context.h
+svga_state_framebuffer.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_state_framebuffer.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_state_framebuffer.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_state_framebuffer.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_state_framebuffer.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_state_framebuffer.o: svga_state.h svga_cmd.h
+svga_state_framebuffer.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_state_framebuffer.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_state_framebuffer.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_state_framebuffer.o: svga_debug.h svga_hw_reg.h
+svga_state_rss.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_state_rss.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_state_rss.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_state_rss.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state_rss.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state_rss.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_state_rss.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_state_rss.o: /usr/include/stdarg.h
+svga_state_rss.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state_rss.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_state_rss.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_state_rss.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_state_rss.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_state_rss.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_state_rss.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_state_rss.o: /usr/include/sys/appleapiopts.h
+svga_state_rss.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_state_rss.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_state_rss.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+svga_state_rss.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+svga_state_rss.o: /usr/include/sys/_endian.h
+svga_state_rss.o: /usr/include/libkern/_OSByteOrder.h
+svga_state_rss.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_state_rss.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_state_rss.o: /usr/include/i386/types.h /usr/include/string.h
+svga_state_rss.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+svga_state_rss.o: /usr/include/stdint.h /usr/include/stdbool.h
+svga_state_rss.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_state_rss.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_state_rss.o: /usr/include/stddef.h
+svga_state_rss.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_state_rss.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_state_rss.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_state_rss.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_state_rss.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state_rss.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_state_rss.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+svga_state_rss.o: svga_context.h
+svga_state_rss.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_state_rss.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_state_rss.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_state_rss.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_state_rss.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_state_rss.o: svga_state.h svga_cmd.h
+svga_state_rss.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_state_rss.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_state_rss.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_state_rss.o: svga_hw_reg.h
+svga_state_tss.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_state_tss.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_state_tss.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_state_tss.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state_tss.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state_tss.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_state_tss.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_state_tss.o: /usr/include/stdarg.h
+svga_state_tss.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state_tss.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_state_tss.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_state_tss.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_state_tss.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_state_tss.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_state_tss.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_state_tss.o: /usr/include/sys/appleapiopts.h
+svga_state_tss.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_state_tss.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_state_tss.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+svga_state_tss.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+svga_state_tss.o: /usr/include/sys/_endian.h
+svga_state_tss.o: /usr/include/libkern/_OSByteOrder.h
+svga_state_tss.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_state_tss.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_state_tss.o: /usr/include/i386/types.h /usr/include/string.h
+svga_state_tss.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+svga_state_tss.o: /usr/include/stdint.h /usr/include/stdbool.h
+svga_state_tss.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_state_tss.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_state_tss.o: /usr/include/stddef.h
+svga_state_tss.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_state_tss.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_state_tss.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_state_tss.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_state_tss.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state_tss.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_state_tss.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+svga_state_tss.o: svga_screen_texture.h
+svga_state_tss.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_state_tss.o: svga_screen_cache.h
+svga_state_tss.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_state_tss.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_state_tss.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_state_tss.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_state_tss.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_state_tss.o: svga_winsys.h svga_context.h
+svga_state_tss.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_state_tss.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_state_tss.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_state_tss.o: svga_state.h svga_cmd.h svga_hw_reg.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_state_vdecl.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_state_vdecl.o: /usr/include/stdarg.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_state_vdecl.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_state_vdecl.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_state_vdecl.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_state_vdecl.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_state_vdecl.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_state_vdecl.o: /usr/include/sys/appleapiopts.h
+svga_state_vdecl.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_state_vdecl.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_state_vdecl.o: /usr/include/machine/_structs.h
+svga_state_vdecl.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+svga_state_vdecl.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_state_vdecl.o: /usr/include/libkern/_OSByteOrder.h
+svga_state_vdecl.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_state_vdecl.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_state_vdecl.o: /usr/include/i386/types.h /usr/include/string.h
+svga_state_vdecl.o: /usr/include/secure/_string.h
+svga_state_vdecl.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_state_vdecl.o: /usr/include/stdbool.h
+svga_state_vdecl.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_state_vdecl.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_state_vdecl.o: /usr/include/stddef.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state_vdecl.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_state_vdecl.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+svga_state_vdecl.o: ../../../../src/gallium/auxiliary/util/u_upload_mgr.h
+svga_state_vdecl.o: svga_context.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_state_vdecl.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_state_vdecl.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_state_vdecl.o: svga_state.h svga_draw.h svga_hw_reg.h
+svga_state_vdecl.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_state_vdecl.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_state_vdecl.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_state_vdecl.o: svga_tgsi.h svga_screen.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_state_vdecl.o: ../../../../src/gallium/include/pipe/p_thread.h
+svga_state_vdecl.o: svga_screen_cache.h svga_screen_buffer.h
+svga_state_fs.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_state_fs.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_state_fs.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_state_fs.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state_fs.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state_fs.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_state_fs.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_state_fs.o: /usr/include/stdarg.h
+svga_state_fs.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state_fs.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_state_fs.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_state_fs.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_state_fs.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_state_fs.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_state_fs.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_state_fs.o: /usr/include/sys/appleapiopts.h
+svga_state_fs.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_state_fs.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_state_fs.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+svga_state_fs.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+svga_state_fs.o: /usr/include/sys/_endian.h
+svga_state_fs.o: /usr/include/libkern/_OSByteOrder.h
+svga_state_fs.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_state_fs.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_state_fs.o: /usr/include/i386/types.h /usr/include/string.h
+svga_state_fs.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+svga_state_fs.o: /usr/include/stdint.h /usr/include/stdbool.h
+svga_state_fs.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_state_fs.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_state_fs.o: /usr/include/stddef.h
+svga_state_fs.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_state_fs.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_state_fs.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_state_fs.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_state_fs.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state_fs.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_state_fs.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+svga_state_fs.o: svga_context.h
+svga_state_fs.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_state_fs.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_state_fs.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_state_fs.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_state_fs.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_state_fs.o: svga_state.h svga_cmd.h
+svga_state_fs.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_state_fs.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_state_fs.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_state_fs.o: svga_tgsi.h svga_hw_reg.h
+svga_state_vs.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_state_vs.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_state_vs.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_state_vs.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state_vs.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state_vs.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_state_vs.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_state_vs.o: /usr/include/stdarg.h
+svga_state_vs.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_state_vs.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_state_vs.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_state_vs.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_state_vs.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_state_vs.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_state_vs.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_state_vs.o: /usr/include/sys/appleapiopts.h
+svga_state_vs.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_state_vs.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_state_vs.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+svga_state_vs.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+svga_state_vs.o: /usr/include/sys/_endian.h
+svga_state_vs.o: /usr/include/libkern/_OSByteOrder.h
+svga_state_vs.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_state_vs.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_state_vs.o: /usr/include/i386/types.h /usr/include/string.h
+svga_state_vs.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+svga_state_vs.o: /usr/include/stdint.h /usr/include/stdbool.h
+svga_state_vs.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_state_vs.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_state_vs.o: /usr/include/stddef.h
+svga_state_vs.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_state_vs.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_state_vs.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_state_vs.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_state_vs.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_state_vs.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_state_vs.o: /usr/include/math.h /usr/include/architecture/i386/math.h
+svga_state_vs.o: ../../../../src/gallium/auxiliary/translate/translate.h
+svga_state_vs.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_state_vs.o: svga_context.h
+svga_state_vs.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_state_vs.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_state_vs.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_state_vs.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_state_vs.o: svga_state.h svga_cmd.h
+svga_state_vs.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_state_vs.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_state_vs.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_state_vs.o: svga_tgsi.h svga_hw_reg.h
+svga_swtnl_backend.o: ../../../../src/gallium/auxiliary/draw/draw_vbuf.h
+svga_swtnl_backend.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_swtnl_backend.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_swtnl_backend.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_swtnl_backend.o: /usr/include/AvailabilityInternal.h
+svga_swtnl_backend.o: /usr/include/_types.h /usr/include/sys/_types.h
+svga_swtnl_backend.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+svga_swtnl_backend.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+svga_swtnl_backend.o: /usr/include/sys/signal.h
+svga_swtnl_backend.o: /usr/include/sys/appleapiopts.h
+svga_swtnl_backend.o: /usr/include/machine/signal.h
+svga_swtnl_backend.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+svga_swtnl_backend.o: /usr/include/sys/_structs.h
+svga_swtnl_backend.o: /usr/include/machine/_structs.h
+svga_swtnl_backend.o: /usr/include/sys/resource.h
+svga_swtnl_backend.o: /usr/include/machine/endian.h
+svga_swtnl_backend.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_swtnl_backend.o: /usr/include/libkern/_OSByteOrder.h
+svga_swtnl_backend.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_swtnl_backend.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_swtnl_backend.o: /usr/include/i386/types.h /usr/include/string.h
+svga_swtnl_backend.o: /usr/include/secure/_string.h
+svga_swtnl_backend.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_swtnl_backend.o: /usr/include/stdbool.h
+svga_swtnl_backend.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+svga_swtnl_backend.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_swtnl_backend.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_swtnl_backend.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_swtnl_backend.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_swtnl_backend.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_swtnl_backend.o: /usr/include/stdarg.h
+svga_swtnl_backend.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_swtnl_backend.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_swtnl_backend.o: /usr/include/stddef.h
+svga_swtnl_backend.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_swtnl_backend.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_swtnl_backend.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_swtnl_backend.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_swtnl_backend.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_swtnl_backend.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+svga_swtnl_backend.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_swtnl_backend.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_swtnl_backend.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_swtnl_backend.o: ../../../../src/gallium/auxiliary/util/u_math.h
+svga_swtnl_backend.o: /usr/include/math.h
+svga_swtnl_backend.o: /usr/include/architecture/i386/math.h
+svga_swtnl_backend.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_swtnl_backend.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_swtnl_backend.o: ../../../../src/gallium/auxiliary/util/u_simple_shaders.h
+svga_swtnl_backend.o: svga_context.h
+svga_swtnl_backend.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_swtnl_backend.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_swtnl_backend.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_swtnl_backend.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_swtnl_backend.o: svga_state.h svga_swtnl.h
+svga_swtnl_backend.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_swtnl_backend.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_swtnl_backend.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_swtnl_backend.o: svga_draw.h svga_hw_reg.h svga_swtnl_private.h
+svga_swtnl_draw.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+svga_swtnl_draw.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_swtnl_draw.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_swtnl_draw.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_swtnl_draw.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_swtnl_draw.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_swtnl_draw.o: /usr/include/stdarg.h
+svga_swtnl_draw.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_swtnl_draw.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_swtnl_draw.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_swtnl_draw.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_swtnl_draw.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_swtnl_draw.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_swtnl_draw.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_swtnl_draw.o: /usr/include/sys/appleapiopts.h
+svga_swtnl_draw.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_swtnl_draw.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_swtnl_draw.o: /usr/include/machine/_structs.h
+svga_swtnl_draw.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+svga_swtnl_draw.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_swtnl_draw.o: /usr/include/libkern/_OSByteOrder.h
+svga_swtnl_draw.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_swtnl_draw.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_swtnl_draw.o: /usr/include/i386/types.h /usr/include/string.h
+svga_swtnl_draw.o: /usr/include/secure/_string.h
+svga_swtnl_draw.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_swtnl_draw.o: /usr/include/stdbool.h
+svga_swtnl_draw.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_swtnl_draw.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_swtnl_draw.o: /usr/include/stddef.h
+svga_swtnl_draw.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_swtnl_draw.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_swtnl_draw.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_swtnl_draw.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_swtnl_draw.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_swtnl_draw.o: ../../../../src/gallium/auxiliary/draw/draw_vbuf.h
+svga_swtnl_draw.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_swtnl_draw.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_swtnl_draw.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_swtnl_draw.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_swtnl_draw.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_swtnl_draw.o: svga_context.h
+svga_swtnl_draw.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_swtnl_draw.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_swtnl_draw.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_swtnl_draw.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_swtnl_draw.o: svga_swtnl.h svga_state.h svga_swtnl_private.h
+svga_swtnl_draw.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+svga_swtnl_draw.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_swtnl_draw.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_swtnl_draw.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_swtnl_state.o: ../../../../src/gallium/auxiliary/draw/draw_context.h
+svga_swtnl_state.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_swtnl_state.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_swtnl_state.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_swtnl_state.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_swtnl_state.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_swtnl_state.o: /usr/include/stdarg.h
+svga_swtnl_state.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_swtnl_state.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_swtnl_state.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_swtnl_state.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_swtnl_state.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_swtnl_state.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_swtnl_state.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_swtnl_state.o: /usr/include/sys/appleapiopts.h
+svga_swtnl_state.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_swtnl_state.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_swtnl_state.o: /usr/include/machine/_structs.h
+svga_swtnl_state.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+svga_swtnl_state.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_swtnl_state.o: /usr/include/libkern/_OSByteOrder.h
+svga_swtnl_state.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_swtnl_state.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_swtnl_state.o: /usr/include/i386/types.h /usr/include/string.h
+svga_swtnl_state.o: /usr/include/secure/_string.h
+svga_swtnl_state.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_swtnl_state.o: /usr/include/stdbool.h
+svga_swtnl_state.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_swtnl_state.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_swtnl_state.o: /usr/include/stddef.h
+svga_swtnl_state.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_swtnl_state.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_swtnl_state.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_swtnl_state.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_swtnl_state.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_swtnl_state.o: ../../../../src/gallium/auxiliary/draw/draw_vbuf.h
+svga_swtnl_state.o: ../../../../src/gallium/include/pipe/p_inlines.h
+svga_swtnl_state.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_swtnl_state.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_swtnl_state.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_swtnl_state.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_swtnl_state.o: svga_context.h
+svga_swtnl_state.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_swtnl_state.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_swtnl_state.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_swtnl_state.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_swtnl_state.o: svga_swtnl.h svga_state.h svga_swtnl_private.h
+svga_swtnl_state.o: ../../../../src/gallium/auxiliary/draw/draw_vertex.h
+svga_swtnl_state.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_swtnl_state.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_swtnl_state.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_tgsi.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_tgsi.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_tgsi.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_tgsi.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_tgsi.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_tgsi.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_tgsi.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_tgsi.o: /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h
+svga_tgsi.o: /usr/include/i386/signal.h /usr/include/i386/_structs.h
+svga_tgsi.o: /usr/include/sys/_structs.h /usr/include/machine/_structs.h
+svga_tgsi.o: /usr/include/sys/resource.h /usr/include/machine/endian.h
+svga_tgsi.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_tgsi.o: /usr/include/libkern/_OSByteOrder.h
+svga_tgsi.o: /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h
+svga_tgsi.o: /usr/include/machine/types.h /usr/include/i386/types.h
+svga_tgsi.o: /usr/include/string.h /usr/include/secure/_string.h
+svga_tgsi.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_tgsi.o: /usr/include/stdbool.h
+svga_tgsi.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_tgsi.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_tgsi.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_tgsi.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_tgsi.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_tgsi.o: /usr/include/stdarg.h
+svga_tgsi.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_tgsi.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_tgsi.o: /usr/include/stddef.h
+svga_tgsi.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+svga_tgsi.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_dump.h
+svga_tgsi.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_tgsi.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_tgsi.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_tgsi.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_tgsi.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_tgsi.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_tgsi.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_tgsi.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_tgsi.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_tgsi.o: svgadump/svga_shader_dump.h svga_context.h
+svga_tgsi.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_tgsi.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_tgsi.o: svga_tgsi.h svga_hw_reg.h
+svga_tgsi.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_tgsi.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_tgsi.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_tgsi.o: svga_tgsi_emit.h
+svga_tgsi.o: ../../../../src/gallium/drivers/svga/include/svga3d_shaderdefs.h
+svga_tgsi.o: svga_debug.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_tgsi_decl_sm20.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_tgsi_decl_sm20.o: /usr/include/AvailabilityInternal.h
+svga_tgsi_decl_sm20.o: /usr/include/_types.h /usr/include/sys/_types.h
+svga_tgsi_decl_sm20.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+svga_tgsi_decl_sm20.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+svga_tgsi_decl_sm20.o: /usr/include/sys/signal.h
+svga_tgsi_decl_sm20.o: /usr/include/sys/appleapiopts.h
+svga_tgsi_decl_sm20.o: /usr/include/machine/signal.h
+svga_tgsi_decl_sm20.o: /usr/include/i386/signal.h
+svga_tgsi_decl_sm20.o: /usr/include/i386/_structs.h
+svga_tgsi_decl_sm20.o: /usr/include/sys/_structs.h
+svga_tgsi_decl_sm20.o: /usr/include/machine/_structs.h
+svga_tgsi_decl_sm20.o: /usr/include/sys/resource.h
+svga_tgsi_decl_sm20.o: /usr/include/machine/endian.h
+svga_tgsi_decl_sm20.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_tgsi_decl_sm20.o: /usr/include/libkern/_OSByteOrder.h
+svga_tgsi_decl_sm20.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_tgsi_decl_sm20.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_tgsi_decl_sm20.o: /usr/include/i386/types.h /usr/include/string.h
+svga_tgsi_decl_sm20.o: /usr/include/secure/_string.h
+svga_tgsi_decl_sm20.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_tgsi_decl_sm20.o: /usr/include/stdbool.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_tgsi_decl_sm20.o: /usr/include/stdarg.h svga_tgsi_emit.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_tgsi_decl_sm20.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_tgsi_decl_sm20.o: /usr/include/stddef.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_tgsi_decl_sm20.o: svga_hw_reg.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_tgsi_decl_sm20.o: svga_tgsi.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/drivers/svga/include/svga3d_shaderdefs.h
+svga_tgsi_decl_sm20.o: svga_context.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_tgsi_decl_sm20.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_tgsi_decl_sm30.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_tgsi_decl_sm30.o: /usr/include/AvailabilityInternal.h
+svga_tgsi_decl_sm30.o: /usr/include/_types.h /usr/include/sys/_types.h
+svga_tgsi_decl_sm30.o: /usr/include/sys/cdefs.h /usr/include/machine/_types.h
+svga_tgsi_decl_sm30.o: /usr/include/i386/_types.h /usr/include/sys/wait.h
+svga_tgsi_decl_sm30.o: /usr/include/sys/signal.h
+svga_tgsi_decl_sm30.o: /usr/include/sys/appleapiopts.h
+svga_tgsi_decl_sm30.o: /usr/include/machine/signal.h
+svga_tgsi_decl_sm30.o: /usr/include/i386/signal.h
+svga_tgsi_decl_sm30.o: /usr/include/i386/_structs.h
+svga_tgsi_decl_sm30.o: /usr/include/sys/_structs.h
+svga_tgsi_decl_sm30.o: /usr/include/machine/_structs.h
+svga_tgsi_decl_sm30.o: /usr/include/sys/resource.h
+svga_tgsi_decl_sm30.o: /usr/include/machine/endian.h
+svga_tgsi_decl_sm30.o: /usr/include/i386/endian.h /usr/include/sys/_endian.h
+svga_tgsi_decl_sm30.o: /usr/include/libkern/_OSByteOrder.h
+svga_tgsi_decl_sm30.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_tgsi_decl_sm30.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_tgsi_decl_sm30.o: /usr/include/i386/types.h /usr/include/string.h
+svga_tgsi_decl_sm30.o: /usr/include/secure/_string.h
+svga_tgsi_decl_sm30.o: /usr/include/secure/_common.h /usr/include/stdint.h
+svga_tgsi_decl_sm30.o: /usr/include/stdbool.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_tgsi_decl_sm30.o: /usr/include/stdarg.h svga_tgsi_emit.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_tgsi_decl_sm30.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_tgsi_decl_sm30.o: /usr/include/stddef.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_tgsi_decl_sm30.o: svga_hw_reg.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_tgsi_decl_sm30.o: svga_tgsi.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/drivers/svga/include/svga3d_shaderdefs.h
+svga_tgsi_decl_sm30.o: svga_context.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_tgsi_decl_sm30.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
+svga_tgsi_insn.o: ../../../../src/gallium/include/pipe/p_shader_tokens.h
+svga_tgsi_insn.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_tgsi_insn.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_parse.h
+svga_tgsi_insn.o: ../../../../src/gallium/auxiliary/util/u_memory.h
+svga_tgsi_insn.o: ../../../../src/gallium/auxiliary/util/u_pointer.h
+svga_tgsi_insn.o: ../../../../src/gallium/include/pipe/p_compiler.h
+svga_tgsi_insn.o: ../../../../src/gallium/include/pipe/p_config.h
+svga_tgsi_insn.o: /usr/include/stdlib.h /usr/include/Availability.h
+svga_tgsi_insn.o: /usr/include/AvailabilityInternal.h /usr/include/_types.h
+svga_tgsi_insn.o: /usr/include/sys/_types.h /usr/include/sys/cdefs.h
+svga_tgsi_insn.o: /usr/include/machine/_types.h /usr/include/i386/_types.h
+svga_tgsi_insn.o: /usr/include/sys/wait.h /usr/include/sys/signal.h
+svga_tgsi_insn.o: /usr/include/sys/appleapiopts.h
+svga_tgsi_insn.o: /usr/include/machine/signal.h /usr/include/i386/signal.h
+svga_tgsi_insn.o: /usr/include/i386/_structs.h /usr/include/sys/_structs.h
+svga_tgsi_insn.o: /usr/include/machine/_structs.h /usr/include/sys/resource.h
+svga_tgsi_insn.o: /usr/include/machine/endian.h /usr/include/i386/endian.h
+svga_tgsi_insn.o: /usr/include/sys/_endian.h
+svga_tgsi_insn.o: /usr/include/libkern/_OSByteOrder.h
+svga_tgsi_insn.o: /usr/include/libkern/i386/_OSByteOrder.h
+svga_tgsi_insn.o: /usr/include/alloca.h /usr/include/machine/types.h
+svga_tgsi_insn.o: /usr/include/i386/types.h /usr/include/string.h
+svga_tgsi_insn.o: /usr/include/secure/_string.h /usr/include/secure/_common.h
+svga_tgsi_insn.o: /usr/include/stdint.h /usr/include/stdbool.h
+svga_tgsi_insn.o: ../../../../src/gallium/auxiliary/util/u_debug.h
+svga_tgsi_insn.o: /usr/include/stdarg.h svga_tgsi_emit.h
+svga_tgsi_insn.o: ../../../../src/gallium/auxiliary/tgsi/tgsi_scan.h
+svga_tgsi_insn.o: ../../../../src/gallium/include/pipe/p_state.h
+svga_tgsi_insn.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_tgsi_insn.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_tgsi_insn.o: ../../../../src/gallium/auxiliary/util/u_string.h
+svga_tgsi_insn.o: /usr/include/stdio.h /usr/include/secure/_stdio.h
+svga_tgsi_insn.o: /usr/include/stddef.h
+svga_tgsi_insn.o: ../../../../src/gallium/include/pipe/p_refcnt.h
+svga_tgsi_insn.o: ../../../../src/gallium/include/pipe/p_atomic.h
+svga_tgsi_insn.o: ../../../../src/gallium/include/pipe/p_screen.h
+svga_tgsi_insn.o: ../../../../src/gallium/include/pipe/p_format.h
+svga_tgsi_insn.o: ../../../../src/gallium/include/pipe/p_defines.h
+svga_tgsi_insn.o: svga_hw_reg.h
+svga_tgsi_insn.o: ../../../../src/gallium/drivers/svga/include/svga_types.h
+svga_tgsi_insn.o: ../../../../src/gallium/drivers/svga/include/svga3d_reg.h
+svga_tgsi_insn.o: ../../../../src/gallium/drivers/svga/include/svga_reg.h
+svga_tgsi_insn.o: svga_tgsi.h
+svga_tgsi_insn.o: ../../../../src/gallium/drivers/svga/include/svga3d_shaderdefs.h
+svga_tgsi_insn.o: svga_context.h
+svga_tgsi_insn.o: ../../../../src/gallium/include/pipe/p_context.h
+svga_tgsi_insn.o: ../../../../src/gallium/auxiliary/util/u_double_list.h
